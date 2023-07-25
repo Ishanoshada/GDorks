@@ -26,9 +26,18 @@ Google dorks follow a particular syntax using advanced search operators that ref
 - **ext**: Limits results to files with a specific extension (e.g., `ext:php`).
 
 
-## How to Use This Dork List?
+## Usage
 
-Simply copy and paste the dorks from the categories below into Google's search bar, and behold the wonders that await you! 🎁 But remember, with great power comes great responsibility. Use these dorks ethically and responsibly. We promote a safe and secure web exploration!
+1. **Clone the Repository**: Clone this repository to your local machine to access the Google dork list.
+
+```bash
+git clone https://github.com/ishanoshada/GDorks.git
+```
+
+2. **Explore the Dorks**: The `dorks.txt` file in the repository contains a collection of Google dorks. Open the file using any text editor to view and use the dorks for your purposes.
+
+3. **Using Google Dorks**: To use these dorks, simply copy and paste a dork of your choice into the Google search bar or use them with specialized search tools designed for Google hacking. Remember to exercise caution and ensure you are using these dorks responsibly and legally.
+
 
 ## 🔍 Category: Webcams - Peeking into the World
 

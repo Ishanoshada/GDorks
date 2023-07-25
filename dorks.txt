@@ -1,4 +1,18 @@
+:::::::::  ::::    ::: ::::::::::: ::::::::  :::::::::  
+:+:    :+: +:+:+: :+:+:    :+:    :+:    :+: :+:    :+: 
++:+    +:+ +:+ +:+:+ +:+   +:+    +:+        +:+    +:+ 
++#+    +:+ +#+  +:+  +#+   +#+    +#+        +#++:++#:  
++#+    +#+ +#+       +#+   +#+    +#+        +#+    +#+ 
+#+#    #+# #+#       #+#   #+#    #+#    #+# #+#    #+# 
+#########  ###       ###    ###     ########  ###    ### 
+
+Welcome to the Google Dork List - A Collection of Creative Google Hacking Queries!
+
+Explore the power of Google dorks, specialized search queries that reveal hidden secrets, vulnerabilities, and more on the web. Use them responsibly for cybersecurity research, penetration testing, and understanding potential security risks.
 GDrok list by ishanoshada
+------------------------------------------------------------------------
+
+
 
 # Category: Website Vulnerabilities
 intext:"error_reporting(E_ALL)" intitle:"phpinfo()" -github.com

@@ -57,23 +57,3 @@ Contributions to this Google Dork List are welcome! If you know of other useful 
 
 Stay ethical, stay secure! Happy dorking!
 
----
-
-The `dorks.txt` file:
-
-```
-intitle:"Test Page for Apache Server"
-intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!"
-inurl:"/wp-admin/" intitle:"WordPress Administrator Login"
-intitle:"Index of /" "Parent Directory"
-intitle:"Index of /admin"
-intext:"Welcome to phpMyAdmin"
-intext:"phpMyAdmin MySQL-Dump"
-intitle:"RouterOS" inurl:"winbox"
-intitle:"Ubiquiti AirOS"
-filetype:pdf "confidential"
-filetype:log "PHP Error" -"admin"
-intext:"@gmail.com" filetype:txt
-intext:"username" intext:"password" filetype:txt
-```
-

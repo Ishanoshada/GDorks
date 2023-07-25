@@ -52,6 +52,37 @@ intitle:"i-Catcher Console - Web Monitor"
 ...
 ```
 
+## 💉 Category: SQL Injection (SQLi)
+
+SQL Injection is a type of security vulnerability that allows attackers to manipulate a web application's database by injecting malicious SQL code into input fields or parameters. This can lead to unauthorized access, data leakage, or even complete control of the database.
+
+```
+inurl:"product.php?pid="
+inurl:"category.php?id="
+inurl:"news.php?id="
+inurl:"gallery.php?id="
+inurl:"article.php?id="
+inurl:"profile.php?id="
+inurl:"product-list.php?id="
+inurl:"product-detail.php?id="
+...
+```
+
+## 🥷 Category: Cross-Site Scripting (XSS)
+
+Cross-Site Scripting (XSS) is a security vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users. This can lead to session hijacking, cookie theft, or the execution of arbitrary code in the context of the victim's browser.
+
+```
+inurl:"search.php?q="
+inurl:"results.php?q="
+inurl:"gallery.php?name="
+inurl:"blog.php?title="
+inurl:"category.php?name="
+inurl:"faq.php?question="
+inurl:"feedback.php?comment="
+...
+```
+
 ## 🛡️ Category: Vulnerable Servers - Uncovering Weaknesses
 
 Unearth vulnerable servers, weak points, and potential security risks. Help make the web safer by reporting any vulnerabilities you discover. Protect and educate!

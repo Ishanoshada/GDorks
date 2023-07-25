@@ -1,0 +1,2181 @@
+:::::::::  ::::    ::: ::::::::::: ::::::::  :::::::::  
+:+:    :+: +:+:+: :+:+:    :+:    :+:    :+: :+:    :+: 
++:+    +:+ +:+ +:+:+ +:+   +:+    +:+        +:+    +:+ 
++#+    +:+ +#+  +:+  +#+   +#+    +#+        +#++:++#:  
++#+    +#+ +#+       +#+   +#+    +#+        +#+    +#+ 
+#+#    #+# #+#       #+#   #+#    #+#    #+# #+#    #+# 
+#########  ###       ###    ###     ########  ###    ### 
+GDrok list by ishanoshada
+
+Welcome to the Google Dork List - A Collection of Creative Google Hacking Queries!
+
+Explore the power of Google dorks, specialized search queries that reveal hidden secrets, vulnerabilities, and more on the web. Use them responsibly for cybersecurity research, penetration testing, and understanding potential security risks.
+
+------------------------------------------------------------------------
+
+
+# Category: Website Vulnerabilities
+intext:"error_reporting(E_ALL)" intitle:"phpinfo()" -github.com
+intext:"sql_query" inurl:"admin.php" -github.com
+inurl:"config.inc.php" OR inurl:"config/config.ini.php" OR inurl:"config/config.php" -github.com
+intitle:"index of" intext:"wp-config.php" -github.com
+inurl:"upload.php" intext:"File Upload" -github.com
+inurl:"error_log" intext:"PHP Error logs" -github.com
+inurl:"login.php" intext:"Login Page" -github.com
+inurl:"login.html" intext:"Admin Login" -github.com
+
+# Category: Exposed APIs
+intext:"API_KEY" -github.com
+inurl:"api/v1" -github.com
+inurl:"swagger.json" -github.com
+inurl:"/graphql" -github.com
+inurl:"/api-docs" -github.com
+inurl:"/api/v2" -github.com
+inurl:"/api/v3" -github.com
+
+# Category: Sensitive Information
+intext:"-----BEGIN PRIVATE KEY-----" -github.com
+intext:"client_secret" -github.com
+intext:"password" filetype:env -github.com
+intext:"apikey" filetype:env -github.com
+intext:"username" filetype:env -github.com
+intext:"jdbc.password" -github.com
+intext:"oauth.token" -github.com
+
+# Category: Download.php Files
+inurl:download.php?file=
+intitle:"Index of /" inurl:download.php
+intitle:"Download" inurl:download.php
+intitle:"Download File" inurl:download.php
+intitle:"File Download" inurl:download.php
+intitle:"Download Page" inurl:download.php
+intitle:"Download Link" inurl:download.php
+intitle:"Download Resource" inurl:download.php
+intitle:"Download Center" inurl:download.php
+intitle:"Download Manager" inurl:download.php
+intitle:"Download Script" inurl:download.php
+intitle:"File URL" inurl:download.php
+intitle:"File Path" inurl:download.php
+intitle:"Direct Download" inurl:download.php
+intitle:"Downloadable File" inurl:download.php
+intitle:"File Repository" inurl:download.php
+intitle:"File Hosting" inurl:download.php
+intitle:"File Distribution" inurl:download.php
+intitle:"Downloadable Resource" inurl:download.php
+
+# Category: Download.php Files with Parameter Names
+inurl:download.php?file=
+inurl:download.php?name=
+inurl:download.php?filename=
+inurl:download.php?download=
+inurl:download.php?file_id=
+inurl:download.php?file_name=
+inurl:download.php?filepath=
+inurl:download.php?resource=
+inurl:download.php?item=
+inurl:download.php?attachment=
+inurl:download.php?doc=
+inurl:download.php?type=
+inurl:download.php?link=
+inurl:download.php?url=
+inurl:download.php?target=
+inurl:download.php?source=
+inurl:download.php?content=
+inurl:download.php?document=
+inurl:download.php?data=
+inurl:download.php?product=
+inurl:download.php?code=
+inurl:download.php?key=
+inurl:download.php?source_file=
+inurl:download.php?output=
+inurl:download.php?resource_path=
+inurl:download.php?target_file=
+inurl:download.php?resource_url=
+inurl:download.php?file_path=
+inurl:download.php?file_url=
+inurl:download.php?attachment_id=
+inurl:download.php?file_location=
+inurl:download.php?file_path=
+
+# Category: Download.php Files with Different URL Structures
+inurl:"/downloads/download.php?file="
+inurl:"/files/download.php?name="
+inurl:"/file/download.php?filename="
+inurl:"/dl/download.php?file="
+inurl:"/dl/download.php?name="
+inurl:"/dl/download.php?filename="
+inurl:"/getfile/download.php?file="
+inurl:"/getfile/download.php?name="
+inurl:"/getfile/download.php?filename="
+inurl:"/download-files/download.php?file="
+inurl:"/download-files/download.php?name="
+inurl:"/download-files/download.php?filename="
+inurl:"/download-resource/download.php?file="
+inurl:"/download-resource/download.php?name="
+inurl:"/download-resource/download.php?filename="
+inurl:"/file-download/download.php?file="
+inurl:"/file-download/download.php?name="
+inurl:"/file-download/download.php?filename="
+inurl:"/content-download/download.php?file="
+inurl:"/content-download/download.php?name="
+inurl:"/content-download/download.php?filename="
+inurl:"/resource-download/download.php?file="
+inurl:"/resource-download/download.php?name="
+inurl:"/resource-download/download.php?filename="
+inurl:"/download-link/download.php?url="
+inurl:"/download-link/download.php?link="
+inurl:"/download-link/download.php?source="
+inurl:"/download-link/download.php?content="
+inurl:"/download-link/download.php?document="
+
+# Category: Backup Files
+intitle:"index of" "backup" -github.com
+intitle:"index of" "backups" -github.com
+inurl:"/backup/" -github.com
+inurl:"/backup" -github.com
+intext:"backup.sql" -github.com
+intext:"backup.zip" -github.com
+inurl:"/backup" filetype:zip -github.com
+
+# Category: Login Pages
+intitle:"Login" inurl:"admin" -github.com
+intitle:"Sign In" inurl:"admin" -github.com
+intitle:"Member Login" -github.com
+intitle:"User Login" -github.com
+intitle:"Staff Login" -github.com
+
+# SQL Injection Vulnerabilities
+inurl:index.php?id=
+inurl:article.php?id=
+inurl:gallery.php?id=
+inurl:news.php?id=
+inurl:product.php?id=
+inurl:category.php?id=
+inurl:content.php?id=
+inurl:download.php?id=
+inurl:profile.php?id=
+inurl:shop.php?id=
+inurl:show.php?id=
+inurl:item.php?id=
+inurl:review.php?id=
+inurl:read.php?id=
+inurl:faq.php?id=
+inurl:search.php?id=
+inurl:archive.php?id=
+inurl:event.php?id=
+inurl:calendar.php?id=
+inurl:login.php?id=
+inurl:register.php?id=
+inurl:checkout.php?id=
+inurl:confirm.php?id=
+inurl:process.php?id=
+
+# SQLi Error Messages
+filetype:php intext:"SQL syntax"
+filetype:asp inurl:"id=" intext:"OleDbException"
+filetype:log intext:"You have an error in your SQL syntax"
+
+# SQLi Vulnerable URLs
+inurl:".php?param="
+inurl:".php?id="
+inurl:"page.php?id="
+inurl:"product-detail.php?id="
+inurl:"viewitem.php?id="
+inurl:"news_detail.php?id="
+inurl:"post.php?id="
+inurl:"event.php?id="
+inurl:"category.php?id="
+inurl:"download.php?id="
+inurl:"content.php?id="
+
+# SQLi Vulnerable Parameters
+inurl:"index.php?id="
+inurl:"gallery.php?id="
+inurl:"news.php?id="
+inurl:"product.php?id="
+inurl:"category.php?id="
+inurl:"content.php?id="
+inurl:"download.php?id="
+inurl:"profile.php?id="
+inurl:"shop.php?id="
+inurl:"show.php?id="
+inurl:"item.php?id="
+inurl:"review.php?id="
+inurl:"read.php?id="
+inurl:"faq.php?id="
+inurl:"search.php?id="
+inurl:"archive.php?id="
+inurl:"event.php?id="
+inurl:"calendar.php?id="
+inurl:"login.php?id="
+inurl:"register.php?id="
+inurl:"checkout.php?id="
+inurl:"confirm.php?id="
+inurl:"process.php?id="
+
+# SQLi Vulnerable Parameters in Query String
+inurl:*.php?*
+inurl:*.asp?*
+inurl:*.aspx?*
+inurl:*.jsp?*
+
+# SQLi Error-Based Messages
+filetype:asp "OleDbException"
+filetype:log "SQL syntax"
+filetype:txt "SQL syntax error"
+
+# SQLi Union-Based Messages
+filetype:txt "union select"
+filetype:log "union select"
+
+# SQLi Error Messages with Database Information
+filetype:txt "mysqli_num_rows()"
+filetype:log "mysql_fetch_array()"
+
+# SQLi Order By Statements
+filetype:txt "ORDER BY"
+filetype:log "ORDER BY"
+
+# SQLi Vulnerable Websites
+inurl:".php?category_id="
+inurl:".php?product_id="
+inurl:".php?article_id="
+inurl:".php?post_id="
+inurl:".php?event_id="
+inurl:".php?calendar_id="
+inurl:".php?news_id="
+inurl:".php?item_id="
+
+# SQLi Vulnerable Parameters with Error Messages
+inurl:".php?id="
+intext:"You have an error in your SQL syntax near"
+intext:"SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near"
+intext:"query failed: ERROR: parser: parse error"
+
+# SQLi Vulnerable Login Pages
+inurl:"login.php?username="
+inurl:"login.aspx?user="
+inurl:"signin.php?user="
+inurl:"auth.php?user="
+inurl:"signin.asp?user="
+inurl:"login.jsp?user="
+
+# SQLi Vulnerable Search Pages
+inurl:"search.php?query="
+inurl:"search.aspx?keyword="
+inurl:"search.asp?q="
+inurl:"search.jsp?query="
+
+# SQLi Vulnerable User Profile Pages
+inurl:"profile.php?user_id="
+inurl:"profile.aspx?userid="
+inurl:"user.php?id="
+inurl:"user.aspx?user_id="
+
+# SQLi Vulnerable Product Pages
+inurl:"product.php?pid="
+inurl:"product.aspx?id="
+inurl:"item.php?item_id="
+inurl:"item.aspx?prodid="
+
+# SQLi Vulnerable Forum Pages
+inurl:"forum.php?topic="
+inurl:"forum.aspx?topic_id="
+inurl:"thread.php?tid="
+inurl:"thread.aspx?threadid="
+
+# SQLi Vulnerable News Pages
+inurl:"news.php?nid="
+inurl:"news.aspx?newsid="
+inurl:"article.php?article_id="
+inurl:"article.aspx?id="
+
+# SQLi Vulnerable Category Pages
+inurl:"category.php?cat_id="
+inurl:"category.aspx?id="
+
+# SQLi Vulnerable Blog Pages
+inurl:"blog.php?post_id="
+inurl:"blog.aspx?id="
+
+# SQLi Vulnerable Register Pages
+inurl:"register.php?user="
+inurl:"register.aspx?username="
+inurl:"signup.php?username="
+
+# SQLi Vulnerable Forgot Password Pages
+inurl:"forgot_password.php?email="
+inurl:"forgotpassword.aspx?email="
+
+# SQLi Vulnerable Contact Pages
+inurl:"contact.php?name="
+inurl:"contact.aspx?fullname="
+
+# SQLi Vulnerable Feedback Pages
+inurl:"feedback.php?message="
+inurl:"feedback.aspx?msg="
+
+# SQLi Vulnerable Survey Pages
+inurl:"survey.php?survey_id="
+inurl:"survey.aspx?id="
+
+# SQLi Vulnerable Poll Pages
+inurl:"poll.php?id="
+inurl:"poll.aspx?pollid="
+
+# SQLi Vulnerable Comments Pages
+inurl:"comments.php?post_id="
+inurl:"comments.aspx?postid="
+
+# SQLi Vulnerable CMS Pages
+inurl:"cms.php?page_id="
+inurl:"cms.aspx?id="
+
+# SQLi Vulnerable E-commerce Pages
+inurl:"checkout.php?order_id="
+
+# Category: Cross-Site Scripting (XSS)
+inurl:/search?query=<script>alert('XSS')</script>
+inurl:/login?username=<script>alert('XSS')</script>
+inurl:/signin?email=<script>alert('XSS')</script>
+inurl:/register?fullname=<script>alert('XSS')</script>
+inurl:/contact?message=<script>alert('XSS')</script>
+inurl:/comment?text=<script>alert('XSS')</script>
+inurl:/feedback?subject=<script>alert('XSS')</script>
+inurl:/guestbook?message=<script>alert('XSS')</script>
+inurl:/feedback?comment=<script>alert('XSS')</script>
+inurl:/post?body=<script>alert('XSS')</script>
+inurl:/search?q=<script>alert('XSS')</script>
+inurl:/profile?username=<script>alert('XSS')</script>
+inurl:/user?name=<script>alert('XSS')</script>
+inurl:/about?content=<script>alert('XSS')</script>
+inurl:/portfolio?project=<script>alert('XSS')</script>
+inurl:/testimonial?feedback=<script>alert('XSS')</script>
+
+# Category: XSS in JavaScript Files
+filetype:js "<script>alert('XSS')</script>"
+filetype:js "document.write('<script>alert('XSS')</script>')"
+filetype:js "window.location.href='javascript:alert('XSS')'"
+filetype:js "eval('<script>alert('XSS')</script>')"
+
+# Category: XSS in HTML Files
+filetype:html "<script>alert('XSS')</script>"
+filetype:html "onload=alert('XSS')"
+filetype:html "onclick=alert('XSS')"
+filetype:html "onmouseover=alert('XSS')"
+
+# Category: XSS in URL Parameters
+inurl:/page?name=<script>alert('XSS')</script>
+inurl:/search?query=<script>alert('XSS')</script>
+inurl:/profile?id=<script>alert('XSS')</script>
+inurl:/article?title=<script>alert('XSS')</script>
+inurl:/post?id=<script>alert('XSS')</script>
+inurl:/search?query=<script>alert('XSS')</script>
+inurl:/view?item=<script>alert('XSS')</script>
+inurl:/category?name=<script>alert('XSS')</script>
+
+# Category: XSS in Form Fields
+intext:"<form action" "<input type='text' onfocus='alert('XSS')'>"
+intext:"<form action" "<textarea onfocus='alert('XSS')'></textarea>"
+intext:"<form action" "<input type='password' onfocus='alert('XSS')'>"
+intext:"<form action" "<input type='email' onfocus='alert('XSS')'>"
+intext:"<form action" "<input type='url' onfocus='alert('XSS')'>"
+intext:"<form action" "<input type='tel' onfocus='alert('XSS')'>"
+intext:"<form action" "<input type='number' onfocus='alert('XSS')'>"
+
+# Category: XSS in Event Handlers
+intext:"<button onclick='alert('XSS')'>Click Me</button>"
+intext:"<a href='#' onclick='alert('XSS')'>Click Here</a>"
+intext:"<div onmouseover='alert('XSS')'>Hover Me</div>"
+intext:"<img src='x' onerror='alert('XSS')'>"
+intext:"<input type='text' onblur='alert('XSS')'>"
+intext:"<select onchange='alert('XSS')'><option>Select</option></select>"
+
+# Category: Exposed Documents
+filetype:doc OR filetype:docx OR filetype:ppt OR filetype:pptx OR filetype:xls OR filetype:xlsx OR filetype:pdf -github.com
+
+# Category: Exposed Source Code
+inurl:"/src/" -github.com
+inurl:"/source/" -github.com
+inurl:"/code/" -github.com
+inurl:"/src/" language:python -github.com
+inurl:"/src/" language:java -github.com
+inurl:"/src/" language:javascript -github.com
+
+# Category: Wordpress Configuration Files
+filetype:php intext:"DB_PASSWORD" -github.com
+filetype:php intext:"DB_HOST" -github.com
+filetype:php intext:"DB_USER" -github.com
+filetype:php intext:"DB_NAME" -github.com
+
+# Category: Open Directory Listings
+intitle:"Index of /" + "backup" -github.com
+intitle:"Index of /" + "uploads" -github.com
+intitle:"Index of /" + "confidential" -github.com
+
+# Category: Exposed Private Keys
+filetype:txt "private_key" -github.com
+filetype:txt "private.key" -github.com
+filetype:txt "private_key.pem" -github.com
+filetype:txt "private_key.txt" -github.com
+
+# Category: Sensitive Files
+filetype:log inurl:"access.log" -github.com
+filetype:log inurl:"error.log" -github.com
+filetype:log inurl:"debug.log" -github.com
+filetype:log inurl:"application.log" -github.com
+
+# Category: Open Redirect Vulnerabilities
+inurl:"redirect?to=" -github.com
+inurl:"out?url=" -github.com
+inurl:"link?url=" -github.com
+inurl:"/go?url=" -github.com
+inurl:"/out?url=" -github.com
+
+# Category: Git Repository Files
+filetype:gitweb inurl:"/?a=summary" -github.com
+filetype:git inurl:".gitignore" -github.com
+filetype:git inurl:"config" -github.com
+filetype:git inurl:"HEAD" -github.com
+filetype:git inurl:"index" -github.com
+filetype:git inurl:"packed-refs" -github.com
+filetype:git inurl:"hooks" -github.com
+filetype:git inurl:"info" -github.com
+
+# Category: Network Devices
+intitle:"RouterOS" inurl:"winbox" -github.com
+intitle:"Ubiquiti" intext:"airOS" -github.com
+intitle:"MikroTik" intext:"Webfig" -github.com
+intitle:"Ubiquiti" intext:"Rocket M5" -github.com
+intitle:"Ubiquiti" intext:"Rocket M2" -github.com
+intitle:"Ubiquiti" intext:"RocketDish" -github.com
+intitle:"Ubiquiti" intext:"NanoBeam" -github.com
+
+# Category: Apache Tomcat
+intitle:"Apache Tomcat" intext:"Apache Tomcat" -github.com
+intitle:"Tomcat Manager Application" -github.com
+intitle:"Apache Tomcat/7.0.5" intext:"If you're seeing this, you've successfully installed Tomcat." -github.com
+intitle:"Tomcat Server Administration" -github.com
+
+# Category: Wordpress Installation Files
+filetype:log inurl:"wp-content/install.php" -github.com
+filetype:log inurl:"wp-content/upgrade-log.php" -github.com
+
+# Category: AWS Access Keys
+filetype:pem intext:"AWS_ACCESS_KEY_ID" -github.com
+
+# Category: Webcams
+inurl:/view.shtml
+intitle:"Live View / - AXIS"
+intitle:"Live View / - AXIS 206M"
+inurl:/control/userimage.html
+intitle:"Toshiba Network Camera" user login
+intitle:"i-Catcher Console - Web Monitor"
+intitle:"Live NetSnap Cam-Server feed"
+inurl:"/axis-cgi/mjpg"
+intitle:"Live View / - AXIS 210"
+intitle:"Live View / - AXIS 2400 Video Server"
+inurl:/view/index.shtml
+intitle:"Live View / - AXIS 240"
+inurl:/mjpg/video.mjpg
+intitle:"Live View / - AXIS 206W"
+inurl:/axis-cgi/jpg
+intitle:"Toshiba Network Camera" user login
+intitle:"i-Catcher Console - Web Monitor"
+intitle:"Live NetSnap Cam-Server feed"
+
+# Category: Vulnerable Servers
+intitle:"Test Page for the Apache Web Server on Fedora Core"
+intitle:"Apache Status" "Server Version: Apache"
+intitle:"Index of" "CentOS" "Test Page"
+intitle:"Index of /" "Apache/2.2.3 (CentOS)"
+intitle:"Test Page for the Nginx HTTP Server"
+intitle:"Index of /" "Apache/2.2.3 (Ubuntu)"
+intitle:"Index of /" "Apache/2.2.3 (Red Hat)"
+intitle:"Index of /" "Apache/2.2.3 (Fedora)"
+intitle:"Welcome to nginx!" "Welcome to nginx on Debian!"
+
+# Category: Sensitive Directories
+intitle:"Index of /admin"
+intitle:"Index of /backup"
+intitle:"Index of /config"
+intitle:"Index of /database"
+intitle:"Index of /logs"
+intitle:"Index of /password"
+intitle:"Index of /private"
+intitle:"Index of /secret"
+intitle:"Index of /temp"
+intitle:"Index of /upload"
+intitle:"Index of /www"
+
+# Category: Database Files
+filetype:sql intext:username password
+filetype:sql "insert into" (pass|passwd|password)
+filetype:sql "values" "username" "password"
+filetype:sql "VALUES" "username" "password"
+filetype:sql "CREATE USER" username identified by password
+filetype:sql "CREATE USER" username identified by "password"
+filetype:sql "CREATE USER" username identified by 'password'
+filetype:sql "CREATE USER" username identified by PASSWORD
+filetype:sql "GRANT ALL PRIVILEGES" ON database.* TO "username"@"%"
+filetype:sql "GRANT ALL PRIVILEGES" ON database.* TO "username"@"localhost"
+filetype:sql "GRANT ALL PRIVILEGES" ON *.* TO "username"@"%"
+filetype:sql "GRANT ALL PRIVILEGES" ON *.* TO "username"@"localhost"
+
+# Category: Cross-Site Scripting (XSS) Vulnerabilities
+inurl:".php?param=<script>"
+inurl:".aspx?param=<script>"
+inurl:".jsp?param=<script>"
+inurl:".cgi?param=<script>"
+inurl:".js?param=<script>"
+inurl:".html?param=<script>"
+
+# Category: SQL Injection Vulnerabilities
+inurl:".php?id="
+inurl:".aspx?id="
+inurl:".jsp?id="
+inurl:".cgi?id="
+inurl:".pl?id="
+inurl:".cfm?id="
+
+# Category: Remote Code Execution (RCE) Vulnerabilities
+inurl:".php?cmd="
+inurl:".aspx?cmd="
+inurl:".jsp?cmd="
+inurl:".cgi?cmd="
+inurl:".pl?cmd="
+inurl:".cfm?cmd="
+
+# Category: Local File Inclusion (LFI) Vulnerabilities
+inurl:".php?file="
+inurl:".aspx?file="
+inurl:".jsp?file="
+inurl:".cgi?file="
+inurl:".pl?file="
+inurl:".cfm?file="
+
+# Category: Directory Traversal Vulnerabilities
+inurl:".php?dir="
+inurl:".aspx?dir="
+inurl:".jsp?dir="
+inurl:".cgi?dir="
+inurl:".pl?dir="
+inurl:".cfm?dir="
+
+# Category: Remote File Inclusion (RFI) Vulnerabilities
+inurl:".php?file=http://"
+inurl:".aspx?file=http://"
+inurl:".jsp?file=http://"
+inurl:".cgi?file=http://"
+inurl:".pl?file=http://"
+inurl:".cfm?file=http://"
+
+# Category: Information Disclosure Vulnerabilities
+inurl:".php?file=info"
+inurl:".aspx?file=info"
+inurl:".jsp?file=info"
+inurl:".cgi?file=info"
+inurl:".pl?file=info"
+inurl:".cfm?file=info"
+
+# Category: Server Misconfigurations
+intitle:"Index of /private" OR "Index of /backup" OR "Index of /log" OR "Index of /logs"
+
+# Category: Open Elasticsearch Instances
+intitle:"Welcome to Elastic"
+intitle:"ElasticSearch" AND "Cluster" AND "Summary"
+intitle:"Kibana" AND "Elastic" AND "Console"
+
+# Category: Open MongoDB Instances
+intitle:"MongoDB Status"
+intitle:"Mongodb Server Status"
+
+# Category: Exposed Git Repositories
+intitle:"Index of /.git"
+
+# Category: Exposed Jenkins Instances
+intitle:"Dashboard [Jenkins]"
+intitle:"Dashboard [Hudson]"
+
+# Category: Exposed Grafana Instances
+intitle:"Grafana" inurl:/login
+
+# Category: Exposed Jenkins Files
+filetype:xml inurl:jenkins
+
+# Category: Exposed SonarQube Instances
+intitle:"SonarQube" inurl:/dashboard
+
+# Category: Exposed Atlassian Confluence Instances
+intitle:"Confluence" AND "Log In"
+
+# Category: Exposed Atlassian JIRA Instances
+intitle:"JIRA" AND "Log In"
+
+# Category: Exposed Atlassian Bamboo Instances
+intitle:"Bamboo" AND "Log in"
+
+# Category: Exposed Atlassian Bitbucket Instances
+intitle:"Bitbucket" AND "Log in"
+
+# Category: Exposed Jenkins Groovy Scripts
+filetype:groovy "Jenkins-CLI"
+
+# Category: Exposed Jenkins Backup Files
+filetype:zip OR filetype:tar.gz OR filetype:tar inurl:jenkins AND inurl:backup
+
+# Category: Exposed Database Backup Files
+filetype:sql inurl:backup
+
+# Category: Exposed GitLab Instances
+intitle:"GitLab" AND "Sign in"
+
+# Category: Exposed Nexus Repository Manager Instances
+intitle:"Nexus Repository Manager"
+
+# Category: Exposed Artifactory Instances
+intitle:"Artifactory Repository"
+
+# Category: Exposed Sonatype Nexus Instances
+
+# Category: Login Pages
+intitle:"Login" inurl:/login
+intitle:"Login" inurl:/signin
+intitle:"Login" inurl:/log-in
+intitle:"Login" inurl:/sign-in
+intitle:"Login" inurl:/account/login
+intitle:"Login" inurl:/user/login
+intitle:"Login" inurl:/members/login
+intitle:"Login" inurl:/auth/login
+intitle:"Login" inurl:/signin
+intitle:"Login" inurl:/log-in
+intitle:"Login" inurl:/sign-in
+intitle:"Login" inurl:/account/login
+intitle:"Login" inurl:/user/login
+intitle:"Login" inurl:/members/login
+intitle:"Login" inurl:/auth/login
+
+# Category: Network Devices
+intitle:"RouterOS" inurl:/winbox
+intitle:"Ubiquiti" intext:"airOS"
+intitle:"MikroTik" intext:"Webfig"
+intitle:"MikroTik" intext:"Chimay Red"
+intitle:"Ubiquiti" intext:"Rocket M5"
+intitle:"Ubiquiti" intext:"Rocket M2"
+intitle:"Ubiquiti" intext:"RocketDish"
+intitle:"Ubiquiti" intext:"NanoBeam"
+intitle:"Ubiquiti" intext:"NanoStation"
+intitle:"Ubiquiti" intext:"PowerBeam"
+intitle:"Ubiquiti" intext:"LiteBeam"
+intitle:"Ubiquiti" intext:"ToughSwitch"
+intitle:"Ubiquiti" intext:"EdgeRouter"
+intitle:"Ubiquiti" intext:"EdgeMax"
+
+# Category: CCTV Systems
+intitle:"DVR Login" inurl:/login.htm
+intitle:"DVR User Login" inurl:/login.htm
+intitle:"DVR User Login" inurl:/logon.htm
+intitle:"DVR User Login" inurl:/login.html
+intitle:"DVR User Login" inurl:/login.html
+intitle:"DVR User Login" inurl:/logon.html
+intitle:"DVR User Login" inurl:/login.asp
+intitle:"DVR User Login" inurl:/logon.asp
+intitle:"DVR User Login" inurl:/login.aspx
+intitle:"DVR User Login" inurl:/logon.aspx
+
+# Category: Apache Tomcat
+intitle:"Apache Tomcat" intext:"Apache Tomcat"
+intitle:"Tomcat Manager Application"
+intitle:"Tomcat Status" "Tomcat Web Application Manager"
+intitle:"Apache Tomcat/7.0.5" intext:"If you're seeing this, you've successfully installed Tomcat."
+intitle:"Tomcat Server Administration"
+intitle:"Tomcat Web Application Manager"
+intitle:"Tomcat" intext:"Welcome to Tomcat"
+intitle:"Apache Tomcat" intext:"Tomcat Server Administration"
+intitle:"Apache Tomcat" intext:"Tomcat Web Application Manager"
+
+# Category: Error Messages
+intext:"Error 404: Not Found"
+intext:"Error 403: Forbidden"
+intext:"Error 500: Internal Server Error"
+intext:"Error 502: Bad Gateway"
+intext:"Error 503: Service Unavailable"
+intext:"Error 504: Gateway Timeout"
+intext:"Error 505: HTTP Version Not Supported"
+intext:"Error 506: Variant Also Negotiates"
+intext:"Error 507: Insufficient Storage"
+intext:"Error 508: Loop Detected"
+intext:"Error 509: Bandwidth Limit Exceeded"
+intext:"Error 510: Not Extended"
+intext:"Error 511: Network Authentication Required"
+intext:"Error 520: Unknown Error"
+intext:"Error 521: Web Server Is Down"
+intext:"Error 522: Connection Timed Out"
+intext:"Error 523: Origin Is Unreachable"
+intext:"Error 524: A Timeout Occurred"
+intext:"Error 525: SSL Handshake Failed"
+intext:"Error 526: Invalid SSL Certificate"
+intext:"Error 527: Railgun Error"
+intext:"Error 529: Site is overloaded"
+intext:"Error 530: Site is frozen"
+intext:"Error 503: Backend is unhealthy"
+intext:"Error 530: Origin DNS Error"
+
+# Category: Git Repository Files
+filetype:gitweb inurl:git
+filetype:git "NOTICE OR LICENSE"
+filetype:git "This file is a placeholder for the README file"
+filetype:git "This file should contain a short description of the repository."
+filetype:git "This file is used to list changes made in each version of the project."
+filetype:git "This file contains important notes for the release."
+filetype:git "This file is part of the git package."
+filetype:git "This file contains release notes for the changes in each release."
+
+# Category: Open Redirect Vulnerabilities
+inurl:redir?url=
+inurl:url=
+inurl:redirect?url=
+inurl:link?url=
+inurl:out?url=
+inurl:to?url=
+inurl:go?url=
+inurl:redirect?url=
+inurl:open?url=
+inurl:out?url=
+inurl:leave?url=
+
+# Category: Zero Vuln
+inurl:"/.well-known/security.txt"
+inurl:"/.well-known/security"
+inurl:"/.git/HEAD"
+inurl:"/.git/config"
+inurl:"/.git/COMMIT_EDITMSG"
+inurl:"/.git/description"
+inurl:"/.git/hooks"
+inurl:"/.git/index"
+inurl:"/.git/refs"
+inurl:"/.env"
+inurl:"/.vscode/settings.json"
+inurl:"/.vscode/extensions.json"
+inurl:"/cgi-bin/config.bin"
+inurl:"/cgi-bin/login.bin"
+inurl:"/cgi-bin/param.bin"
+inurl:"/cgi-bin/webcm"
+inurl:"/cgi-bin/wpa.cgi"
+inurl:"/cgi-bin/handler"
+inurl:"/cgi-bin/status"
+inurl:"/cgi-bin/Network"
+inurl:"/cgi-bin/admin"
+inurl:"/cgi-bin/testcgi"
+inurl:"/cgi-bin/test-cgi"
+inurl:"/cgi-bin/test"
+inurl:"/cgi-bin/php"
+inurl:"/cgi-bin/php5"
+inurl:"/cgi-bin/php4"
+inurl:"/cgi-bin/phpinfo"
+inurl:"/cgi-bin/phpinfo.php"
+inurl:"/cgi-bin/phptest.cgi"
+inurl:"/cgi-bin/test.cgi"
+inurl:"/cgi-bin/admin.cgi"
+inurl:"/cgi-bin/admin.pl"
+inurl:"/cgi-bin/test.pl"
+inurl:"/cgi-bin/test.sh"
+inurl:"/cgi-bin/status"
+inurl:"/cgi-bin/webmail.cgi"
+inurl:"/cgi-bin/php.ini"
+inurl:"/cgi-bin/.htaccess"
+inurl:"/cgi-bin/phpinfo.php"
+inurl:"/cgi-bin/db.cgi"
+inurl:"/cgi-bin/db.pl"
+inurl:"/cgi-bin/sql.cgi"
+inurl:"/cgi-bin/sqlite.cgi"
+inurl:"/cgi-bin/db.php"
+inurl:"/cgi-bin/db.pl"
+inurl:"/cgi-bin/db2.cgi"
+inurl:"/cgi-bin/dbtest.cgi"
+inurl:"/cgi-bin/dbsql.cgi"
+inurl:"/cgi-bin/dbsql.pl"
+inurl:"/cgi-bin/mysql.cgi"
+inurl:"/cgi-bin/mysql.pl"
+inurl:"/cgi-bin/mysqlmanager.cgi"
+inurl:"/cgi-bin/mysqlmanager.pl"
+inurl:"/cgi-bin/mydb.cgi"
+inurl:"/cgi-bin/oracle.cgi"
+inurl:"/cgi-bin/dbconnect.cgi"
+inurl:"/cgi-bin/mysqldb.cgi"
+inurl:"/cgi-bin/websql.cgi"
+inurl:"/cgi-bin/webdb.cgi"
+inurl:"/cgi-bin/webdb2.cgi"
+inurl:"/cgi-bin/webdbtest.cgi"
+inurl:"/cgi-bin/acsscheduler.cgi"
+inurl:"/cgi-bin/sqwebmail"
+inurl:"/cgi-bin/w3-msql"
+inurl:"/cgi-bin/dataweb"
+inurl:"/cgi-bin/jam.pl"
+inurl:"/cgi-bin/jamcgi"
+inurl:"/cgi-bin/jamweb.cgi"
+inurl:"/cgi-bin/jamtest.cgi"
+inurl:"/cgi-bin/jamsql.cgi"
+inurl:"/cgi-bin/sqldata"
+inurl:"/cgi-bin/sqldb"
+inurl:"/cgi-bin/sqlweb"
+inurl:"/cgi-bin/sqlcgi"
+inurl:"/cgi-bin/sqltest"
+inurl:"/cgi-bin/sqlshell"
+inurl:"/cgi-bin/sqlsh"
+inurl:"/cgi-bin/lsdb"
+inurl:"/cgi-bin/lsdb2"
+inurl:"/cgi-bin/xsql"
+inurl:"/cgi-bin/xsql2"
+inurl:"/cgi-bin/webcgi"
+inurl:"/cgi-bin/pagelog.cgi"
+inurl:"/cgi-bin/getlog.cgi"
+inurl:"/cgi-bin/testlog.cgi"
+inurl:"/cgi-bin/logs.cgi"
+inurl:"/cgi-bin/weblogs"
+inurl:"/cgi-bin/testlogs"
+
+
+
+# Category: Wordpress Sites
+inurl:/wp-admin
+inurl:/wp-login
+inurl:/wp-content
+inurl:/wp-includes
+inurl:/xmlrpc.php
+inurl:/readme.html
+inurl:/license.txt
+inurl:/wp-json
+inurl:/wp-trackback
+inurl:/wp-xmlrpc
+inurl:/wp-links-opml
+inurl:/wp-comments-post
+inurl:/wp-feed
+inurl:/wp-mail
+inurl:/wp-rss
+inurl:/wp-tag
+inurl:/wp-embed
+inurl:/wp-login.php?action=register
+
+# Category: FTP Servers
+intitle:"FTP root at"
+intitle:"FTP Server" inurl:/ftp
+intitle:"Index of /ftp"
+intitle:"Index of /" "FTP root"
+intitle:"Index of /" inurl:/ftp
+
+# Category: Configuration Files
+filetype:conf inurl:web.config
+filetype:conf inurl:httpd.conf
+filetype:conf inurl:php.ini
+filetype:conf inurl:my.cnf
+filetype:conf inurl:config.inc.php
+filetype:conf inurl:config.php
+filetype:conf inurl:settings.php
+filetype:conf inurl:application.properties
+filetype:conf inurl:application.yml
+filetype:conf inurl:database.yml
+filetype:conf inurl:connectionStrings.config
+filetype:conf inurl:settings.xml
+filetype:conf inurl:connections.xml
+
+# Category: PHP Info Files
+filetype:php inurl:info
+filetype:php inurl:phpinfo
+
+# Category: WordPress Configuration Files
+filetype:txt inurl:wp-config
+
+# Category: WordPress Backup Files
+filetype:sql "WordPress" "backup"
+
+# Category: Wordpress Installation Files
+filetype:log inurl:wp-content/install.php
+filetype:log inurl:wp-content/upgrade-log.php
+
+# Category: Error Logs
+filetype:log "PHP Fatal error" OR "PHP Parse error" OR "PHP Warning" OR "PHP Error"
+
+# Category: Login Credentials
+filetype:log "login" "password"
+filetype:log "username" "password"
+filetype:log "user" "pass"
+
+# Category: Sensitive Information
+filetype:log "secret_key"
+filetype:log "password"
+
+# Category: Open Directory Listings
+intitle:"Index of /" + "backup"
+
+# Category: AWS Access Keys
+filetype:pem intext:PRIVATE KEY
+
+# Category: Configuration Files
+filetype:env intext:AWS_SECRET_ACCESS_KEY
+
+# Category: Google Drive Links
+inurl:"/uc?id="
+
+# Category: Apache Access Logs
+filetype:log inurl:apache.log
+
+# Category: Nginx Access Logs
+filetype:log inurl:nginx.log
+
+# Category: Exposed Sensitive Files
+filetype:doc OR filetype:docx OR filetype:xls OR filetype:xlsx OR filetype:ppt OR filetype:pptx
+intitle:"Index of" (doc|docx|xls|xlsx|ppt|pptx)
+
+# Category: Exposed Credentials
+filetype:txt "username" AND "password"
+filetype:txt "user" AND "pass"
+filetype:log "login: *" AND "password: *"
+
+# Category: Network Devices (Specific Brands)
+intitle:"Ubiquiti" intext:"EdgeRouter"
+intitle:"Ubiquiti" intext:"EdgeMax"
+intitle:"Ubiquiti" intext:"UniFi Controller"
+intitle:"MikroTik" intext:"RouterOS"
+
+# Category: Directory Listings
+intitle:"Index of /" "Parent Directory"
+intitle:"Index of /" "Last modified"
+intitle:"Index of /" "Name"
+intitle:"Index of /" "Size"
+intitle:"Index of /" "Description"
+intitle:"Index of /" "Modified"
+intitle:"Index of /" "Parent Directory"
+intitle:"Index of /" "Windows 2003 Server"
+
+# Category: Open Redirect Vulnerabilities (Specific URLs)
+inurl:"redirect?to="
+inurl:"out?to="
+inurl:"go?to="
+inurl:"to?url="
+inurl:"link?to="
+inurl:"url?url="
+inurl:"redir?url="
+
+# Category: WordPress Backup Files
+filetype:zip "wp-content"
+
+# Category: MongoDB Databases
+inurl:/mongodb/port
+
+# Category: MySQL Databases
+intext:"-- phpMyAdmin SQL Dump"
+
+# Category: PostgreSQL Databases
+intext:"-- PostgreSQL database dump"
+
+# Category: Oracle Databases
+intext:"-- Oracle SQL Dump"
+
+# Category: Microsoft SQL Server Databases
+intext:"-- Dumping data for table"
+
+# Category: FTP Servers (Specific Brands)
+intitle:"FileZilla Server"
+
+# Category: Open Elasticsearch Instances
+inurl:"9200/_cat/indices"
+
+# Category: Open MongoDB Instances
+inurl:"27017"
+
+# Category: Open Redis Instances
+inurl:"6379"
+
+# Category: Open Memcached Instances
+inurl:"11211"
+
+# Category: Open VNC Instances
+inurl:"5800" OR inurl:"5900"
+
+# Category: Open RDP Instances
+inurl:"3389"
+
+# Category: Open Telnet Instances
+inurl:"23"
+
+# Category: Open SNMP Instances
+inurl:"161"
+
+# Category: Open MySQL Instances
+inurl:"3306"
+
+# Category: Open PostgreSQL Instances
+inurl:"5432"
+
+# Category: Open Rsync Instances
+inurl:"873"
+
+# Category: Open ElasticSearch Instances
+inurl:"9200"
+
+# Category: Open Jenkins Instances
+intext:"Dashboard [Jenkins]"
+
+# Category: Exposed Git Repositories
+filetype:git "Repository"
+filetype:git "Index of /"
+
+# Category: Sensitive Information in Configuration Files
+filetype:env "MAIL_USERNAME"
+filetype:env "MAIL_PASSWORD"
+filetype:env "DB_USERNAME"
+filetype:env "DB_PASSWORD"
+filetype:env "SECRET_KEY"
+
+# Category: Wordpress wp-config Backup Files
+filetype:sql "wp-config" "Backup"
+
+# Category: Wordpress Configuration Backup Files
+filetype:zip "wp-content" "backup"
+
+# Category: Wordpress Plugins with Vulnerabilities
+inurl:/wp-content/plugins/ "index of /"
+
+# Category: Joomla Configuration Files
+filetype:txt inurl:configuration.php
+
+# Category: Subdomains
+site:*.example.com
+site:*.example.net
+site:*.example.org
+
+# Category: Directory Listings
+intitle:"Index of /" + "admin"
+intitle:"Index of /" + "backup"
+intitle:"Index of /" + "logs"
+intitle:"Index of /" + "config"
+intitle:"Index of /" + "database"
+intitle:"Index of /" + "passwd"
+intitle:"Index of /" + "phpmyadmin"
+intitle:"Index of /" + "wp-admin"
+intitle:"Index of /" + "wp-content"
+intitle:"Index of /" + "wp-includes"
+intitle:"Index of /" + "uploads"
+
+# Category: Exposed Documents
+filetype:pdf "Confidential"
+filetype:pdf "Internal Use Only"
+filetype:pdf "Not for Distribution"
+filetype:doc "Confidential"
+filetype:doc "Internal Use Only"
+filetype:doc "Not for Distribution"
+filetype:xls "Confidential"
+filetype:xls "Internal Use Only"
+filetype:xls "Not for Distribution"
+
+# Category: Secure Shell (SSH) Keys
+filetype:key inurl:ssh
+
+# Category: FTP Login Credentials
+filetype:ini "FTP" "password"
+filetype:ini "FTP" "username"
+
+# Category: Password Files
+filetype:txt "password"
+
+# Category: Vulnerable CMS (Content Management Systems)
+intitle:"Powered by WordPress"
+intitle:"Powered by Joomla"
+intitle:"Powered by Drupal"
+intitle:"Powered by Magento"
+intitle:"Powered by vBulletin"
+intitle:"Powered by phpBB"
+intitle:"Powered by MediaWiki"
+intitle:"Powered by ExpressionEngine"
+intitle:"Powered by Blogger"
+intitle:"Powered by TYPO3"
+
+# Category: Online Devices
+inurl:/camera/view
+inurl:/view.shtml
+inurl:/view/index.shtml
+inurl:/axis-cgi/mjpg
+inurl:/control/userimage.html
+inurl:/control/faststream.htm
+inurl:/index/blink.cgi
+
+# Category: Log Files
+filetype:log "access.log"
+
+# Category: Backup Files
+filetype:bkf "Microsoft's Backup Utility"
+
+# Category: Exposed API Keys
+filetype:json "api_key"
+
+# Category: Server Configurations
+filetype:conf inurl:apache2.conf
+filetype:conf inurl:httpd.conf
+filetype:conf inurl:nginx.conf
+
+# Category: Error Messages
+intext:"Error Message" ext:log
+
+# Category: PHP Information
+intitle:"PHP Version" inurl:/info.php
+
+# Category: Proxy Servers
+intitle:"Proxy Lists"
+
+# Category: Printer Configurations
+inurl:printer/config
+
+# Category: Docker Registry Credentials
+filetype:json "auths"
+
+# Category: Database Backup Files
+filetype:sql "MySQL dump"
+
+# Category: Unsecured Webcams
+intitle:"Live WebCam" inurl:/index.html
+
+# Category: Jira Configuration Files
+filetype:xml "Jira" "backup"
+
+# Category: Configuration Files
+filetype:ini "database"
+
+# Category: Exposed AWS Credentials
+filetype:json "AWS_ACCESS_KEY"
+
+# Category: Git Repository Configuration Files
+filetype:git "config"
+
+# Category: Sensitive Information in Code
+filetype:sql "password" "CREATE USER"
+
+# Category: Network Device Configurations
+filetype:xml "config"
+
+# Category: Openstack API Endpoints
+intitle:"Openstack Dashboard"
+
+# Category: SharePoint Configuration Files
+filetype:xml "Configuration"
+
+# Category: Sensitive Information in JavaScript Files
+filetype:js "password"
+
+# Category: MongoDB Configuration Files
+filetype:yaml "mongodb"
+
+# Category: Jenkins Configuration Files
+filetype:xml "jenkins"
+
+# Category: Wordpress Backup Files
+filetype:zip "wp-content"
+
+# Category: WordPress Configuration Backups
+filetype:json "wp-config"
+
+# Category: Sensitive Information in XML Files
+filetype:xml "password"
+
+# Category: Database Files
+filetype:sql intext:username password
+filetype:sql "insert into" (pass|passwd|password)
+filetype:sql "values" "username" "password"
+filetype:sql "VALUES" "username" "password"
+filetype:sql "CREATE USER" username identified by password
+filetype:sql "CREATE USER" username identified by "password"
+filetype:sql "CREATE USER" username identified by 'password'
+filetype:sql "CREATE USER" username identified by PASSWORD
+filetype:sql "GRANT ALL PRIVILEGES" ON database.* TO "username"@"%"
+filetype:sql "GRANT ALL PRIVILEGES" ON database.* TO "username"@"localhost"
+filetype:sql "GRANT ALL PRIVILEGES" ON *.* TO "username"@"%"
+filetype:sql "GRANT ALL PRIVILEGES" ON *.* TO "username"@"localhost"
+
+# Category: API Keys
+filetype:env intext:API_KEY
+
+# Category: Configuration Files (Apache)
+filetype:conf inurl:apache2.conf
+filetype:conf inurl:httpd.conf
+
+# Category: Configuration Files (Nginx)
+filetype:conf inurl:nginx.conf
+
+# Category: JSON Configuration Files
+filetype:json inurl:config.json
+filetype:json inurl:settings.json
+filetype:json inurl:configuration.json
+filetype:json inurl:credentials.json
+filetype:json inurl:keys.json
+filetype:json inurl:secrets.json
+filetype:json inurl:auth.json
+
+# Category: Log Files (Custom)
+filetype:log inurl:logs/access.log
+filetype:log inurl:logs/error.log
+
+# Category: Backup Files (Custom)
+filetype:bkf OR filetype:bkp OR filetype:bak OR filetype:old OR filetype:backup
+
+# Category: Docker Configuration Files
+filetype:json OR filetype:yaml OR filetype:yml "Dockerfile"
+
+# Category: Excel Spreadsheets (Containing Sensitive Information)
+filetype:xls "password"
+filetype:xls "login"
+filetype:xls "credentials"
+
+# Category: Log Files (Custom)
+filetype:log inurl:logs/access.log
+filetype:log inurl:logs/error.log
+
+# Category: Backup Files (Custom)
+filetype:bkf OR filetype:bkp OR filetype:bak OR filetype:old OR filetype:backup
+
+# Category: Docker Configuration Files
+filetype:json OR filetype:yaml OR filetype:yml "Dockerfile"
+
+# Category: Excel Spreadsheets (Containing Sensitive Information)
+filetype:xls "password"
+filetype:xls "login"
+filetype:xls "credentials"
+
+# Category: Wordpress Backups
+filetype:zip inurl:wp-content/backup
+filetype:tar inurl:wp-content/backup
+filetype:rar inurl:wp-content/backup
+
+# Category: Wordpress Configuration Backup Files
+filetype:sql inurl:wp-config.bak
+filetype:sql inurl:wp-config.php.bak
+
+# Category: Redis Configuration Files
+filetype:conf inurl:redis.conf
+filetype:conf inurl:redis.conf.default
+filetype:conf inurl:redis.conf.bak
+
+# Category: Elasticsearch Configuration Files
+filetype:yaml inurl:elasticsearch.yml
+filetype:yaml inurl:elasticsearch.yaml
+filetype:yaml inurl:elasticsearch.yml.bak
+filetype:yaml inurl:elasticsearch.yaml.bak
+
+# Category: MongoDB Configuration Files
+filetype:conf inurl:mongodb.conf
+filetype:conf inurl:mongo.conf
+filetype:conf inurl:mongod.conf
+filetype:conf inurl:mongos.conf
+
+# Category: Jenkins Configuration Files
+filetype:xml inurl:jenkins.xml
+filetype:xml inurl:config.xml
+filetype:xml inurl:credentials.xml
+filetype:xml inurl:hudson.util.Secret
+
+# Category: Jupyter Notebook Configuration Files
+filetype:json inurl:jupyter_notebook_config.json
+filetype:json inurl:jupyterhub_config.json
+
+# Category: Django Settings Files
+filetype:py inurl:settings.py
+
+# Category: Laravel Configuration Files
+filetype:env inurl:.env
+
+# Category: GitLab Configuration Files
+filetype:yaml OR filetype:yml inurl:gitlab-ci.yml
+filetype:json inurl:gitlab-secrets.json
+
+# Category: SVN Configuration Files
+filetype:conf inurl:svnserve.conf
+filetype:conf inurl:svnauthz
+
+# Category: Mercurial Configuration Files
+filetype:conf inurl:hgrc
+
+# Category: Apache Hive Configuration Files
+filetype:xml inurl:hive-site.xml
+
+# Category: Apache Cassandra Configuration Files
+filetype:yaml inurl:cassandra.yaml
+filetype:yaml inurl:cassandra-env.sh
+
+# Category: API Keys (Custom)
+inurl:"apikey" OR inurl:"api-key" OR inurl:"api_key"
+
+# Category: JWT Tokens (Custom)
+inurl:"jwt_token" OR inurl:"jwt-token"
+
+# Category: Elasticsearch Cluster Health
+inurl:"_cat/health"
+
+# Category: Elasticsearch Cluster Nodes
+inurl:"_cat/nodes"
+
+# Category: Elasticsearch Cluster Indices
+inurl:"_cat/indices"
+
+# Category: Redis Info Command
+inurl:"/info"
+
+# Category: Apache Solr Web Interface
+inurl:"/solr" OR inurl:"/solr/admin"
+
+# Category: Kubernetes Dashboard
+inurl:"/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/"
+
+# Category: phpMyAdmin (Custom)
+intitle:"phpMyAdmin" inurl:/index.php
+
+# Category: OpenCV Admin Panel (Custom)
+intitle:"OpenCV Admin Panel" inurl:/admin
+
+# Category: Pi-hole Admin Panel (Custom)
+intitle:"Pi-hole Admin Console" inurl:/admin
+
+# Category: Minecraft Server Admin Panel (Custom)
+intitle:"Minecraft Server Admin Panel" inurl:/admin
+
+# Category: Linksys Router Admin Panel (Custom)
+intitle:"Linksys Router Admin Panel" inurl:/admin
+
+# Category: VPN Admin Panel (Custom)
+intitle:"VPN Admin Panel" inurl:/admin
+
+# Category: Firewall Admin Panel (Custom)
+intitle:"Firewall Admin Panel" inurl:/admin
+
+# Category: VoIP Admin Panel (Custom)
+intitle:"VoIP Admin Panel" inurl:/admin
+
+# Category: NAS Admin Panel (Custom)
+intitle:"NAS Admin Panel" inurl:/admin
+
+# Category: Router Admin Panel (Custom)
+intitle:"Router Admin Panel" inurl:/admin
+
+# Category: IoT Devices
+intitle:"Network Camera" inurl:/liveview
+intitle:"IP Camera Viewer" inurl:/stream
+intitle:"Live Stream - powered by Tightrope Media Systems"
+intitle:"Printer Status" inurl:/printer
+intitle:"Printer Configuration" inurl:/printer
+intitle:"Printer Management" inurl:/printer
+
+# Category: Network Printers
+intitle:"Printer Configuration" inurl:/ipp
+intitle:"Printer Configuration" inurl:/ipp
+intitle:"Printer Status" inurl:/ipp
+intitle:"Printer Management" inurl:/ipp
+intitle:"CUPS" intext:"Printer configuration" inurl:/admin
+
+# Category: Security Cameras
+intitle:"Security Camera Viewer" inurl:/live
+intitle:"Surveillance Camera" inurl:/view
+intitle:"Surveillance System" inurl:/live-feed
+intitle:"Camera Live View" inurl:/cam
+
+# New Dorks
+intitle:"Index of /credentials"
+intitle:"Index of /database-backup"
+intitle:"Index of /server-config"
+
+# New Dorks: Web Application Logs
+filetype:log "Application Error" OR "Exception" OR "Fatal Error"
+filetype:log "Access Denied" OR "Unauthorized"
+filetype:log "SQL Error" OR "Database Error"
+filetype:log "404 Not Found" OR "Page Not Found"
+filetype:log "Stack Trace" OR "Traceback"
+
+# New Dorks: Sensitive Configuration Files
+filetype:env intext:"API_KEY"
+filetype:env intext:"SECRET_KEY"
+filetype:env intext:"DATABASE_PASSWORD"
+filetype:env intext:"ADMIN_PASSWORD"
+filetype:env intext:"JWT_SECRET_KEY"
+
+# New Dorks: Web Application Backup Files
+filetype:zip OR filetype:tar.gz OR filetype:tar intext:"/backup/"
+
+# New Dorks: Vulnerable Installations
+intitle:"Welcome to phpMyAdmin" AND "Not Found" AND "Error 404"
+intitle:"Index of /phpMyAdmin" AND "Forbidden" AND "Error 403"
+intitle:"Apache2 Debian Default Page: It works" AND "Error 404"
+intitle:"Apache HTTP Server Test Page powered by CentOS" AND "Error 404"
+
+# New Dorks: Network Devices
+intitle:"NVR Login" inurl:/login.htm
+intitle:"NVR User Login" inurl:/login.htm
+intitle:"NVR User Login" inurl:/logon.htm
+intitle:"NVR User Login" inurl:/login.html
+intitle:"NVR User Login" inurl:/login.html
+intitle:"NVR User Login" inurl:/logon.html
+intitle:"NVR User Login" inurl:/login.asp
+intitle:"NVR User Login" inurl:/logon.asp
+intitle:"NVR User Login" inurl:/login.aspx
+intitle:"NVR User Login" inurl:/logon.aspx
+
+# New Dorks: Open Directory Listings
+intitle:"Index of /config-backup"
+intitle:"Index of /uploads-private"
+intitle:"Index of /logs-sensitive"
+
+# Category: Vulnerable Installations
+intitle:"Welcome to phpMyAdmin" AND "Not Found" AND "Error 404"
+intitle:"Index of /phpMyAdmin" AND "Forbidden" AND "Error 403"
+intitle:"Apache2 Debian Default Page: It works" AND "Error 404"
+intitle:"Apache HTTP Server Test Page powered by CentOS" AND "Error 404"
+intitle:"Apache2 Ubuntu Default Page: It works" AND "Error 404"
+intitle:"Welcome to nginx!" AND "Error 404"
+intitle:"Index of /" "Parent Directory" "Error 403"
+intitle:"Index of /" "Parent Directory" "Error 404"
+intitle:"Index of /" "Parent Directory" "Error 403" "Forbidden"
+intitle:"Index of /" "Parent Directory" "Error 404" "Not Found"
+intitle:"Test Page for the Apache HTTP Server" "It Worked!"
+intitle:"Test Page for the Nginx HTTP Server" "Welcome to nginx!"
+intitle:"Test Page for the Apache Web Server on Fedora" "Fedora Core Test Page"
+intitle:"Apache Status" "Server Version: Apache"
+intitle:"Test Page for the Apache HTTP Server on Fedora Core"
+intitle:"Index of /" "CentOS" "Test Page"
+intitle:"Index of /" "Apache/2.2.3 (CentOS)"
+intitle:"Index of /" "Apache/2.2.3 (Ubuntu)"
+intitle:"Index of /" "Apache/2.2.3 (Red Hat)"
+intitle:"Index of /" "Apache/2.2.3 (Fedora)"
+
+# Category: Network Devices
+intitle:"Router Login" inurl:/login.htm
+
+# Category: SQL Injection Vulnerabilities
+inurl:/search.php?q=
+
+# Category: Exposed AWS S3 Buckets
+inurl:s3.amazonaws.com
+
+# Category: WordPress Configuration Files
+filetype:json "wordpress"
+
+# Category: Magento Configuration Files
+filetype:xml inurl:app/etc/local.xml
+
+# Category: Elasticsearch Exposed Instances
+intitle:"Elasticsearch" intext:"You Know, for Search"
+
+# Category: Git Repository Files
+filetype:git "password"
+
+# Category: Jenkins Exposed Instances
+intitle:"Dashboard [Jenkins]" inurl:/view
+
+# Category: Redis Unauthenticated Access
+intitle:"Redis" intext:"Authentication required"
+
+# Category: MongoDB Exposed Instances
+intitle:"MongoDB" intext:"Error Page"
+
+# Category: Open Web Application Security Project (OWASP)
+inurl:/owasp
+
+# Category: Apache Tomcat Exposed Instances
+intitle:"Apache Tomcat" intext:"Tomcat Web Application Manager"
+
+# Category: Open Redirect Vulnerabilities
+inurl:redirect?to=
+
+# Category: Cross-Site Scripting (XSS) Vulnerabilities
+inurl:/search?q=<script>alert(1)</script>
+
+# Category: Server Error Messages
+intitle:"500 Internal Server Error"
+
+# Category: Exposed API Endpoints
+inurl:/api/v1
+
+# Category: Exposed PHPMyAdmin Instances
+intitle:"phpMyAdmin" "Welcome to phpMyAdmin"
+
+# Category: Exposed Jupyter Notebooks
+intitle:"Jupyter Notebook" inurl:/tree
+
+# Category: Exposed Grafana Instances
+intitle:"Grafana - Sign In" inurl:/login
+
+# Category: Vulnerable Web Applications
+inurl:"/vulnerable_app"
+
+# Category: Exposed API Endpoints
+inurl:/api/v1
+inurl:/api/v2
+inurl:/api/v3
+inurl:/api/v1/*.*
+inurl:/api/v2/*.*
+inurl:/api/v3/*.*
+
+# Category: Unprotected Git Repositories
+intitle:"Index of /.git"
+intitle:"Index of /git"
+
+# Category: Exposed Cloud Storage Buckets
+intitle:"Index of /s3"
+intitle:"Index of /s3bucket"
+
+# Category: Exposed Backup Files
+filetype:bkf "Microsoft Backup"
+filetype:bkp "Backup" OR "Bak" OR "BKP"
+
+# Category: Exposed Config Files
+filetype:ini "password"
+filetype:conf "password"
+filetype:cfg "password"
+filetype:config "password"
+
+# Category: Exposed Database Backups
+filetype:sql "database"
+filetype:sql "backup"
+filetype:sql "bak"
+
+# Category: Exposed Credentials in Source Code
+intext:"password" AND "public static final"
+intext:"password" AND "private static final"
+intext:"password" AND "public String"
+intext:"password" AND "private String"
+
+# Category: Exposed AWS Keys
+filetype:json "aws_access_key"
+filetype:json "aws_secret_access_key"
+
+# Category: Exposed API Keys
+filetype:json "api_key"
+filetype:json "api_secret_key"
+filetype:json "api_access_key"
+filetype:json "api_token"
+
+# Category: Exposed Private Keys
+filetype:pem "PRIVATE KEY"
+filetype:key "BEGIN RSA PRIVATE KEY"
+
+# Category: Exposed Security Certificates
+filetype:pfx "Certificate"
+
+# Category: Exposed Web Shell Scripts
+intext:"eval($_POST['shell'])"
+
+# Category: Exposed Configurations for CMS
+filetype:xml "CMS Configuration"
+filetype:xml "CMS Settings"
+
+# Category: Exposed Network Devices Configurations
+intitle:"Index of /backup" AND (filetype:cfg OR filetype:conf OR filetype:backup OR filetype:bkp)
+
+# Category: Exposed Printer Configuration Files
+intitle:"Index of /ipp" AND (filetype:conf OR filetype:config OR filetype:backup OR filetype:bkp)
+
+# Category: Exposed Firewall Configuration Files
+intitle:"Index of /fw" AND (filetype:cfg OR filetype:conf OR filetype:backup OR filetype:bkp)
+
+# Category: Exposed Security Camera Configuration Files
+intitle:"Index of /cam-config" AND (filetype:cfg OR filetype:conf OR filetype:backup OR filetype:bkp)
+
+# Category: Exposed IoT Device Configuration Files
+intitle:"Index of /iot" AND (filetype:cfg OR filetype:conf OR filetype:backup OR filetype:bkp)
+
+# Category: Exposed Network Switch Configuration Files
+intitle:"Index of /switch-config" AND (filetype:cfg OR filetype:conf OR filetype:backup OR filetype:bkp)
+
+# Category: Exposed Git Repositories
+filetype:git inurl:/.git
+
+# Category: Exposed Subversion Repositories
+filetype:svn inurl:/viewvc
+
+# Category: Exposed Mercurial Repositories
+filetype:hg inurl:.hg
+
+# Category: Exposed CVS Repositories
+filetype:pserver inurl:/CVS
+
+# Category: Exposed Visual Studio Code (VSCode) Settings
+filetype:code-workspace inurl:/.vscode
+
+# Category: Exposed Development Environments
+intitle:"Welcome to JBoss" intext:"Username" intext:"Password"
+
+# Category: Exposed Jenkins Configuration
+intitle:"Dashboard [Jenkins]"
+
+# Category: Exposed Jenkins Server
+intitle:"Welcome to Jenkins!"
+
+# Category: Exposed Atlassian Jira
+intitle:"Login - JIRA" AND "Powered by Atlassian JIRA"
+
+# Category: Exposed Microsoft SQL Servers
+intitle:"Microsoft SQL Server Web Administration"
+
+# Category: Exposed Redis Servers
+intitle:"Redis key-value store in production" intext:"redis_version"
+
+# Category: Exposed MongoDB Instances
+intitle:"MongoDB Status" intext:"MongoDB Server Status"
+
+# Category: Exposed Elasticsearch Instances
+intitle:"Elastic Cluster Overview" intext:"You Know, for Search"
+
+# Category: Exposed Apache Solr Instances
+intitle:"Welcome to Solr" intext:"Solr Admin"
+
+# Category: Exposed RabbitMQ Instances
+intitle:"RabbitMQ Management" intext:"RabbitMQ Management"
+
+# Category: Exposed Kubernetes Dashboard
+intitle:"Kubernetes Dashboard"
+
+# Category: Exposed Grafana Dashboards
+intitle:"Grafana -" intext:"Welcome to Grafana"
+
+# Category: Exposed MongoDB Database Backups
+intitle:"Index of /backup" inurl:/mongodb
+
+# Category: Exposed Elasticsearch Database Backups
+intitle:"Index of /backup" inurl:/elasticsearch
+
+# Category: Exposed FTP Server Credentials
+filetype:ini "Host" AND "Username" AND "Password" AND "Port" inurl:ftp
+
+# Category: Exposed SSH Private Keys
+filetype:key inurl:ssh
+
+# Category: Exposed Database Configuration Files
+filetype:env OR filetype:ini OR filetype:cfg OR filetype:config inurl:/config/
+
+# Category: Exposed WordPress Database Backup Files
+filetype:sql "INSERT INTO" "VALUES" "WordPress" inurl:/wp-content/
+
+# Category: Exposed PHPMyAdmin Installations
+intitle:"phpMyAdmin" AND "Welcome to phpMyAdmin"
+
+# Category: Exposed Web Application Source Code
+filetype:php "Index of /src/" OR "Index of /source/" OR "Index of /code/"
+
+# Category: File Inclusion Vulnerabilities
+inurl:"file.php?id="
+inurl:"page.php?id="
+inurl:"view.php?id="
+inurl:"content.php?id="
+inurl:"product.php?id="
+inurl:"gallery.php?id="
+inurl:"show.php?id="
+inurl:"display.php?id="
+inurl:"download.php?id="
+inurl:"article.php?id="
+inurl:"news.php?id="
+
+# Category: SQL Injection Vulnerabilities
+inurl:"page.php?category="
+inurl:"product.php?category="
+inurl:"view.php?item="
+inurl:"gallery.php?album="
+inurl:"show.php?article="
+inurl:"display.php?content="
+inurl:"download.php?file="
+inurl:"article.php?title="
+inurl:"news.php?article="
+
+# Category: Cross-Site Scripting (XSS) Vulnerabilities
+inurl:"search.php?q="
+inurl:"browse.php?category="
+inurl:"search.php?query="
+inurl:"results.php?search="
+inurl:"view.php?name="
+inurl:"show.php?file="
+inurl:"details.php?item="
+inurl:"content.php?article="
+inurl:"profile.php?user="
+inurl:"search.php?query="
+
+# Category: Remote Code Execution (RCE) Vulnerabilities
+inurl:"upload.php?file="
+inurl:"upload.php?filename="
+inurl:"upload.php?path="
+inurl:"upload.php?directory="
+inurl:"upload.php?data="
+inurl:"upload.php?cmd="
+inurl:"upload.php?exec="
+inurl:"upload.php?command="
+inurl:"upload.php?payload="
+inurl:"upload.php?execute="
+
+# Category: Cross-Site Request Forgery (CSRF) Vulnerabilities
+inurl:"change_password.php?user="
+inurl:"update_profile.php?user="
+inurl:"update_settings.php?user="
+inurl:"update_info.php?user="
+inurl:"update_account.php?user="
+inurl:"update_data.php?user="
+inurl:"change_email.php?user="
+inurl:"modify_password.php?user="
+inurl:"modify_profile.php?user="
+inurl:"modify_settings.php?user="
+
+# Category: Information Disclosure Vulnerabilities
+inurl:"config.php"
+inurl:"database.php"
+inurl:"settings.php"
+inurl:"secrets.php"
+inurl:"credentials.php"
+inurl:"connection.php"
+inurl:"keys.php"
+inurl:"passwords.php"
+inurl:"api_key.php"
+inurl:"access_log.txt"
+inurl:"error_log.txt"
+
+# Category: Authentication Bypass Vulnerabilities
+inurl:"login.php?admin=true"
+inurl:"admin.php?access=1"
+inurl:"signin.php?admin=true"
+inurl:"admin_login.php?root=true"
+inurl:"dashboard.php?admin=true"
+inurl:"authenticate.php?admin=true"
+inurl:"access.php?admin=true"
+inurl:"auth.php?admin=true"
+inurl:"verify.php?admin=true"
+
+# Category: Code Injection Vulnerabilities
+inurl:"execute.php?code="
+inurl:"run.php?code="
+inurl:"eval.php?code="
+inurl:"execute_script.php?code="
+inurl:"eval_script.php?code="
+inurl:"run_script.php?code="
+inurl:"execute_code.php?code="
+inurl:"run_code.php?code="
+inurl:"eval_code.php?code="
+
+# Category: Command Injection Vulnerabilities
+inurl:"run_command.php?cmd="
+inurl:"execute_command.php?cmd="
+inurl:"command.php?exec="
+inurl:"run_shell.php?cmd="
+inurl:"execute_shell.php?cmd="
+inurl:"shell.php?command="
+inurl:"run_cmd.php?cmd="
+inurl:"execute_cmd.php?cmd="
+inurl:"cmd.php?run="
+
+# Category: Cross-Site Script Inclusion (XSSI) Vulnerabilities
+inurl:"load_script.php?name="
+inurl:"get_script.php?file="
+inurl:"include_script.php?src="
+inurl:"import_script.php?file="
+inurl:"load_js.php?name="
+inurl:"get_js.php?file="
+inurl:"include_js.php?src="
+inurl:"import_js.php?file="
+
+# Category: Server-Side Request Forgery (SSRF) Vulnerabilities
+inurl:"proxy.php?url="
+inurl:"fetch.php?url="
+inurl:"request.php?url="
+inurl:"get_url.php?url="
+inurl:"open.php?url="
+inurl:"read.php?url="
+inurl:"load.php?url="
+inurl:"access.php?url="
+inurl:"download_url.php?url="
+
+# Category: Arbitrary File Upload Vulnerabilities
+inurl:"upload_file.php"
+inurl:"file_upload.php"
+inurl:"upload_image.php"
+inurl:"image_upload.php"
+inurl:"upload_photo.php"
+inurl:"photo_upload.php"
+inurl:"upload_document.php"
+inurl:"document_upload.php"
+
+# Category: Path Traversal Vulnerabilities
+inurl:"view_file.php?file="
+inurl:"read_file.php?path="
+inurl:"display_file.php?file="
+inurl:"open_file.php?filename="
+inurl:"access_file.php?file="
+inurl:"load_file.php?filepath="
+inurl:"fetch_file.php?file="
+inurl:"download_file.php?name="
+inurl:"get_file.php?path="
+
+# Category: Unrestricted File Download Vulnerabilities
+inurl:"download.php?file="
+inurl:"file_download.php?file="
+inurl:"get_file.php?file="
+inurl:"file_get.php?file="
+inurl:"fetch_file.php?name="
+inurl:"get_attachment.php?file="
+inurl:"load_attachment.php?file="
+
+# Category: Cross-Origin Resource Sharing (CORS) Vulnerabilities
+inurl:"access.php?origin="
+inurl:"fetch.php?origin="
+inurl:"request.php?origin="
+inurl:"get_data.php?origin="
+inurl:"load_data.php?origin="
+inurl:"read_data.php?origin="
+
+# Category: Remote File Inclusion Vulnerabilities
+inurl:"include.php?file="
+inurl:"require.php?file="
+inurl:"load_file.php?file="
+inurl:"read_file.php?file="
+inurl:"fetch_file.php?file="
+inurl:"open_file.php?file="
+inurl:"load_url.php?file="
+inurl:"get_url.php?file="
+
+# Category: Local File Inclusion Vulnerabilities
+inurl:"load.php?file="
+inurl:"read.php?file="
+inurl:"fetch.php?file="
+inurl:"open.php?file="
+inurl:"include.php?file="
+inurl:"require.php?file="
+inurl:"access.php?file="
+inurl:"get_file.php?file="
+
+# Category: Cross-Site Script Inclusion (XSSI) Vulnerabilities
+inurl:"load_script.php?name="
+inurl:"get_script.php?file="
+inurl:"include_script.php?src="
+inurl:"import_script.php?file="
+inurl:"load_js.php?name="
+inurl:"get_js.php?file="
+inurl:"include_js.php?src="
+inurl:"import_js.php?file="
+
+# Category: Log File Poisoning Vulnerabilities
+inurl:"log.php?data="
+inurl:"logs.php?file="
+inurl:"error.php?message="
+inurl:"access_log.php?data="
+inurl:"debug.php?data="
+inurl:"trace.php?log="
+inurl:"audit.php?log="
+inurl:"event_log.php?message="
+
+# Category: Command Injection Vulnerabilities
+inurl:"run_command.php?cmd="
+inurl:"execute_command.php?cmd="
+inurl:"command.php?exec="
+inurl:"run_shell.php?cmd="
+inurl:"execute_shell.php?cmd="
+inurl:"shell.php?command="
+inurl:"run_cmd.php?cmd="
+inurl:"execute_cmd.php?cmd="
+inurl:"cmd.php?run="
+
+# Category: Open Redirect Vulnerabilities
+inurl:"redirect.php?url="
+inurl:"go.php?url="
+inurl:"out.php?url="
+inurl:"leave.php?url="
+inurl:"to.php?url="
+inurl:"outgoing.php?url="
+inurl:"redirecting.php?url="
+inurl:"forward.php?url="
+
+# Category: Cross-Site Request Forgery (CSRF) Vulnerabilities
+inurl:"change_password.php?user="
+inurl:"update_profile.php?user="
+inurl:"update_settings.php?user="
+inurl:"update_info.php?user="
+inurl:"update_account.php?user="
+inurl:"update_data.php?user="
+inurl:"change_email.php?user="
+inurl:"modify_password.php?user="
+inurl:"modify_profile.php?user="
+inurl:"modify_settings.php?user="
+
+# Category: Cross-Site Scripting (XSS) Vulnerabilities
+inurl:"search.php?q="
+inurl:"browse.php?category="
+inurl:"search.php?query="
+inurl:"results.php?search="
+inurl:"view.php?name="
+inurl:"show.php?file="
+inurl:"details.php?item="
+inurl:"content.php?article="
+inurl:"profile.php?user="
+inurl:"search.php?query="
+
+# Category: Arbitrary File Upload Vulnerabilities
+inurl:"upload_file.php"
+inurl:"file_upload.php"
+inurl:"upload_image.php"
+inurl:"image_upload.php"
+inurl:"upload_photo.php"
+inurl:"photo_upload.php"
+inurl:"upload_document.php"
+inurl:"document_upload.php"
+
+# Category: Insecure Direct Object References (IDOR)
+inurl:"download.php?file=1"
+inurl:"view.php?id=1"
+inurl:"show.php?article=1"
+inurl:"download_file.php?name=1"
+
+# Category: Local File Inclusion Vulnerabilities
+inurl:"load.php?file="
+inurl:"read.php?file="
+inurl:"fetch.php?file="
+inurl:"open.php?file="
+inurl:"include.php?file="
+inurl:"require.php?file="
+inurl:"access.php?file="
+inurl:"get_file.php?file="
+
+# Category: Server-Side Request Forgery (SSRF) Vulnerabilities
+inurl:"proxy.php?url="
+inurl:"fetch.php?url="
+inurl:"request.php?url="
+inurl:"get_url.php?url="
+inurl:"open.php?url="
+inurl:"read.php?url="
+inurl:"load.php?url="
+inurl:"access.php?url="
+inurl:"download_url.php?url="
+
+# Category: Unrestricted File Download Vulnerabilities
+inurl:"download.php?file="
+inurl:"file_download.php?file="
+inurl:"get_file.php?file="
+inurl:"file_get.php?file="
+inurl:"fetch_file.php?name="
+inurl:"get_attachment.php?file="
+inurl:"load_attachment.php?file="
+
+# Category: XML External Entity (XXE) Vulnerabilities
+inurl:"process.php?xml="
+inurl:"load.php?xml="
+inurl:"upload_xml.php?data="
+inurl:"execute_xml.php?xml="
+inurl:"parse_xml.php?file="
+inurl:"fetch_xml.php?url="
+inurl:"import_xml.php?file="
+
+# Category: Command Injection Vulnerabilities
+inurl:"run_command.php?cmd="
+inurl:"execute_command.php?cmd="
+inurl:"command.php?exec="
+inurl:"run_shell.php?cmd="
+inurl:"execute_shell.php?cmd="
+inurl:"shell.php?command="
+inurl:"run_cmd.php?cmd="
+inurl:"execute_cmd.php?cmd="
+inurl:"cmd.php?run="
+
+# Category: Security Misconfigurations
+inurl:"test.php"
+inurl:"debug.php"
+inurl:"dev.php"
+inurl:"tmp.php"
+inurl:"backup.php"
+inurl:"config_test.php"
+inurl:"setup.php"
+inurl:"config.php.sample"
+inurl:"example.php"
+
+# Category: Information Disclosure Vulnerabilities
+inurl:"config.php"
+inurl:"database.php"
+inurl:"settings.php"
+inurl:"secrets.php"
+inurl:"credentials.php"
+inurl:"connection.php"
+inurl:"keys.php"
+inurl:"passwords.php"
+inurl:"api_key.php"
+inurl:"access_log.txt"
+inurl:"error_log.txt"
+
+# Category: Authentication Bypass Vulnerabilities
+inurl:"login.php?admin=true"
+inurl:"admin.php?access=1"
+inurl:"signin.php?admin=true"
+inurl:"admin_login.php?root=true"
+inurl:"dashboard.php?admin=true"
+inurl:"authenticate.php?admin=true"
+inurl:"access.php?admin=true"
+inurl:"auth.php?admin=true"
+inurl:"verify.php?admin=true"
+
+# Category: Remote File Inclusion Vulnerabilities
+inurl:"include.php?file="
+inurl:"require.php?file="
+inurl:"load_file.php?file="
+inurl:"read_file.php?file="
+inurl:"fetch_file.php?file="
+inurl:"open_file.php?file="
+inurl:"load_url.php?file="
+inurl:"get_url.php?file="
+
+# Category: SQL Injection Vulnerabilities
+inurl:"page.php?category="
+inurl:"product.php?category="
+inurl:"view.php?item="
+inurl:"gallery.php?album="
+inurl:"show.php?article="
+inurl:"display.php?content="
+inurl:"download.php?file="
+inurl:"article.php?title="
+inurl:"news.php?article="
+
+# Category: Path Traversal Vulnerabilities
+inurl:"view_file.php?file="
+inurl:"read_file.php?path="
+inurl:"display_file.php?file="
+inurl:"open_file.php?filename="
+inurl:"access_file.php?file="
+inurl:"load_file.php?filepath="
+inurl:"fetch_file.php?file="
+inurl:"download_file.php?name="
+inurl:"get_file.php?path="
+
+# Category: Google Dork Scanners
+intitle:"DorkScan" inurl:/search
+intitle:"GHDB-ID" inurl:/exploits/
+intitle:"Google Hacking Database" inurl:/files/
+intitle:"Google Dork Search" inurl:/dorks/
+intitle:"Dorky" inurl:/listings/
+intitle:"Google Dorks" inurl:/dorks/
+intitle:"Google Dorking" inurl:/results/
+intitle:"Dorkalyzer" inurl:/scan/
+intitle:"DorkScanner" inurl:/scan/
+
+# Category: Database Backup Files
+intext:"-- Database: " filetype:sql
+intext:"-- Dumping data for table" filetype:sql
+intext:"-- Table structure for table" filetype:sql
+intext:"INSERT INTO" filetype:sql
+intext:"DROP TABLE" filetype:sql
+intext:"CREATE TABLE" filetype:sql
+intext:"INSERT INTO" filetype:sql
+
+# Category: WordPress Configuration Files
+filetype:txt inurl:wp-config
+
+# Category: WordPress Backup Files
+filetype:sql "WordPress" "backup"
+
+# Category: WordPress Installation Files
+filetype:log inurl:wp-content/install.php
+filetype:log inurl:wp-content/upgrade-log.php
+
+# Category: Error Logs
+filetype:log "PHP Fatal error" OR "PHP Parse error" OR "PHP Warning" OR "PHP Error"
+
+# Category: Login Credentials
+filetype:log "login" "password"
+filetype:log "username" "password"
+filetype:log "user" "pass"
+
+# Category: Sensitive Information
+filetype:log "secret_key"
+filetype:log "password"
+
+# Category: Open Directory Listings
+intitle:"Index of /" + "backup"
+
+# Category: AWS Access Keys
+filetype:pem intext:PRIVATE KEY
+
+# Category: Configuration Files
+filetype:env intext:AWS_SECRET_ACCESS_KEY
+
+# Category: Google Drive Links
+inurl:"/uc?id="
+
+# Category: CVE Vulnerabilities
+inurl:cve.php inurl:product-details.php?id=
+inurl:cve.php inurl:display.php?cve=
+inurl:cve.php inurl:product.php?pid=
+inurl:cve.php inurl:details.php?cve=
+inurl:cve.php inurl:show.php?id=
+inurl:cve.php inurl:cve_display.php?cve_id=
+inurl:cve.php inurl:view_cve.php?cve=
+inurl:cve.php inurl:cveinfo.php?cve=
+inurl:cve.php inurl:product.php?prod_id=
+inurl:cve.php inurl:entry.php?cve=
+inurl:cve.php inurl:info.php?cve=
+inurl:cve.php inurl:search.php?name=
+inurl:cve.php inurl:archive.php?cve=
+inurl:cve.php inurl:detail.php?cve=
+inurl:cve.php inurl:reference.php?cve_id=
+inurl:cve.php inurl:cve.cgi?name=
+inurl:cve.php inurl:viewcve.php?cve=
+inurl:cve.php inurl:info.php?id=
+inurl:cve.php inurl:detail.php?id=
+inurl:cve.php inurl:show.php?cve=
+inurl:cve.php inurl:vuln.php?cve=
+inurl:cve.php inurl:vuln-detail.php?cve_id=
+inurl:cve.php inurl:cve_page.php?cve=
+inurl:cve.php inurl:cve_number.php?cve=
+inurl:cve.php inurl:latest.php?id=
+inurl:cve.php inurl:detail.php?cve_id=
+inurl:cve.php inurl:results.php?cve_id=
+inurl:cve.php inurl:display_vulnerability.php?id=
+inurl:cve.php inurl:viewvuln.php?cve=
+inurl:cve.php inurl:vulndetail.php?cve=
+inurl:cve.php inurl:cvedetail.php?cve_id=
+inurl:cve.php inurl:cve_view.php?cve=
+inurl:cve.php inurl:searchresults.php?cve_id=
+
+# Category: Additional CVE Vulnerabilities
+inurl:cve "CVSS v3 Base Score"
+inurl:cve "CVSS Score"
+inurl:cve "CVSS:3.0/"
+inurl:cve "Vulnerability ID"
+inurl:cve "Vulnerability Type"
+inurl:cve "Published Date"
+inurl:cve "Last Modified Date"
+inurl:cve "Description"
+inurl:cve "Impact Score"
+inurl:cve "CWE-"
+inurl:cve "NVD - National Vulnerability Database"
+inurl:cve "Vulnerability Summary"
+inurl:cve "Vulnerability Statistics"
+inurl:cve "Vulnerability Search"
+inurl:cve "Vulnerability Details"
+inurl:cve "Vulnerability Information"
+inurl:cve "Vulnerability Report"
+inurl:cve "Security Advisory"
+inurl:cve "Security Notice"
+inurl:cve "Security Bulletin"
+inurl:cve "Security Alert"
+inurl:cve "Security Update"
+inurl:cve "Exploit Database"
+inurl:cve "Exploit Code"
+inurl:cve "Exploit Information"
+inurl:cve "Exploit Details"
+inurl:cve "Exploit Proof of Concept"
+inurl:cve "Exploit Source Code"
+inurl:cve "Exploit Payload"
+inurl:cve "Exploitable Code"
+inurl:cve "Exploit Metasploit"
+inurl:cve "Exploit Packetstorm"
+inurl:cve "Exploit Github"
+inurl:cve "Exploit Remote"
+inurl:cve "Exploit Local"
+inurl:cve "Exploit Privilege Escalation"
+inurl:cve "Exploit Code Execution"
+inurl:cve "Exploit Denial of Service"
+inurl:cve "Exploit SQL Injection"
+inurl:cve "Exploit XSS"
+inurl:cve "Exploit RCE"
+inurl:cve "Exploit LFI"
+inurl:cve "Exploit RFI"
+
+
+------------------------------------------------------------------------
+
+Remember, with great power comes great responsibility! Use Google dorks ethically and responsibly for research and cybersecurity purposes. Always comply with applicable laws and ethical guidelines while exploring the depths of the internet.
+
+Happy dorking and stay curious! 😎🔍🌐

@@ -12,12 +12,19 @@ Google dorks are specially crafted search queries that use a combination of adva
 
 Google dorks follow a particular syntax using advanced search operators that refine search results. Some popular operators include:
 
-- **intitle**: Searches for pages with a specific word in the title.
-- **inurl**: Searches for URLs containing a specific word.
-- **filetype**: Searches for files with a specific extension.
-- **intext**: Searches for pages with specific words in the page text.
-- **site**: Limits search results to a specific site or domain.
-- **ext**: Similar to the filetype operator but less strict.
+- **intitle**: Searches for pages with a specific keyword in the title.
+- **inurl**: Searches for URLs containing a specific keyword.
+- **filetype**: Narrows results to- `intitle`: Searches for pages with a specific keyword in the title.
+- **inurl**: Searches for URLs containing a specific keyword.
+- **filetype**: Narrows results to specific file types (e.g., `pdf`, `doc`, `csv`).
+- **site**: Limits the search to a specific website (e.g., `site:example.com`).
+- **intext**: Searches for pages with a specific keyword in the page content.
+- **ext**: Limits results to files with a specific extension (e.g., `ext:php`).
+ specific file types (e.g., `pdf`, `doc`, `csv`).
+- **site**: Limits the search to a specific website (e.g., `site:example.com`).
+- **intext**: Searches for pages with a specific keyword in the page content.
+- **ext**: Limits results to files with a specific extension (e.g., `ext:php`).
+
 
 ## How to Use This Dork List?
 

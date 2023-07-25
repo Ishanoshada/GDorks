@@ -1,152 +1,249 @@
-1. intitle:"Index of /" "Parent Directory"
-2. intitle:"Index of /admin"
-3. intitle:"Index of /backup"
-4. intitle:"Index of /logs"
-5. intitle:"Index of /config"
-6. intitle:"Index of /password"
-7. intitle:"Index of /admin.php"
-8. intitle:"Index of /wp-admin"
-9. intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!"
-10. intitle:"Welcome to Apache2" intext:"It works!"
-11. intitle:"Test Page for Apache Server"
-12. intext:"Welcome to phpMyAdmin"
-13. intext:"phpMyAdmin MySQL-Dump"
-14. intitle:"phpMyAdmin" intext:"Welcome to phpMyAdmin"
-15. intitle:"phpMyAdmin" inurl:"index.php"
-16. intitle:"phpMyAdmin" inurl:"main.php"
-17. inurl:"/phpmyadmin/index.php"
-18. intitle:"phpMyAdmin" intitle:"Login Page"
-19. inurl:"/wp-admin/" intitle:"WordPress Administrator Login"
-20. inurl:"/wp-login.php"
-21. inurl:"/login.php"
-22. inurl:"/login.jsp"
-23. inurl:"/login.aspx"
-24. inurl:"/admin/login.php"
-25. inurl:"/admin/login.jsp"
-26. inurl:"/admin/login.aspx"
-27. inurl:"/administrator/login.php"
-28. inurl:"/administrator/login.jsp"
-29. inurl:"/administrator/login.aspx"
-30. inurl:"/admin1/login.php"
-31. inurl:"/admin1/login.jsp"
-32. inurl:"/admin1/login.aspx"
-33. inurl:"/admin2/login.php"
-34. inurl:"/admin2/login.jsp"
-35. inurl:"/admin2/login.aspx"
-36. inurl:"/admin/login.html"
-37. inurl:"/admin1/login.html"
-38. inurl:"/admin2/login.html"
-39. inurl:"/admin.php" intext:"username"
-40. inurl:"/admin.php" intext:"password"
-41. inurl:"/admin.php" intext:"admin"
-42. inurl:"/admin.php" intext:"login"
-43. inurl:"/admin.php" intitle:"Admin Login"
-44. inurl:"/admin.php" intitle:"Login Page"
-45. inurl:"/admin.php" intitle:"Admin Panel"
-46. inurl:"/admin.php" intitle:"Admin Dashboard"
-47. inurl:"/admin.php" intitle:"Control Panel"
-48. inurl:"/admin.php" intitle:"Management Console"
-49. inurl:"/admin.php" intitle:"Admin CP"
-50. inurl:"/admin.php" intitle:"Admin Console"
-51. inurl:"/admin.php" intitle:"Admin Center"
-52. inurl:"/admin.php" intitle:"Admin Area"
-53. inurl:"/admin.php" intitle:"Administrative Login"
-54. inurl:"/admin.php" intitle:"Administrative Panel"
-55. inurl:"/admin.php" intitle:"Admin Access"
-56. inurl:"/admin.php" intitle:"Admin Login"
-57. inurl:"/admin.php" intitle:"Admin Control Panel"
-58. inurl:"/admin.php" intitle:"Admin Management"
-59. inurl:"/admin.php" intitle:"Admin Dashboard"
-60. inurl:"/admin.php" intitle:"Admin Console"
-61. inurl:"/admin.php" intitle:"Admin Center"
-62. inurl:"/admin.php" intitle:"Administrator Login"
-63. inurl:"/admin.php" intitle:"Administrator Panel"
-64. inurl:"/admin.php" intitle:"Administrator Dashboard"
-65. inurl:"/admin.php" intitle:"Administrator Console"
-66. inurl:"/admin.php" intitle:"Administrator Center"
-67. inurl:"/admin.php" intitle:"Management Login"
-68. inurl:"/admin.php" intitle:"Management Panel"
-69. inurl:"/admin.php" intitle:"Management Dashboard"
-70. inurl:"/admin.php" intitle:"Management Console"
-71. inurl:"/admin.php" intitle:"Management Center"
-72. inurl:"/login.php" intext:"username"
-73. inurl:"/login.php" intext:"password"
-74. inurl:"/login.php" intext:"login"
-75. inurl:"/login.php" intitle:"Login Page"
-76. inurl:"/login.php" intitle:"Login"
-77. inurl:"/login.php" intitle:"User Login"
-78. inurl:"/login.php" intitle:"Admin Login"
-79. inurl:"/login.php" intitle:"Login Area"
-80. inurl:"/login.php" intitle:"Sign In"
-81. inurl:"/login.php" intitle:"Sign In"
-82. inurl:"/login.php" intitle:"Login Form"
-83. inurl:"/login.php" intitle:"Login Page"
-84. inurl:"/login.php" intitle:"Login Area"
-85. inurl:"/login.php" intitle:"Login Form"
-86. inurl:"/login.php" intitle:"Login Portal"
-87. inurl:"/login.php" intitle:"User Login"
-88. inurl:"/login.php" intitle:"Admin Login"
-89. inurl:"/login.php" intitle:"Administrator Login"
-90. inurl:"/login.php" intitle:"Management Login"
-91. inurl:"/login.php" intitle:"Staff Login"
-92. inurl:"/login.php" intitle:"Employee Login"
-93. inurl:"/login.php" intitle:"Client Login"
-94. inurl:"/login.php" intitle:"Member Login"
-95. inurl:"/login.php" intitle:"Customer Login"
-96. inurl:"/login.php" intitle:"Login Panel"
-97. inurl:"/login.php" intitle:"Login Dashboard"
-98. inurl:"/login.php" intitle:"Login Console"
-99. inurl:"/login.php" intitle:"Login Center"
-100. intext:"phpMyAdmin" intitle:"phpMyAdmin Setup"
-101. intext:"phpMyAdmin" inurl:"db_structure.php"
-102. inurl:"/phpmyadmin/changelog.php"
-103. intext:"phpMyAdmin" inurl:"db_create.php"
-104. inurl:"/phpmyadmin/db_export.php"
-105. intext:"phpMyAdmin" inurl:"db_import.php"
-106. inurl:"/phpmyadmin/db_qbe.php"
-107. intext:"phpMyAdmin" inurl:"db_routines.php"
-108. inurl:"/phpmyadmin/db_search.php"
-109. intext:"phpMyAdmin" inurl:"db_sql.php"
-110. inurl:"/phpmyadmin/import_status.php"
-111. intext:"phpMyAdmin" inurl:"db_structure.php"
-112. inurl:"/phpmyadmin/server_export.php"
-113. intext:"phpMyAdmin" inurl:"server_import.php"
-114. inurl:"/phpmyadmin/server_privileges.php"
-115. intext:"phpMyAdmin" inurl:"server_status.php"
-116. inurl:"/phpmyadmin/server_status_advisor.php"
-117. intext:"phpMyAdmin" inurl:"server_status_monitor.php"
-118. inurl:"/phpmyadmin/server_synchronize.php"
-119. intext:"phpMyAdmin" inurl:"tbl_addfield.php"
-120. inurl:"/phpmyadmin/tbl_alter.php"
-121. intext:"phpMyAdmin" inurl:"tbl_change.php"
-122. inurl:"/phpmyadmin/tbl_chart.php"
-123. intext:"phpMyAdmin" inurl:"tbl_create.php"
-124. inurl:"/phpmyadmin/tbl_export.php"
-125. intext:"phpMyAdmin" inurl:"tbl_import.php"
-126. inurl:"/phpmyadmin/tbl_replace.php"
-127. intext:"phpMyAdmin" inurl:"tbl_row_action.php"
-128. inurl:"/phpmyadmin/tbl_select.php"
-129. intext:"phpMyAdmin" inurl:"tbl_sql.php"
-130. inurl:"/phpmyadmin/tbl_structure.php"
-131. intext:"phpMyAdmin" inurl:"tbl_triggers.php"
-132. inurl:"/phpmyadmin/tbl_zoom_select.php"
-133. intext:"phpMyAdmin" inurl:"tbl_structure.php"
-134. inurl:"/phpmyadmin/tbl_sql.php"
-135. intext:"phpMyAdmin" inurl:"tbl_select.php"
-136. inurl:"/phpmyadmin/theme.php"
-137. intext:"phpMyAdmin" inurl:"user_password.php"
-138. inurl:"/phpmyadmin/user_password.php"
-139. intext:"phpMyAdmin" inurl:"user_privileges.php"
-140. inurl:"/phpmyadmin/user_user_groups.php"
-141. intext:"phpMyAdmin" inurl:"server_user_groups.php"
-142. inurl:"/phpmyadmin/server_export.php"
-143. intext:"phpMyAdmin" inurl:"sql.php"
-144. inurl:"/phpmyadmin/sql.php"
-145. intext:"phpMyAdmin" inurl:"view_create.php"
-146. inurl:"/phpmyadmin/view_create.php"
-147. intext:"phpMyAdmin" inurl:"view_operations.php"
-148. inurl:"/phpmyadmin/view_operations.php"
-149. intext:"phpMyAdmin" inurl:"view_php.php"
-150. inurl:"/phpmyadmin/view_php.php"
+# Category: Webcams
+inurl:/view.shtml
+intitle:"Live View / - AXIS"
+intitle:"Live View / - AXIS 206M"
+inurl:/control/userimage.html
+intitle:"Toshiba Network Camera" user login
+intitle:"i-Catcher Console - Web Monitor"
+intitle:"Live NetSnap Cam-Server feed"
+inurl:"/axis-cgi/mjpg"
+intitle:"Live View / - AXIS 210"
+intitle:"Live View / - AXIS 2400 Video Server"
+inurl:/view/index.shtml
+intitle:"Live View / - AXIS 240"
+inurl:/mjpg/video.mjpg
+intitle:"Live View / - AXIS 206W"
+inurl:/axis-cgi/jpg
+intitle:"Toshiba Network Camera" user login
+intitle:"i-Catcher Console - Web Monitor"
+intitle:"Live NetSnap Cam-Server feed"
 
+# Category: Vulnerable Servers
+intitle:"Test Page for the Apache Web Server on Fedora Core"
+intitle:"Apache Status" "Server Version: Apache"
+intitle:"Index of" "CentOS" "Test Page"
+intitle:"Index of /" "Apache/2.2.3 (CentOS)"
+intitle:"Test Page for the Nginx HTTP Server"
+intitle:"Index of /" "Apache/2.2.3 (Ubuntu)"
+intitle:"Index of /" "Apache/2.2.3 (Red Hat)"
+intitle:"Index of /" "Apache/2.2.3 (Fedora)"
+intitle:"Welcome to nginx!" "Welcome to nginx on Debian!"
 
+# Category: Sensitive Directories
+intitle:"Index of /admin"
+intitle:"Index of /backup"
+intitle:"Index of /config"
+intitle:"Index of /database"
+intitle:"Index of /logs"
+intitle:"Index of /password"
+intitle:"Index of /private"
+intitle:"Index of /secret"
+intitle:"Index of /temp"
+intitle:"Index of /upload"
+intitle:"Index of /www"
+
+# Category: Database Files
+filetype:sql intext:username password
+filetype:sql "insert into" (pass|passwd|password)
+filetype:sql "values" "username" "password"
+filetype:sql "VALUES" "username" "password"
+filetype:sql "CREATE USER" username identified by password
+filetype:sql "CREATE USER" username identified by "password"
+filetype:sql "CREATE USER" username identified by 'password'
+filetype:sql "CREATE USER" username identified by PASSWORD
+filetype:sql "GRANT ALL PRIVILEGES" ON database.* TO "username"@"%"
+filetype:sql "GRANT ALL PRIVILEGES" ON database.* TO "username"@"localhost"
+filetype:sql "GRANT ALL PRIVILEGES" ON *.* TO "username"@"%"
+filetype:sql "GRANT ALL PRIVILEGES" ON *.* TO "username"@"localhost"
+
+# Category: Login Pages
+intitle:"Login" inurl:/login
+intitle:"Login" inurl:/signin
+intitle:"Login" inurl:/log-in
+intitle:"Login" inurl:/sign-in
+intitle:"Login" inurl:/account/login
+intitle:"Login" inurl:/user/login
+intitle:"Login" inurl:/members/login
+intitle:"Login" inurl:/auth/login
+intitle:"Login" inurl:/signin
+intitle:"Login" inurl:/log-in
+intitle:"Login" inurl:/sign-in
+intitle:"Login" inurl:/account/login
+intitle:"Login" inurl:/user/login
+intitle:"Login" inurl:/members/login
+intitle:"Login" inurl:/auth/login
+
+# Category: Network Devices
+intitle:"RouterOS" inurl:/winbox
+intitle:"Ubiquiti" intext:"airOS"
+intitle:"MikroTik" intext:"Webfig"
+intitle:"MikroTik" intext:"Chimay Red"
+intitle:"Ubiquiti" intext:"Rocket M5"
+intitle:"Ubiquiti" intext:"Rocket M2"
+intitle:"Ubiquiti" intext:"RocketDish"
+intitle:"Ubiquiti" intext:"NanoBeam"
+intitle:"Ubiquiti" intext:"NanoStation"
+intitle:"Ubiquiti" intext:"PowerBeam"
+intitle:"Ubiquiti" intext:"LiteBeam"
+intitle:"Ubiquiti" intext:"ToughSwitch"
+intitle:"Ubiquiti" intext:"EdgeRouter"
+intitle:"Ubiquiti" intext:"EdgeMax"
+
+# Category: CCTV Systems
+intitle:"DVR Login" inurl:/login.htm
+intitle:"DVR User Login" inurl:/login.htm
+intitle:"DVR User Login" inurl:/logon.htm
+intitle:"DVR User Login" inurl:/login.html
+intitle:"DVR User Login" inurl:/login.html
+intitle:"DVR User Login" inurl:/logon.html
+intitle:"DVR User Login" inurl:/login.asp
+intitle:"DVR User Login" inurl:/logon.asp
+intitle:"DVR User Login" inurl:/login.aspx
+intitle:"DVR User Login" inurl:/logon.aspx
+
+# Category: Apache Tomcat
+intitle:"Apache Tomcat" intext:"Apache Tomcat"
+intitle:"Tomcat Manager Application"
+intitle:"Tomcat Status" "Tomcat Web Application Manager"
+intitle:"Apache Tomcat/7.0.5" intext:"If you're seeing this, you've successfully installed Tomcat."
+intitle:"Tomcat Server Administration"
+intitle:"Tomcat Web Application Manager"
+intitle:"Tomcat" intext:"Welcome to Tomcat"
+intitle:"Apache Tomcat" intext:"Tomcat Server Administration"
+intitle:"Apache Tomcat" intext:"Tomcat Web Application Manager"
+
+# Category: Error Messages
+intext:"Error 404: Not Found"
+intext:"Error 403: Forbidden"
+intext:"Error 500: Internal Server Error"
+intext:"Error 502: Bad Gateway"
+intext:"Error 503: Service Unavailable"
+intext:"Error 504: Gateway Timeout"
+intext:"Error 505: HTTP Version Not Supported"
+intext:"Error 506: Variant Also Negotiates"
+intext:"Error 507: Insufficient Storage"
+intext:"Error 508: Loop Detected"
+intext:"Error 509: Bandwidth Limit Exceeded"
+intext:"Error 510: Not Extended"
+intext:"Error 511: Network Authentication Required"
+intext:"Error 520: Unknown Error"
+intext:"Error 521: Web Server Is Down"
+intext:"Error 522: Connection Timed Out"
+intext:"Error 523: Origin Is Unreachable"
+intext:"Error 524: A Timeout Occurred"
+intext:"Error 525: SSL Handshake Failed"
+intext:"Error 526: Invalid SSL Certificate"
+intext:"Error 527: Railgun Error"
+intext:"Error 529: Site is overloaded"
+intext:"Error 530: Site is frozen"
+intext:"Error 503: Backend is unhealthy"
+intext:"Error 530: Origin DNS Error"
+
+# Category: Git Repository Files
+filetype:gitweb inurl:git
+filetype:git "NOTICE OR LICENSE"
+filetype:git "This file is a placeholder for the README file"
+filetype:git "This file should contain a short description of the repository."
+filetype:git "This file is used to list changes made in each version of the project."
+filetype:git "This file contains important notes for the release."
+filetype:git "This file is part of the git package."
+filetype:git "This file contains release notes for the changes in each release."
+
+# Category: Open Redirect Vulnerabilities
+inurl:redir?url=
+inurl:url=
+inurl:redirect?url=
+inurl:link?url=
+inurl:out?url=
+inurl:to?url=
+inurl:go?url=
+inurl:redirect?url=
+inurl:open?url=
+inurl:out?url=
+inurl:leave?url=
+
+# Category: Wordpress Sites
+inurl:/wp-admin
+inurl:/wp-login
+inurl:/wp-content
+inurl:/wp-includes
+inurl:/xmlrpc.php
+inurl:/readme.html
+inurl:/license.txt
+inurl:/wp-json
+inurl:/wp-trackback
+inurl:/wp-xmlrpc
+inurl:/wp-links-opml
+inurl:/wp-comments-post
+inurl:/wp-feed
+inurl:/wp-mail
+inurl:/wp-rss
+inurl:/wp-tag
+inurl:/wp-embed
+inurl:/wp-login.php?action=register
+
+# Category: FTP Servers
+intitle:"FTP root at"
+intitle:"FTP Server" inurl:/ftp
+intitle:"Index of /ftp"
+intitle:"Index of /" "FTP root"
+intitle:"Index of /" inurl:/ftp
+
+# Category: Configuration Files
+filetype:conf inurl:web.config
+filetype:conf inurl:httpd.conf
+filetype:conf inurl:php.ini
+filetype:conf inurl:my.cnf
+filetype:conf inurl:config.inc.php
+filetype:conf inurl:config.php
+filetype:conf inurl:settings.php
+filetype:conf inurl:application.properties
+filetype:conf inurl:application.yml
+filetype:conf inurl:database.yml
+filetype:conf inurl:connectionStrings.config
+filetype:conf inurl:settings.xml
+filetype:conf inurl:connections.xml
+
+# Category: PHP Info Files
+filetype:php inurl:info
+filetype:php inurl:phpinfo
+
+# Category: WordPress Configuration Files
+filetype:txt inurl:wp-config
+
+# Category: WordPress Backup Files
+filetype:sql "WordPress" "backup"
+
+# Category: Wordpress Installation Files
+filetype:log inurl:wp-content/install.php
+filetype:log inurl:wp-content/upgrade-log.php
+
+# Category: Error Logs
+filetype:log "PHP Fatal error" OR "PHP Parse error" OR "PHP Warning" OR "PHP Error"
+
+# Category: Login Credentials
+filetype:log "login" "password"
+filetype:log "username" "password"
+filetype:log "user" "pass"
+
+# Category: Sensitive Information
+filetype:log "secret_key"
+filetype:log "password"
+
+# Category: Open Directory Listings
+intitle:"Index of /" + "backup"
+
+# Category: AWS Access Keys
+filetype:pem intext:PRIVATE KEY
+
+# Category: Configuration Files
+filetype:env intext:AWS_SECRET_ACCESS_KEY
+
+# Category: Google Drive Links
+inurl:"/uc?id="
+
+# Category: Apache Access Logs
+filetype:log inurl:apache.log
+
+# Category: Nginx Access Logs
+filetype:log inurl:nginx.log

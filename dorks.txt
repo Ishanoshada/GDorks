@@ -1,3 +1,5 @@
+GDrok list by ishanoshada
+
 # Category: Webcams
 inurl:/view.shtml
 intitle:"Live View / - AXIS"
@@ -364,5 +366,143 @@ inurl:/wp-content/plugins/ "index of /"
 
 # Category: Joomla Configuration Files
 filetype:txt inurl:configuration.php
+
+# Category: Subdomains
+site:*.example.com
+site:*.example.net
+site:*.example.org
+
+# Category: Directory Listings
+intitle:"Index of /" + "admin"
+intitle:"Index of /" + "backup"
+intitle:"Index of /" + "logs"
+intitle:"Index of /" + "config"
+intitle:"Index of /" + "database"
+intitle:"Index of /" + "passwd"
+intitle:"Index of /" + "phpmyadmin"
+intitle:"Index of /" + "wp-admin"
+intitle:"Index of /" + "wp-content"
+intitle:"Index of /" + "wp-includes"
+intitle:"Index of /" + "uploads"
+
+# Category: Exposed Documents
+filetype:pdf "Confidential"
+filetype:pdf "Internal Use Only"
+filetype:pdf "Not for Distribution"
+filetype:doc "Confidential"
+filetype:doc "Internal Use Only"
+filetype:doc "Not for Distribution"
+filetype:xls "Confidential"
+filetype:xls "Internal Use Only"
+filetype:xls "Not for Distribution"
+
+# Category: Secure Shell (SSH) Keys
+filetype:key inurl:ssh
+
+# Category: FTP Login Credentials
+filetype:ini "FTP" "password"
+filetype:ini "FTP" "username"
+
+# Category: Password Files
+filetype:txt "password"
+
+# Category: Vulnerable CMS (Content Management Systems)
+intitle:"Powered by WordPress"
+intitle:"Powered by Joomla"
+intitle:"Powered by Drupal"
+intitle:"Powered by Magento"
+intitle:"Powered by vBulletin"
+intitle:"Powered by phpBB"
+intitle:"Powered by MediaWiki"
+intitle:"Powered by ExpressionEngine"
+intitle:"Powered by Blogger"
+intitle:"Powered by TYPO3"
+
+# Category: Online Devices
+inurl:/camera/view
+inurl:/view.shtml
+inurl:/view/index.shtml
+inurl:/axis-cgi/mjpg
+inurl:/control/userimage.html
+inurl:/control/faststream.htm
+inurl:/index/blink.cgi
+
+# Category: Log Files
+filetype:log "access.log"
+
+# Category: Backup Files
+filetype:bkf "Microsoft's Backup Utility"
+
+# Category: Exposed API Keys
+filetype:json "api_key"
+
+# Category: Server Configurations
+filetype:conf inurl:apache2.conf
+filetype:conf inurl:httpd.conf
+filetype:conf inurl:nginx.conf
+
+# Category: Error Messages
+intext:"Error Message" ext:log
+
+# Category: PHP Information
+intitle:"PHP Version" inurl:/info.php
+
+# Category: Proxy Servers
+intitle:"Proxy Lists"
+
+# Category: Printer Configurations
+inurl:printer/config
+
+# Category: Docker Registry Credentials
+filetype:json "auths"
+
+# Category: Database Backup Files
+filetype:sql "MySQL dump"
+
+# Category: Unsecured Webcams
+intitle:"Live WebCam" inurl:/index.html
+
+# Category: Jira Configuration Files
+filetype:xml "Jira" "backup"
+
+# Category: Configuration Files
+filetype:ini "database"
+
+# Category: Exposed AWS Credentials
+filetype:json "AWS_ACCESS_KEY"
+
+# Category: Git Repository Configuration Files
+filetype:git "config"
+
+# Category: Sensitive Information in Code
+filetype:sql "password" "CREATE USER"
+
+# Category: Network Device Configurations
+filetype:xml "config"
+
+# Category: Openstack API Endpoints
+intitle:"Openstack Dashboard"
+
+# Category: SharePoint Configuration Files
+filetype:xml "Configuration"
+
+# Category: Sensitive Information in JavaScript Files
+filetype:js "password"
+
+# Category: MongoDB Configuration Files
+filetype:yaml "mongodb"
+
+# Category: Jenkins Configuration Files
+filetype:xml "jenkins"
+
+# Category: Wordpress Backup Files
+filetype:zip "wp-content"
+
+# Category: WordPress Configuration Backups
+filetype:json "wp-config"
+
+# Category: Sensitive Information in XML Files
+filetype:xml "password"
+
 
 

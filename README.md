@@ -247,6 +247,7 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
 
 Help build a comprehensive and responsible Google dork list! Contribute ethically and let's explore the internet responsibly together.
 
+
 ## Stargazers
 
 [![Stargazers repo roster for @ishanoshada/GDorks](https://reporoster.com/stars/dark/ishanoshada/GDorks)](https://github.com/ishanoshada/GDorks/stargazers)

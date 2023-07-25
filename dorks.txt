@@ -636,4 +636,8 @@ filetype:json "wp-config"
 filetype:xml "password"
 
 
+------------------------------------------------------------------------
 
+Remember, with great power comes great responsibility! Use Google dorks ethically and responsibly for research and cybersecurity purposes. Always comply with applicable laws and ethical guidelines while exploring the depths of the internet.
+
+Happy dorking and stay curious! 😎🔍🌐

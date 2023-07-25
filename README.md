@@ -243,7 +243,7 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
 ...
 ```
 
-## 📝 Category: Google Dork List - Contribute and Discover
+## Google Dork List - Contribute and Discover
 
 Help build a comprehensive and responsible Google dork list! Contribute ethically and let's explore the internet responsibly together.
 

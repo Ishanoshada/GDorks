@@ -247,3 +247,122 @@ filetype:log inurl:apache.log
 
 # Category: Nginx Access Logs
 filetype:log inurl:nginx.log
+
+# Category: Exposed Sensitive Files
+filetype:doc OR filetype:docx OR filetype:xls OR filetype:xlsx OR filetype:ppt OR filetype:pptx
+intitle:"Index of" (doc|docx|xls|xlsx|ppt|pptx)
+
+# Category: Exposed Credentials
+filetype:txt "username" AND "password"
+filetype:txt "user" AND "pass"
+filetype:log "login: *" AND "password: *"
+
+# Category: Network Devices (Specific Brands)
+intitle:"Ubiquiti" intext:"EdgeRouter"
+intitle:"Ubiquiti" intext:"EdgeMax"
+intitle:"Ubiquiti" intext:"UniFi Controller"
+intitle:"MikroTik" intext:"RouterOS"
+
+# Category: Directory Listings
+intitle:"Index of /" "Parent Directory"
+intitle:"Index of /" "Last modified"
+intitle:"Index of /" "Name"
+intitle:"Index of /" "Size"
+intitle:"Index of /" "Description"
+intitle:"Index of /" "Modified"
+intitle:"Index of /" "Parent Directory"
+intitle:"Index of /" "Windows 2003 Server"
+
+# Category: Open Redirect Vulnerabilities (Specific URLs)
+inurl:"redirect?to="
+inurl:"out?to="
+inurl:"go?to="
+inurl:"to?url="
+inurl:"link?to="
+inurl:"url?url="
+inurl:"redir?url="
+
+# Category: WordPress Backup Files
+filetype:zip "wp-content"
+
+# Category: MongoDB Databases
+inurl:/mongodb/port
+
+# Category: MySQL Databases
+intext:"-- phpMyAdmin SQL Dump"
+
+# Category: PostgreSQL Databases
+intext:"-- PostgreSQL database dump"
+
+# Category: Oracle Databases
+intext:"-- Oracle SQL Dump"
+
+# Category: Microsoft SQL Server Databases
+intext:"-- Dumping data for table"
+
+# Category: FTP Servers (Specific Brands)
+intitle:"FileZilla Server"
+
+# Category: Open Elasticsearch Instances
+inurl:"9200/_cat/indices"
+
+# Category: Open MongoDB Instances
+inurl:"27017"
+
+# Category: Open Redis Instances
+inurl:"6379"
+
+# Category: Open Memcached Instances
+inurl:"11211"
+
+# Category: Open VNC Instances
+inurl:"5800" OR inurl:"5900"
+
+# Category: Open RDP Instances
+inurl:"3389"
+
+# Category: Open Telnet Instances
+inurl:"23"
+
+# Category: Open SNMP Instances
+inurl:"161"
+
+# Category: Open MySQL Instances
+inurl:"3306"
+
+# Category: Open PostgreSQL Instances
+inurl:"5432"
+
+# Category: Open Rsync Instances
+inurl:"873"
+
+# Category: Open ElasticSearch Instances
+inurl:"9200"
+
+# Category: Open Jenkins Instances
+intext:"Dashboard [Jenkins]"
+
+# Category: Exposed Git Repositories
+filetype:git "Repository"
+filetype:git "Index of /"
+
+# Category: Sensitive Information in Configuration Files
+filetype:env "MAIL_USERNAME"
+filetype:env "MAIL_PASSWORD"
+filetype:env "DB_USERNAME"
+filetype:env "DB_PASSWORD"
+filetype:env "SECRET_KEY"
+
+# Category: Wordpress wp-config Backup Files
+filetype:sql "wp-config" "Backup"
+
+# Category: Wordpress Configuration Backup Files
+filetype:zip "wp-content" "backup"
+
+# Category: Wordpress Plugins with Vulnerabilities
+inurl:/wp-content/plugins/ "index of /"
+
+# Category: Joomla Configuration Files
+filetype:txt inurl:configuration.php
+
+

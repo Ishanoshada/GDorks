@@ -4,7 +4,7 @@ link:".uk" + "XI@steampowered.com"
 info:".ie" + "Auto@steampowered.com"
 .asp?294= "FINAL"
 961= "Counter-Strike@steampowered.com" + ".mx"
-filetype:FANTASY®.asp?705=
+filetype:FANTASYÂ®.asp?705=
 source:steam-games.aspx?1104=
 .php?1460= "steam-games"
 uplay-download.aspx?1072=
@@ -12,7 +12,7 @@ uplay-download.aspx?1072=
 800= "" + ".hk"
 .php?527= "fortnite@yahoo.com"
 source:".ad" + "Call"
-inanchor:".ma" + "FANTASY®"
+inanchor:".ma" + "FANTASYÂ®"
 1920= "Counter-Strike@steampowered.com" + ".sh"
 inanchor:of.aspx?339=
 .aspx?1699= ""
@@ -78,7 +78,7 @@ allintitle:Call.aspx?1282=
 source:".lc" + "fortnite@hotmail.com"
 1547= "netflix-buy" + ".com.tr"
 intext:".org" + "uplay-games"
-899= "FANTASY®"
+899= "FANTASYÂ®"
 source:uplay-download.asp?79=
 1601= "fortnite@yahoo.com" + ".tv"
 allintitle:watch-netflix132=
@@ -173,7 +173,7 @@ minecraft@yahoo.com.php?1072=
 fortnite@hotmail.com648=
 info:".at" + "Grand"
 intext:Duty@steampowered.com.asp?756=
-.aspx?377= "FANTASY®"
+.aspx?377= "FANTASYÂ®"
 allinanchor:".si" + "Call"
 allintitle:".eg" + "Grand"
 inanchor:".mf" + "fortnite-errors"
@@ -221,7 +221,7 @@ fortnite@yahoo.com.php?238=
 .asp?1482= "dominos-pizza"
 646= "uplay-games" + ".io"
 681= "Theft" + ".ai"
-allintext:".ge" + "FANTASY®"
+allintext:".ge" + "FANTASYÂ®"
 482= "minecraft@yahoo.com" + ".gh"
 inurl:".ad" + "watch-netflix"
 info:fortnite@gmail.com.asp?191=
@@ -280,14 +280,14 @@ cache:".gh" + "Auto@steampowered.com"
 allinanchor:".ga" + "minecraft@hotmail.com"
 netflix-buy.php?382=
 Call.asp?1299=
-898= "FANTASY®" + ".sz"
+898= "FANTASYÂ®" + ".sz"
 of1308=
 4= "uplay-download"
 .aspx?1868= "FINAL"
 Duty@steampowered.com.aspx?34=
 50= "Call" + ".au"
 94= "Counter-Strike@steampowered.com" + ".sb"
-cache:FANTASY®.asp?1051=
+cache:FANTASYÂ®.asp?1051=
 436= "" + ".gd"
 695= "of"
 .php?1030=
@@ -300,7 +300,7 @@ source:Call.asp?453=
 .aspx?1240= "dominos-pizza"
 575= "FINAL" + ".ca"
 .aspx?1944= "minecraft@yahoo.com"
-.aspx?440= "FANTASY®"
+.aspx?440= "FANTASYÂ®"
 fortnite@hotmail.com.aspx?555=
 link:".yt" + "minecraft@yahoo.com"
 130= "Theft" + ".na"
@@ -343,7 +343,7 @@ allinurl:netflix-buy.php?761=
 minecraft@hotmail.com.aspx?1453=
 598= "fortnite@yahoo.com" + ".aw"
 .asp?1849= "fortnite@gmail.com"
-allintitle:".rs" + "FANTASY®"
+allintitle:".rs" + "FANTASYÂ®"
 .asp?522= "fortnite-errors"
 intext:".de" + "watch-netflix"
 inanchor:".ca" + "Duty@steampowered.com"
@@ -357,7 +357,7 @@ inurl:minecraft@hotmail.com.php?775=
 netflix-buy.php?306=
 intitle:".gq" + "uplay-games"
 XI@steampowered.com.php?1291=
-allinanchor:".gh" + "FANTASY®"
+allinanchor:".gh" + "FANTASYÂ®"
 .aspx?759= "netflix-buy"
 1882= "" + ".br"
 1934= "minecraft@yahoo.com" + ".hn"
@@ -384,7 +384,7 @@ link:fortnite@gmail.com.aspx?208=
 allinurl:".sh" + "Grand"
 .aspx?158= "uplay-games"
 2001= "FINAL"
-294= "FANTASY®" + ".md"
+294= "FANTASYÂ®" + ".md"
 fortnite@hotmail.com.php?655=
 Duty@steampowered.com.asp?1497=
 229= "fortnite@hotmail.com"
@@ -397,7 +397,7 @@ info:Auto@steampowered.com.php?1577=
 fortnite-errors.php?490=
 fortnite@gmail.com1251=
 .aspx?581= "watch-netflix"
-1557= "FANTASY®" + ".sb"
+1557= "FANTASYÂ®" + ".sb"
 1367= "steam-games" + ".ht"
 697= "FINAL" + ".mc"
 1637= "FINAL" + ".ac"
@@ -407,7 +407,7 @@ filetype:fortnite@yahoo.com1205=
 inurl:".ni" + "Counter-Strike@steampowered.com"
 allinanchor:".rs" + "FINAL"
 allinanchor:".cl" + "uplay-download"
-1905= "FANTASY®" + ".so"
+1905= "FANTASYÂ®" + ".so"
 insubject:.asp?593=
 inanchor:.aspx?1264=
 .php?2004= "dominos-pizza"
@@ -502,15 +502,15 @@ allintitle:fortnite-errors.php?1243=
 dominos-pizza.aspx?1559=
 1857= "minecraft@yahoo.com"
 intext:.aspx?726=
-allintext:FANTASY®.aspx?938=
+allintext:FANTASYÂ®.aspx?938=
 cache:".nr" + "Auto@steampowered.com"
 1392= "fortnite@yahoo.com" + ".gb"
 inanchor:minecraft@yahoo.com.aspx?1019=
 allinurl:steam-games.asp?1514=
 intitle:netflix-buy.asp?1788=
-intext:FANTASY®.asp?1721=
+intext:FANTASYÂ®.asp?1721=
 allinanchor:of.aspx?1514=
-insubject:".cu" + "FANTASY®"
+insubject:".cu" + "FANTASYÂ®"
 allinanchor:fortnite-errors.php?1324=
 583= "" + ".wf"
 1649= "of" + ".al"
@@ -531,7 +531,7 @@ Theft.aspx?1434=
 .aspx?184= "steam-games"
 852= "fortnite@hotmail.com" + ".hr"
 allinanchor:steam-games1303=
-filetype:".ke" + "FANTASY®"
+filetype:".ke" + "FANTASYÂ®"
 .aspx?1712= "minecraft@gmail.com"
 link:netflix-buy539=
 874= "uplay-download"
@@ -541,10 +541,10 @@ allinanchor:".mt" + "watch-netflix"
 intext:minecraft@hotmail.com.php?374=
 allintext:".jp" + "Duty@steampowered.com"
 dominos-pizza.php?1830=
-FANTASY®.aspx?716=
+FANTASYÂ®.aspx?716=
 allintext:watch-netflix.aspx?225=
 FINAL.aspx?18=
-708= "FANTASY®"
+708= "FANTASYÂ®"
 allinurl:uplay-games.aspx?1636=
 allinurl:".sy" + ""
 info:minecraft@gmail.com.aspx?1824=
@@ -601,7 +601,7 @@ filetype:".net" + ""
 cache:fortnite@hotmail.com.php?947=
 intext:.aspx?1352=
 fortnite@yahoo.com.asp?1860=
-source:".tk" + "FANTASY®"
+source:".tk" + "FANTASYÂ®"
 .asp?167= "fortnite@yahoo.com"
 Call.php?1567=
 1204= "netflix-buy" + ".bw"
@@ -624,12 +624,12 @@ minecraft@gmail.com.asp?1347=
 allinanchor:".mh" + "XI@steampowered.com"
 .php?699= "Grand"
 1434= "uplay-download" + ".vi"
-.php?919= "FANTASY®"
+.php?919= "FANTASYÂ®"
 allinanchor:".cm" + "minecraft@gmail.com"
 link:".eh" + "fortnite@hotmail.com"
 706= "Grand"
 cache:of230=
-754= "FANTASY®" + ".lt"
+754= "FANTASYÂ®" + ".lt"
 1889= "Counter-Strike@steampowered.com" + ".aq"
 link:.asp?1210=
 1903= "fortnite@hotmail.com" + ".ae"
@@ -658,9 +658,9 @@ source:".kp" + "steam-games"
 link:".pa" + "Theft"
 allinanchor:.aspx?2012=
 filetype:.php?1796=
-allinanchor:FANTASY®.asp?535=
+allinanchor:FANTASYÂ®.asp?535=
 808= "minecraft@hotmail.com" + ".bd"
-.aspx?1739= "FANTASY®"
+.aspx?1739= "FANTASYÂ®"
 insubject:".bm" + "of"
 source:Duty@steampowered.com.aspx?1706=
 minecraft@hotmail.com.asp?1473=
@@ -707,7 +707,7 @@ allintext:".gg" + "XI@steampowered.com"
 fortnite@hotmail.com.asp?142=
 1311= "minecraft@yahoo.com" + ".mu"
 1772= "FINAL" + ".eg"
-FANTASY®700=
+FANTASYÂ®700=
 allinanchor:".aw" + "Auto@steampowered.com"
 cache:FINAL1179=
 XI@steampowered.com.asp?135=
@@ -747,7 +747,7 @@ inurl:.asp?973=
 .aspx?390= "Grand"
 .aspx?415=
 allinanchor:".gr" + "fortnite@yahoo.com"
-source:".tt" + "FANTASY®"
+source:".tt" + "FANTASYÂ®"
 allintitle:uplay-games.aspx?1593=
 allinurl:minecraft@yahoo.com.php?919=
 insubject:XI@steampowered.com.asp?897=
@@ -760,7 +760,7 @@ source:".eu" + "Counter-Strike@steampowered.com"
 1766= "of" + ".lr"
 .php?635= "watch-netflix"
 .aspx?1453= "FINAL"
-inanchor:".sl" + "FANTASY®"
+inanchor:".sl" + "FANTASYÂ®"
 intitle:FINAL.php?1561=
 Call167=
 1084= "fortnite@hotmail.com" + ".tk"
@@ -791,7 +791,7 @@ allintitle:".sg" + "uplay-games"
 622= "steam-games" + ".fj"
 fortnite-errors1281=
 info:".ao" + "uplay-games"
-FANTASY®953=
+FANTASYÂ®953=
 114= "uplay-games" + ".co"
 intext:of.php?1825=
 inurl:".ir" + "minecraft@hotmail.com"
@@ -850,7 +850,7 @@ inurl:".kp" + "minecraft@yahoo.com"
 .php?968= "watch-netflix"
 allintext:".do" + ""
 source:".sc" + "netflix-buy"
-.asp?1891= "FANTASY®"
+.asp?1891= "FANTASYÂ®"
 fortnite@gmail.com1097=
 fortnite@gmail.com.aspx?342=
 190= "FINAL" + ".dm"
@@ -900,7 +900,7 @@ intext:".pk" + "minecraft@gmail.com"
 inurl:minecraft@hotmail.com.php?731=
 minecraft@gmail.com.aspx?694=
 netflix-buy243=
-.asp?1076= "FANTASY®"
+.asp?1076= "FANTASYÂ®"
 intitle:dominos-pizza.php?339=
 .asp?899= "Call"
 intext:".gl" + "fortnite@yahoo.com"
@@ -908,7 +908,7 @@ intext:".gl" + "fortnite@yahoo.com"
 inurl:".fr" + "uplay-download"
 1083= "uplay-download" + ".hk"
 insubject:uplay-games.php?1848=
-356= "FANTASY®" + ".nr"
+356= "FANTASYÂ®" + ".nr"
 filetype:".md" + "uplay-games"
 filetype:fortnite@gmail.com1801=
 729= "dominos-pizza" + ".sj"
@@ -917,7 +917,7 @@ link:uplay-download.aspx?436=
 insubject:".mw" + "uplay-download"
 intitle:".ly" + "Theft"
 1249= "of" + ".li"
-info:FANTASY®.php?472=
+info:FANTASYÂ®.php?472=
 intitle:steam-games1130=
 Theft.php?246=
 allinurl:Duty@steampowered.com424=
@@ -950,7 +950,7 @@ fortnite-errors.php?599=
 XI@steampowered.com.asp?720=
 .asp?113= "of"
 uplay-games.asp?2018=
-.php?1794= "FANTASY®"
+.php?1794= "FANTASYÂ®"
 dominos-pizza.php?291=
 2018= "Grand" + ".au"
 1154= "fortnite@hotmail.com" + ".iq"
@@ -971,7 +971,7 @@ dominos-pizza.aspx?1603=
 .aspx?565= "minecraft@hotmail.com"
 .aspx?138= "Counter-Strike@steampowered.com"
 source:".nu" + "minecraft@yahoo.com"
-inanchor:".bq" + "FANTASY®"
+inanchor:".bq" + "FANTASYÂ®"
 info:of.php?941=
 1183= "Call" + ".vn"
 427= "minecraft@yahoo.com" + ".jp"
@@ -989,7 +989,7 @@ info:minecraft@yahoo.com.php?1357=
 .php?1401= "steam-games"
 1342= "dominos-pizza" + ".cm"
 intext:FINAL.asp?1440=
-.asp?1467= "FANTASY®"
+.asp?1467= "FANTASYÂ®"
 1322= "of" + ".cv"
 .php?1740= "Call"
 allinurl:".mp" + "netflix-buy"
@@ -1003,7 +1003,7 @@ Auto@steampowered.com.asp?1371=
 allintitle:watch-netflix.asp?497=
 231= "uplay-games" + ".kr"
 intext:".gl" + "Counter-Strike@steampowered.com"
-inanchor:FANTASY®.aspx?1038=
+inanchor:FANTASYÂ®.aspx?1038=
 .aspx?1764= "Counter-Strike@steampowered.com"
 minecraft@yahoo.com.php?440=
 allinanchor:minecraft@gmail.com.php?613=
@@ -1018,7 +1018,7 @@ fortnite-errors.asp?239=
 1186= "Theft" + ".fk"
 .aspx?4= "watch-netflix"
 intitle:".bl" + "fortnite@yahoo.com"
-FANTASY®587=
+FANTASYÂ®587=
 allintitle:dominos-pizza.php?692=
 1542=
 inurl:netflix-buy.aspx?72=
@@ -1059,7 +1059,7 @@ allinanchor:852=
 1597= "steam-games"
 cache:minecraft@gmail.com.aspx?158=
 1306= "fortnite@yahoo.com" + ".gu"
-allinurl:".do" + "FANTASY®"
+allinurl:".do" + "FANTASYÂ®"
 fortnite-errors.php?386=
 intext:".bb" + "watch-netflix"
 inanchor:".eu" + "uplay-games"
@@ -1261,7 +1261,7 @@ inanchor:".ax" + "netflix-buy"
 info:".ni" + "netflix-buy"
 .php?800= ""
 1275= "Counter-Strike@steampowered.com" + ".as"
-intext:FANTASY®802=
+intext:FANTASYÂ®802=
 uplay-download1122=
 dominos-pizza1215=
 info:dominos-pizza.aspx?291=
@@ -1309,7 +1309,7 @@ inurl:".so" + "Auto@steampowered.com"
 uplay-games.asp?1343=
 .asp?269= "Grand"
 .aspx?1115= "fortnite@hotmail.com"
-1113= "FANTASY®" + ".no"
+1113= "FANTASYÂ®" + ".no"
 Counter-Strike@steampowered.com1990=
 steam-games.asp?503=
 1815= "watch-netflix" + ".gw"
@@ -1377,7 +1377,7 @@ of.asp?468=
 .aspx?366= "Auto@steampowered.com"
 XI@steampowered.com.aspx?1194=
 1318= "netflix-buy" + ".af"
-filetype:".uk" + "FANTASY®"
+filetype:".uk" + "FANTASYÂ®"
 source:uplay-download922=
 .aspx?248= "Counter-Strike@steampowered.com"
 intext:netflix-buy725=
@@ -1411,16 +1411,16 @@ Duty@steampowered.com.asp?1802=
 info:".aq" + "Auto@steampowered.com"
 cache:of42=
 minecraft@hotmail.com.aspx?509=
-insubject:".rs" + "FANTASY®"
+insubject:".rs" + "FANTASYÂ®"
 info:fortnite@yahoo.com.asp?1772=
 link:".gn" + ""
 1952= "fortnite-errors" + ".mu"
-1494= "FANTASY®" + ".tk"
+1494= "FANTASYÂ®" + ".tk"
 link:fortnite@gmail.com.asp?533=
 687= "fortnite@yahoo.com" + ".lr"
 watch-netflix.aspx?1392=
 info:".us" + "dominos-pizza"
-1755= "FANTASY®"
+1755= "FANTASYÂ®"
 Duty@steampowered.com.php?418=
 source:watch-netflix.php?1212=
 677= "dominos-pizza" + ".su"
@@ -1429,9 +1429,9 @@ watch-netflix.php?114=
 link:uplay-games.aspx?1650=
 intitle:.php?1721=
 cache:".tc" + "dominos-pizza"
-.aspx?1082= "FANTASY®"
+.aspx?1082= "FANTASYÂ®"
 allintitle:".bs" + ""
-.aspx?61= "FANTASY®"
+.aspx?61= "FANTASYÂ®"
 120= "fortnite@hotmail.com"
 1278= "Theft" + ".eu"
 intext:watch-netflix.php?251=
@@ -1452,7 +1452,7 @@ source:".ma" + "watch-netflix"
 .asp?1862= ""
 allinanchor:of.php?815=
 463= "Auto@steampowered.com" + ".do"
-FANTASY®.asp?88=
+FANTASYÂ®.asp?88=
 info:fortnite@hotmail.com.php?1027=
 minecraft@gmail.com.php?95=
 .php?255= "fortnite-errors"
@@ -1465,9 +1465,9 @@ allinurl:Counter-Strike@steampowered.com.php?1332=
 18= "uplay-games" + ".so"
 source:dominos-pizza1111=
 .aspx?23= "Duty@steampowered.com"
-.aspx?196= "FANTASY®"
+.aspx?196= "FANTASYÂ®"
 allinurl:".ro" + "fortnite@yahoo.com"
-FANTASY®1845=
+FANTASYÂ®1845=
 filetype:".la" + ""
 allinanchor:Counter-Strike@steampowered.com.asp?387=
 .aspx?1053= "fortnite@gmail.com"
@@ -1494,12 +1494,12 @@ filetype:Counter-Strike@steampowered.com.asp?1361=
 dominos-pizza.php?1518=
 minecraft@gmail.com1572=
 .aspx?1598= "Duty@steampowered.com"
-inurl:FANTASY®.aspx?1112=
+inurl:FANTASYÂ®.aspx?1112=
 .aspx?396= "Duty@steampowered.com"
 1041= ""
 source:dominos-pizza.php?824=
 info:uplay-games593=
-insubject:".nl" + "FANTASY®"
+insubject:".nl" + "FANTASYÂ®"
 Duty@steampowered.com.php?315=
 inanchor:".np" + "minecraft@hotmail.com"
 source:fortnite@hotmail.com.aspx?70=
@@ -1543,7 +1543,7 @@ link:Duty@steampowered.com.aspx?902=
 1401= "fortnite-errors" + ".ac"
 intext:Auto@steampowered.com.aspx?133=
 719= "Auto@steampowered.com" + ".br"
-FANTASY®1599=
+FANTASYÂ®1599=
 109= "" + ".fj"
 allinurl:Theft.aspx?846=
 928= "fortnite@hotmail.com" + ".tf"
@@ -1573,7 +1573,7 @@ intitle:netflix-buy.asp?325=
 .aspx?1776= "Auto@steampowered.com"
 .aspx?1564= "uplay-games"
 849= "steam-games" + ".ch"
-inurl:".gs" + "FANTASY®"
+inurl:".gs" + "FANTASYÂ®"
 allinurl:XI@steampowered.com.asp?1884=
 1554= "fortnite-errors" + ".uz"
 1656=
@@ -1619,9 +1619,9 @@ intext:".id" + "uplay-download"
 inanchor:.asp?1563=
 insubject:".kn" + "Counter-Strike@steampowered.com"
 minecraft@gmail.com.aspx?1500=
-.php?70= "FANTASY®"
+.php?70= "FANTASYÂ®"
 1313= "Counter-Strike@steampowered.com" + ".ci"
-.aspx?1322= "FANTASY®"
+.aspx?1322= "FANTASYÂ®"
 intitle:".sk" + ""
 allintext:254=
 uplay-games1425=
@@ -1671,7 +1671,7 @@ info:".iq" + "minecraft@gmail.com"
 allinanchor:".as" + "netflix-buy"
 minecraft@gmail.com583=
 allintitle:".mf" + "fortnite-errors"
-intitle:FANTASY®281=
+intitle:FANTASYÂ®281=
 insubject:Theft.aspx?1062=
 insubject:dominos-pizza.aspx?491=
 cache:of721=
@@ -1679,13 +1679,13 @@ netflix-buy.asp?855=
 .php?225= "fortnite@hotmail.com"
 Counter-Strike@steampowered.com.asp?417=
 uplay-download.aspx?2015=
-1719= "FANTASY®"
+1719= "FANTASYÂ®"
 allintitle:".bn" + "steam-games"
 insubject:FINAL250=
 info:fortnite-errors.asp?1274=
 708= "uplay-download" + ".in"
 dominos-pizza.aspx?88=
-FANTASY®.asp?354=
+FANTASYÂ®.asp?354=
 .aspx?432= "FINAL"
 .php?2008= "watch-netflix"
 info:fortnite@hotmail.com1987=
@@ -1703,7 +1703,7 @@ Call.aspx?1938=
 allintext:".qa" + "fortnite@gmail.com"
 1537= "Duty@steampowered.com" + ".vg"
 info:minecraft@hotmail.com1311=
-.php?1225= "FANTASY®"
+.php?1225= "FANTASYÂ®"
 FINAL.asp?314=
 Call.asp?350=
 intext:minecraft@hotmail.com.php?595=
@@ -1715,7 +1715,7 @@ inanchor:XI@steampowered.com.aspx?491=
 allintitle:fortnite@yahoo.com.asp?1839=
 allintext:minecraft@gmail.com.aspx?1755=
 32= "Auto@steampowered.com"
-212= "FANTASY®" + ".mx"
+212= "FANTASYÂ®" + ".mx"
 .php?1365= "netflix-buy"
 link:".za" + ""
 1298= "Call" + ".je"
@@ -1724,13 +1724,13 @@ link:Duty@steampowered.com1151=
 1447= "netflix-buy" + ".kw"
 .aspx?1809= "fortnite@gmail.com"
 allinurl:netflix-buy.asp?354=
-947= "FANTASY®" + ".pe"
+947= "FANTASYÂ®" + ".pe"
 insubject:".jp" + "minecraft@yahoo.com"
 378= "Counter-Strike@steampowered.com" + ".vn"
 1347= "minecraft@gmail.com" + ".com.tr"
-FANTASY®.php?604=
+FANTASYÂ®.php?604=
 link:".mk" + "fortnite@hotmail.com"
-insubject:FANTASY®.asp?1091=
+insubject:FANTASYÂ®.asp?1091=
 .aspx?7= "of"
 915= "Duty@steampowered.com"
 708= "uplay-games"
@@ -1775,12 +1775,12 @@ uplay-download1548=
 .aspx?361= "Auto@steampowered.com"
 1536=
 allinurl:Grand.aspx?1666=
-inurl:".ai" + "FANTASY®"
+inurl:".ai" + "FANTASYÂ®"
 fortnite-errors1158=
 fortnite-errors.asp?1879=
 intitle:".ec" + "uplay-download"
 .php?1181= "watch-netflix"
-FANTASY®.asp?633=
+FANTASYÂ®.asp?633=
 Auto@steampowered.com229=
 intitle:".ai" + "fortnite@gmail.com"
 1651= "XI@steampowered.com" + ".li"
@@ -1798,7 +1798,7 @@ Theft.aspx?1921=
 allintitle:1979=
 dominos-pizza18=
 .php?1360= "minecraft@gmail.com"
-148= "FANTASY®" + ".tm"
+148= "FANTASYÂ®" + ".tm"
 intitle:1027=
 allintext:fortnite@gmail.com.asp?1037=
 308= "Theft" + ".ro"
@@ -1808,7 +1808,7 @@ allintext:fortnite@gmail.com.asp?1037=
 119= "" + ".cw"
 Grand.aspx?1666=
 1928= "uplay-download" + ".ug"
-478= "FANTASY®" + ".bz"
+478= "FANTASYÂ®" + ".bz"
 inanchor:".gu" + "Grand"
 allintitle:watch-netflix.aspx?335=
 filetype:Grand.aspx?1069=
@@ -1849,7 +1849,7 @@ Call.php?815=
 .aspx?1373= "minecraft@hotmail.com"
 .php?1340= "fortnite@gmail.com"
 1329= "fortnite@hotmail.com" + ".an"
-1472= "FANTASY®" + ".pl"
+1472= "FANTASYÂ®" + ".pl"
 source:".va" + "Duty@steampowered.com"
 insubject:fortnite@gmail.com.asp?1612=
 info:".lt" + "dominos-pizza"
@@ -1860,7 +1860,7 @@ filetype:".cf" + "fortnite-errors"
 info:of.aspx?1051=
 inurl:fortnite@gmail.com.php?1711=
 1925= "Grand" + ".pl"
-allintext:FANTASY®.php?962=
+allintext:FANTASYÂ®.php?962=
 XI@steampowered.com.asp?1748=
 intext:".cm" + "watch-netflix"
 747= "fortnite@hotmail.com" + ".ao"
@@ -1873,7 +1873,7 @@ inanchor:.php?374=
 282= "FINAL" + ".gg"
 155= "uplay-games" + ".qa"
 1725= ""
-FANTASY®.aspx?1281=
+FANTASYÂ®.aspx?1281=
 .aspx?301= "uplay-download"
 1978= "steam-games"
 uplay-games.php?1694=
@@ -1934,10 +1934,10 @@ intitle:uplay-download1026=
 allintitle:".ls" + "uplay-download"
 intitle:".gb" + "XI@steampowered.com"
 .asp?1217= "Grand"
-allinurl:FANTASY®.asp?993=
+allinurl:FANTASYÂ®.asp?993=
 allintitle:".hu" + "uplay-games"
 info:".it" + "Call"
-allinanchor:".aq" + "FANTASY®"
+allinanchor:".aq" + "FANTASYÂ®"
 allintitle:Theft.aspx?428=
 XI@steampowered.com1480=
 allintitle:uplay-download387=
@@ -1960,7 +1960,7 @@ info:".gf" + "netflix-buy"
 1476= "Counter-Strike@steampowered.com" + ".ly"
 minecraft@yahoo.com.aspx?2018=
 .asp?502= "Duty@steampowered.com"
-source:FANTASY®.aspx?284=
+source:FANTASYÂ®.aspx?284=
 inurl:netflix-buy.php?1282=
 1113= "Auto@steampowered.com" + ".bw"
 allintitle:dominos-pizza.php?528=
@@ -1984,7 +1984,7 @@ source:".eg" + "fortnite-errors"
 allintitle:fortnite@gmail.com.aspx?557=
 517= "fortnite@gmail.com" + ".va"
 .aspx?828= "Duty@steampowered.com"
-935= "FANTASY®" + ".eg"
+935= "FANTASYÂ®" + ".eg"
 link:".br" + "steam-games"
 insubject:steam-games.php?294=
 13= "Duty@steampowered.com"
@@ -2039,7 +2039,7 @@ allintitle:".tl" + "fortnite@hotmail.com"
 351= "uplay-games" + ".gp"
 .asp?238=
 1510= "minecraft@yahoo.com"
-link:FANTASY®.aspx?50=
+link:FANTASYÂ®.aspx?50=
 .aspx?961=
 975= "FINAL" + ".id"
 info:steam-games.asp?557=
@@ -2058,7 +2058,7 @@ allintext:192=
 733= "of" + ".uz"
 inurl:893=
 inanchor:".rs" + "steam-games"
-link:".mt" + "FANTASY®"
+link:".mt" + "FANTASYÂ®"
 source:netflix-buy.aspx?737=
 allintext:".ag" + "FINAL"
 .aspx?1478=
@@ -2108,7 +2108,7 @@ of1251=
 1406= "fortnite-errors" + ".mu"
 source:".ms" + "fortnite@gmail.com"
 inurl:.php?12=
-filetype:".mf" + "FANTASY®"
+filetype:".mf" + "FANTASYÂ®"
 allinanchor:.aspx?538=
 1816= "Counter-Strike@steampowered.com" + ".me"
 cache:".kw" + "minecraft@yahoo.com"
@@ -2164,27 +2164,27 @@ allintitle:fortnite@gmail.com.asp?12=
 968= "Grand" + ".li"
 865= "FINAL"
 .php?1003= "of"
-.aspx?282= "FANTASY®"
+.aspx?282= "FANTASYÂ®"
 .aspx?181= "fortnite@gmail.com"
 fortnite@yahoo.com.aspx?1117=
 allinanchor:".nc" + "minecraft@yahoo.com"
 1807= "fortnite-errors"
 428= "minecraft@gmail.com" + ".at"
-inanchor:FANTASY®.asp?483=
+inanchor:FANTASYÂ®.asp?483=
 source:".sv" + "fortnite@yahoo.com"
 1771= "FINAL" + ".bw"
 filetype:minecraft@yahoo.com.php?323=
 .asp?1544= ""
 info:Duty@steampowered.com.aspx?449=
 986= "minecraft@hotmail.com" + ".edu"
-allinurl:".ma" + "FANTASY®"
+allinurl:".ma" + "FANTASYÂ®"
 512= "fortnite@yahoo.com" + ".ac"
 cache:".bj" + "Duty@steampowered.com"
 Counter-Strike@steampowered.com.php?1993=
 Theft.asp?1521=
 FINAL.php?1012=
 allinanchor:XI@steampowered.com.php?1268=
-intitle:FANTASY®.aspx?1264=
+intitle:FANTASYÂ®.aspx?1264=
 inanchor:".bh" + "dominos-pizza"
 inurl:uplay-download.php?294=
 intext:".bt" + "Duty@steampowered.com"
@@ -2235,18 +2235,18 @@ minecraft@hotmail.com.php?1465=
 Call.asp?226=
 filetype:fortnite@hotmail.com.asp?441=
 source:Auto@steampowered.com.php?407=
-cache:FANTASY®.asp?848=
+cache:FANTASYÂ®.asp?848=
 Theft828=
 76= "Theft" + ".vn"
 allintext:".ec" + "minecraft@yahoo.com"
 Auto@steampowered.com.aspx?261=
-intext:".mz" + "FANTASY®"
+intext:".mz" + "FANTASYÂ®"
 509= "Duty@steampowered.com" + ".la"
 656= "fortnite@hotmail.com" + ".rs"
 allintext:Duty@steampowered.com.aspx?1239=
 dominos-pizza1475=
 allinurl:minecraft@hotmail.com.aspx?759=
-1683= "FANTASY®" + ".gq"
+1683= "FANTASYÂ®" + ".gq"
 source:".com.tr" + "dominos-pizza"
 614= "uplay-download" + ".ge"
 inurl:".cw" + "Auto@steampowered.com"
@@ -2281,7 +2281,7 @@ Auto@steampowered.com.asp?1860=
 intext:uplay-download.php?351=
 fortnite@hotmail.com.asp?1194=
 .asp?1414= "fortnite@hotmail.com"
-FANTASY®1218=
+FANTASYÂ®1218=
 12= "minecraft@hotmail.com"
 828= "Theft" + ".gp"
 .php?1444= "fortnite@gmail.com"
@@ -2371,7 +2371,7 @@ intext:".au" + "fortnite@yahoo.com"
 fortnite-errors.aspx?183=
 allinurl:".hu" + "of"
 inanchor:minecraft@yahoo.com.php?1169=
-.php?1633= "FANTASY®"
+.php?1633= "FANTASYÂ®"
 uplay-games.aspx?512=
 source:FINAL.aspx?778=
 source:".tt" + "XI@steampowered.com"
@@ -2393,7 +2393,7 @@ allinanchor:netflix-buy1569=
 .asp?591= "Auto@steampowered.com"
 intitle:".no" + "netflix-buy"
 intitle:Call.asp?1487=
-1270= "FANTASY®"
+1270= "FANTASYÂ®"
 .php?824= "watch-netflix"
 filetype:minecraft@gmail.com.asp?1584=
 link:minecraft@gmail.com.aspx?1373=
@@ -2453,7 +2453,7 @@ Theft.aspx?1549=
 1754= "minecraft@hotmail.com" + ".nc"
 intitle:".tn" + "fortnite@gmail.com"
 info:".pm" + "fortnite@gmail.com"
-.aspx?511= "FANTASY®"
+.aspx?511= "FANTASYÂ®"
 .aspx?69=
 .asp?764=
 allintext:Grand.aspx?146=
@@ -2499,7 +2499,7 @@ link:Duty@steampowered.com870=
 info:fortnite-errors.php?1839=
 158= "fortnite@gmail.com" + ".ht"
 1650= "Counter-Strike@steampowered.com" + ".kn"
-FANTASY®138=
+FANTASYÂ®138=
 1400= "Grand" + ".bd"
 minecraft@yahoo.com279=
 711= "uplay-download" + ".mil"
@@ -2562,7 +2562,7 @@ allinanchor:netflix-buy.aspx?981=
 inanchor:".am" + "fortnite@hotmail.com"
 1118= "uplay-games" + ".do"
 source:fortnite-errors1931=
-FANTASY®1596=
+FANTASYÂ®1596=
 fortnite@yahoo.com901=
 .asp?1728= "watch-netflix"
 1242= "Grand"
@@ -2571,7 +2571,7 @@ info:".tz" + "Call"
 intitle:netflix-buy.aspx?587=
 Auto@steampowered.com.asp?1894=
 1013= "minecraft@hotmail.com" + ".ng"
-.php?1812= "FANTASY®"
+.php?1812= "FANTASYÂ®"
 Auto@steampowered.com278=
 623= "minecraft@yahoo.com" + ".tv"
 inanchor:".bb" + "fortnite@hotmail.com"
@@ -2589,7 +2589,7 @@ insubject:".ni" + ""
 .asp?299= ""
 1104= "minecraft@gmail.com" + ".ro"
 1058= "uplay-download"
-intitle:FANTASY®.asp?1338=
+intitle:FANTASYÂ®.asp?1338=
 allinurl:".ba" + "fortnite@gmail.com"
 uplay-download.php?100=
 intext:fortnite@gmail.com.php?1610=
@@ -2633,7 +2633,7 @@ source:".pr" + "Auto@steampowered.com"
 filetype:minecraft@yahoo.com.asp?778=
 794= "Grand" + ".cv"
 link:".bg" + "fortnite-errors"
-FANTASY®.asp?458=
+FANTASYÂ®.asp?458=
 687= "Theft" + ".so"
 .asp?1470= "fortnite@gmail.com"
 Duty@steampowered.com.aspx?395=
@@ -2703,10 +2703,10 @@ allinanchor:minecraft@hotmail.com.asp?846=
 allinurl:".st" + "Auto@steampowered.com"
 link:Theft.aspx?1330=
 Grand.php?1665=
-inurl:FANTASY®.asp?775=
+inurl:FANTASYÂ®.asp?775=
 305= "watch-netflix" + ".cm"
 link:".pk" + ""
-link:".bz" + "FANTASY®"
+link:".bz" + "FANTASYÂ®"
 allinurl:".by" + "fortnite@gmail.com"
 cache:".edu" + "watch-netflix"
 inurl:".cm" + "Grand"
@@ -2718,12 +2718,12 @@ allintitle:dominos-pizza.aspx?1463=
 .aspx?981= ""
 1816= "XI@steampowered.com" + ".bv"
 inurl:Grand.asp?1247=
-inanchor:FANTASY®.php?1747=
+inanchor:FANTASYÂ®.php?1747=
 fortnite@hotmail.com.aspx?1554=
 allinanchor:".mf" + "Duty@steampowered.com"
 allintitle:".tv" + ""
 84= "uplay-download" + ".tt"
-.asp?1527= "FANTASY®"
+.asp?1527= "FANTASYÂ®"
 Grand.aspx?378=
 91= "netflix-buy"
 .php?1918=
@@ -2737,7 +2737,7 @@ filetype:Auto@steampowered.com173=
 1299= "Duty@steampowered.com" + ".gi"
 .asp?1447= "Grand"
 946= "minecraft@gmail.com" + ".ni"
-inanchor:".cy" + "FANTASY®"
+inanchor:".cy" + "FANTASYÂ®"
 Duty@steampowered.com1585=
 info:".st" + "dominos-pizza"
 .asp?1014= "minecraft@hotmail.com"
@@ -2745,7 +2745,7 @@ info:".st" + "dominos-pizza"
 1301= "fortnite@gmail.com" + ".hm"
 .asp?56= "minecraft@hotmail.com"
 1463= "fortnite@yahoo.com" + ".vu"
-filetype:FANTASY®.php?1=
+filetype:FANTASYÂ®.php?1=
 allintitle:".co" + "fortnite@yahoo.com"
 link:XI@steampowered.com.asp?1288=
 .php?1369= "fortnite-errors"
@@ -2768,7 +2768,7 @@ source:".af" + "fortnite@gmail.com"
 intitle:".fk" + "Theft"
 XI@steampowered.com.asp?1249=
 .asp?1260= "dominos-pizza"
-FANTASY®.php?13=
+FANTASYÂ®.php?13=
 .asp?986= "uplay-download"
 link:Duty@steampowered.com.aspx?100=
 .aspx?1555= "fortnite@hotmail.com"
@@ -2797,7 +2797,7 @@ cache:uplay-games.php?1807=
 243= "Call" + ".cr"
 fortnite-errors.asp?1644=
 intext:of.asp?589=
-.asp?464= "FANTASY®"
+.asp?464= "FANTASYÂ®"
 .asp?1672= "minecraft@gmail.com"
 link:".bz" + "fortnite@yahoo.com"
 298= "uplay-games" + ".be"
@@ -2871,7 +2871,7 @@ allintitle:uplay-download.aspx?591=
 1489= "minecraft@gmail.com" + ".bf"
 .php?1444= ""
 .asp?1164= "minecraft@yahoo.com"
-inanchor:".ck" + "FANTASY®"
+inanchor:".ck" + "FANTASYÂ®"
 minecraft@yahoo.com.php?1102=
 467= "" + ".cn"
 source:".tm" + "minecraft@gmail.com"
@@ -2907,7 +2907,7 @@ allintext:fortnite@gmail.com.asp?683=
 980= "Theft"
 filetype:Auto@steampowered.com.aspx?308=
 978= "fortnite@hotmail.com" + ".vg"
-info:FANTASY®.php?1306=
+info:FANTASYÂ®.php?1306=
 609= "dominos-pizza" + ".uk"
 watch-netflix.asp?558=
 Grand.aspx?911=
@@ -2926,7 +2926,7 @@ allinanchor:steam-games.asp?206=
 intext:".me" + "steam-games"
 allinurl:watch-netflix.aspx?1267=
 Theft.php?1544=
-341= "FANTASY®" + ".lk"
+341= "FANTASYÂ®" + ".lk"
 allinanchor:342=
 watch-netflix.aspx?1783=
 .asp?1778= "dominos-pizza"
@@ -2966,7 +2966,7 @@ inanchor:".sn" + "Theft"
 intext:of.php?610=
 allinanchor:".ar" + "steam-games"
 619= "Grand" + ".in"
-778= "FANTASY®"
+778= "FANTASYÂ®"
 1095= "minecraft@hotmail.com" + ".gw"
 intext:uplay-games.php?408=
 filetype:Theft.php?267=
@@ -2976,7 +2976,7 @@ inurl:XI@steampowered.com.php?1621=
 allinanchor:Call.aspx?1779=
 606= "fortnite@hotmail.com" + ".ci"
 allintitle:minecraft@hotmail.com.asp?86=
-cache:".fk" + "FANTASY®"
+cache:".fk" + "FANTASYÂ®"
 1859= "Call" + ".cy"
 1576= "minecraft@yahoo.com" + ".gov"
 1620= "uplay-games" + ".vu"
@@ -2989,7 +2989,7 @@ inurl:Grand.asp?133=
 info:fortnite@hotmail.com.aspx?362=
 link:fortnite-errors.asp?144=
 1739= "steam-games" + ".ee"
-FANTASY®1911=
+FANTASYÂ®1911=
 .asp?710= "FINAL"
 .php?1045= "minecraft@gmail.com"
 FINAL.asp?989=
@@ -3009,9 +3009,9 @@ uplay-games.php?180=
 .php?1242= "FINAL"
 info:".sy" + "steam-games"
 info:".zm" + "fortnite@yahoo.com"
-1142= "FANTASY®" + ".fo"
+1142= "FANTASYÂ®" + ".fo"
 allinurl:".sj" + "fortnite@yahoo.com"
-FANTASY®516=
+FANTASYÂ®516=
 minecraft@gmail.com.aspx?1055=
 fortnite@hotmail.com1159=
 958= ""
@@ -3033,7 +3033,7 @@ allinanchor:steam-games.php?422=
 intext:Auto@steampowered.com1405=
 allinanchor:uplay-download1045=
 allinanchor:".gl" + "XI@steampowered.com"
-link:".kg" + "FANTASY®"
+link:".kg" + "FANTASYÂ®"
 226= "fortnite@yahoo.com" + ".cf"
 allintitle:".nc" + "fortnite@hotmail.com"
 172= "XI@steampowered.com" + ".es"
@@ -3119,7 +3119,7 @@ allintext:Auto@steampowered.com.php?421=
 watch-netflix.php?1692=
 .asp?173= "minecraft@hotmail.com"
 1810= "Counter-Strike@steampowered.com" + ".bz"
-allintext:FANTASY®1376=
+allintext:FANTASYÂ®1376=
 allintext:XI@steampowered.com.asp?1624=
 1126= "minecraft@yahoo.com" + ".tz"
 allintext:Counter-Strike@steampowered.com.php?724=
@@ -3128,13 +3128,13 @@ intext:minecraft@gmail.com.php?1044=
 insubject:".si" + "minecraft@yahoo.com"
 953= "XI@steampowered.com" + ".ga"
 filetype:".rw" + "watch-netflix"
-inurl:FANTASY®.asp?29=
+inurl:FANTASYÂ®.asp?29=
 source:Grand1756=
 fortnite@hotmail.com.php?182=
 .asp?49= "fortnite@yahoo.com"
 1216= "Counter-Strike@steampowered.com" + ".az"
 fortnite@yahoo.com.asp?1755=
-.aspx?873= "FANTASY®"
+.aspx?873= "FANTASYÂ®"
 .php?1707= "Call"
 cache:dominos-pizza.php?296=
 inurl:minecraft@yahoo.com.php?500=
@@ -3142,7 +3142,7 @@ filetype:dominos-pizza.asp?1366=
 93= "Grand"
 937= "netflix-buy" + ".za"
 allinurl:".id" + "watch-netflix"
-link:FANTASY®.php?614=
+link:FANTASYÂ®.php?614=
 netflix-buy1542=
 intext:FINAL1859=
 .asp?1073= "fortnite@hotmail.com"
@@ -3208,7 +3208,7 @@ allintitle:".ki" + "of"
 inanchor:".ac" + "minecraft@yahoo.com"
 steam-games849=
 .asp?336= "minecraft@yahoo.com"
-info:FANTASY®.asp?588=
+info:FANTASYÂ®.asp?588=
 allintitle:Auto@steampowered.com.php?967=
 inurl:".td" + "Duty@steampowered.com"
 .php?1494= "Auto@steampowered.com"
@@ -3279,7 +3279,7 @@ allintext:netflix-buy.aspx?1730=
 link:".gm" + "Grand"
 1563= "Grand" + ".ne"
 allinanchor:dominos-pizza.aspx?701=
-allinurl:FANTASY®.aspx?360=
+allinurl:FANTASYÂ®.aspx?360=
 1896= "netflix-buy" + ".nz"
 source:".bo" + "netflix-buy"
 .asp?1741= ""
@@ -3321,9 +3321,9 @@ intext:".gr" + "Auto@steampowered.com"
 inurl:minecraft@gmail.com.asp?1992=
 Theft958=
 XI@steampowered.com.php?1037=
-allinurl:FANTASY®1048=
+allinurl:FANTASYÂ®1048=
 1202= "netflix-buy"
-FANTASY®.php?1626=
+FANTASYÂ®.php?1626=
 filetype:steam-games.php?811=
 fortnite-errors.aspx?362=
 inanchor:steam-games955=
@@ -3345,7 +3345,7 @@ minecraft@hotmail.com.php?1=
 steam-games.asp?1349=
 insubject:.php?1837=
 steam-games.aspx?311=
-1467= "FANTASY®" + ".np"
+1467= "FANTASYÂ®" + ".np"
 allinurl:".tk" + "XI@steampowered.com"
 1194= "of" + ".au"
 inurl:dominos-pizza403=
@@ -3353,7 +3353,7 @@ inurl:dominos-pizza403=
 703= "Call" + ".za"
 Grand.aspx?1917=
 1592= "of" + ".dk"
-222= "FANTASY®" + ".re"
+222= "FANTASYÂ®" + ".re"
 allinanchor:Counter-Strike@steampowered.com.aspx?778=
 372= "of"
 Auto@steampowered.com.asp?713=
@@ -3433,7 +3433,7 @@ of762=
 974= "Grand" + ".gg"
 .php?933= "minecraft@yahoo.com"
 minecraft@hotmail.com.aspx?1627=
-link:FANTASY®1086=
+link:FANTASYÂ®1086=
 info:".as" + "minecraft@yahoo.com"
 intitle:".pf" + "dominos-pizza"
 .aspx?1218= "netflix-buy"
@@ -3442,8 +3442,8 @@ filetype:".dk" + "steam-games"
 of454=
 903= "Theft"
 info:".cf" + "uplay-games"
-FANTASY®1214=
-.php?875= "FANTASY®"
+FANTASYÂ®1214=
+.php?875= "FANTASYÂ®"
 1871= "fortnite-errors" + ".nr"
 XI@steampowered.com357=
 86= "uplay-games"
@@ -3483,13 +3483,13 @@ netflix-buy.asp?1562=
 cache:Counter-Strike@steampowered.com.php?500=
 665= "Call" + ".bo"
 724= "fortnite@gmail.com"
-1127= "FANTASY®" + ".tn"
+1127= "FANTASYÂ®" + ".tn"
 .asp?991=
 insubject:XI@steampowered.com.aspx?1799=
 583= "watch-netflix" + ".tr"
 .php?1948= "of"
 cache:Counter-Strike@steampowered.com.php?204=
-inurl:".lb" + "FANTASY®"
+inurl:".lb" + "FANTASYÂ®"
 allinanchor:".pg" + "minecraft@yahoo.com"
 101= "of" + ".tv"
 504= "minecraft@yahoo.com" + ".ba"
@@ -3512,7 +3512,7 @@ inurl:".sk" + "Counter-Strike@steampowered.com"
 allinanchor:of.php?1248=
 intitle:.php?1631=
 uplay-games1840=
-611= "FANTASY®" + ".bf"
+611= "FANTASYÂ®" + ".bf"
 1502= "minecraft@gmail.com" + ".zm"
 insubject:".kz" + "Theft"
 filetype:Grand487=
@@ -3526,7 +3526,7 @@ info:".kn" + "Auto@steampowered.com"
 fortnite@yahoo.com.aspx?1171=
 link:dominos-pizza.asp?713=
 .php?1772= "Grand"
-1626= "FANTASY®"
+1626= "FANTASYÂ®"
 1356= "fortnite@hotmail.com"
 allinurl:minecraft@gmail.com236=
 546= "" + ".ch"
@@ -3567,7 +3567,7 @@ intitle:uplay-games.asp?908=
 inanchor:".cf" + "watch-netflix"
 info:".ch" + "Counter-Strike@steampowered.com"
 uplay-download.aspx?1930=
-377= "FANTASY®"
+377= "FANTASYÂ®"
 608= "Auto@steampowered.com" + ".co"
 cache:".lb" + "Counter-Strike@steampowered.com"
 link:".nz" + "Theft"
@@ -3600,7 +3600,7 @@ Counter-Strike@steampowered.com.aspx?1148=
 Theft1090=
 allinurl:".nf" + "XI@steampowered.com"
 inurl:Grand.php?135=
-info:FANTASY®.aspx?50=
+info:FANTASYÂ®.aspx?50=
 intext:".py" + ""
 .asp?926= "fortnite@gmail.com"
 insubject:".cx" + ""
@@ -3608,7 +3608,7 @@ allinurl:".iq" + "fortnite-errors"
 cache:".dz" + "watch-netflix"
 filetype:steam-games.php?1394=
 fortnite-errors.php?1904=
-FANTASY®1814=
+FANTASYÂ®1814=
 insubject:minecraft@hotmail.com.php?1604=
 785= "of" + ".an"
 489= "watch-netflix" + ".ng"
@@ -3631,7 +3631,7 @@ fortnite@yahoo.com.aspx?519=
 source:Call.php?1561=
 482= "watch-netflix" + ".gs"
 allinanchor:".im" + "uplay-games"
-FANTASY®.asp?1361=
+FANTASYÂ®.asp?1361=
 allinanchor:XI@steampowered.com.aspx?633=
 Duty@steampowered.com.aspx?1532=
 insubject:".ye" + "watch-netflix"
@@ -3651,7 +3651,7 @@ inurl:".ec" + "Duty@steampowered.com"
 cache:".gt" + "XI@steampowered.com"
 link:".fi" + ""
 .asp?1705= "steam-games"
-inurl:FANTASY®.asp?1855=
+inurl:FANTASYÂ®.asp?1855=
 filetype:steam-games.php?1398=
 1708= "fortnite@gmail.com" + ".ms"
 .asp?1127= ""
@@ -3691,10 +3691,10 @@ source:".nc" + "fortnite@gmail.com"
 insubject:Auto@steampowered.com.php?501=
 intext:".zw" + ""
 909= "uplay-download" + ".bm"
-503= "FANTASY®" + ".np"
+503= "FANTASYÂ®" + ".np"
 855= "netflix-buy"
 164= "fortnite-errors" + ".mo"
-allinanchor:".arpa" + "FANTASY®"
+allinanchor:".arpa" + "FANTASYÂ®"
 allintext:".im" + "minecraft@gmail.com"
 1124= "uplay-games" + ".ma"
 uplay-games.aspx?1208=
@@ -3725,7 +3725,7 @@ link:Call.aspx?1061=
 .aspx?47= "uplay-download"
 allintitle:".pn" + "fortnite-errors"
 watch-netflix1928=
-FANTASY®279=
+FANTASYÂ®279=
 785= "dominos-pizza" + ".gov"
 1015= "" + ".gp"
 1329= "watch-netflix"
@@ -3748,7 +3748,7 @@ allintitle:of446=
 allinanchor:".me" + "XI@steampowered.com"
 Call.php?1761=
 link:".ws" + "fortnite@hotmail.com"
-FANTASY®.php?821=
+FANTASYÂ®.php?821=
 watch-netflix1372=
 source:".vn" + "Duty@steampowered.com"
 1144= "FINAL"
@@ -3762,7 +3762,7 @@ fortnite@yahoo.com.aspx?1906=
 filetype:".ng" + "steam-games"
 intext:".vn" + "Counter-Strike@steampowered.com"
 insubject:.asp?1948=
-filetype:FANTASY®.aspx?814=
+filetype:FANTASYÂ®.aspx?814=
 cache:".sg" + "Auto@steampowered.com"
 1065= "Counter-Strike@steampowered.com" + ".mw"
 cache:Auto@steampowered.com.asp?1361=
@@ -3777,11 +3777,11 @@ Counter-Strike@steampowered.com.php?299=
 allinanchor:of1595=
 source:".sn" + "Call"
 fortnite-errors61=
-878= "FANTASY®" + ".dm"
+878= "FANTASYÂ®" + ".dm"
 inurl:".tz" + "watch-netflix"
 allintitle:".ws" + "Theft"
 456= "Auto@steampowered.com" + ".mil"
-intitle:FANTASY®.php?1109=
+intitle:FANTASYÂ®.php?1109=
 fortnite-errors.asp?1312=
 allintext:".tk" + "netflix-buy"
 filetype:fortnite@gmail.com1219=
@@ -3792,7 +3792,7 @@ filetype:fortnite@gmail.com1219=
 link:".tw" + "watch-netflix"
 minecraft@yahoo.com.php?1926=
 .asp?685= "fortnite-errors"
-link:".ms" + "FANTASY®"
+link:".ms" + "FANTASYÂ®"
 .asp?437= "Auto@steampowered.com"
 dominos-pizza947=
 allinanchor:Call.asp?1262=
@@ -3838,7 +3838,7 @@ info:".com" + "fortnite@yahoo.com"
 cache:Auto@steampowered.com.asp?1000=
 .aspx?1581=
 inanchor:dominos-pizza.aspx?1628=
-FANTASY®.aspx?1212=
+FANTASYÂ®.aspx?1212=
 1451= "Duty@steampowered.com" + ".sl"
 info:".za" + "XI@steampowered.com"
 intext:".ee" + "Duty@steampowered.com"
@@ -3869,7 +3869,7 @@ allinanchor:uplay-games.asp?1785=
 intitle:".ck" + "watch-netflix"
 .php?1463= "minecraft@gmail.com"
 .asp?1365= "fortnite@hotmail.com"
-909= "FANTASY®" + ".bj"
+909= "FANTASYÂ®" + ".bj"
 netflix-buy1291=
 .asp?500=
 info:".to" + ""
@@ -4014,7 +4014,7 @@ link:".gu" + "minecraft@yahoo.com"
 1035= "fortnite-errors"
 link:".gn" + "minecraft@yahoo.com"
 inurl:".net" + "minecraft@gmail.com"
-1589= "FANTASY®" + ".no"
+1589= "FANTASYÂ®" + ".no"
 130= "FINAL" + ".be"
 allintext:minecraft@hotmail.com.aspx?825=
 994= "steam-games"
@@ -4100,7 +4100,7 @@ allinurl:".tn" + ""
 source:".pa" + "netflix-buy"
 allinanchor:".bq" + "dominos-pizza"
 XI@steampowered.com.aspx?971=
-FANTASY®.aspx?1026=
+FANTASYÂ®.aspx?1026=
 751= ""
 FINAL.asp?352=
 of834=
@@ -4109,7 +4109,7 @@ minecraft@yahoo.com.aspx?1405=
 allinanchor:steam-games.aspx?1494=
 info:Call715=
 inanchor:1529=
-FANTASY®.asp?117=
+FANTASYÂ®.asp?117=
 1032= "Call" + ".tn"
 Auto@steampowered.com.aspx?303=
 cache:".ls" + "fortnite@hotmail.com"
@@ -4136,8 +4136,8 @@ uplay-games.php?1381=
 .aspx?559= "FINAL"
 1368= "Grand" + ".ao"
 of1821=
-inurl:FANTASY®.asp?374=
-info:FANTASY®.asp?803=
+inurl:FANTASYÂ®.asp?374=
+info:FANTASYÂ®.asp?803=
 allintitle:".sa" + "of"
 source:".bo" + "minecraft@yahoo.com"
 .php?1950= "FINAL"
@@ -4146,7 +4146,7 @@ source:".bo" + "minecraft@yahoo.com"
 allintitle:".dz" + ""
 .php?1517= ""
 915= "minecraft@hotmail.com"
-intext:FANTASY®.php?337=
+intext:FANTASYÂ®.php?337=
 intitle:".af" + "uplay-games"
 allinurl:".tn" + "XI@steampowered.com"
 allintext:uplay-download.asp?799=
@@ -4166,7 +4166,7 @@ cache:watch-netflix1630=
 150= "of" + ".ua"
 minecraft@yahoo.com.php?1655=
 124= "minecraft@hotmail.com" + ".sx"
-.aspx?1031= "FANTASY®"
+.aspx?1031= "FANTASYÂ®"
 FINAL.aspx?650=
 source:".pm" + "dominos-pizza"
 uplay-games.aspx?519=
@@ -4178,7 +4178,7 @@ allinanchor:".pe" + "fortnite@yahoo.com"
 1228= "fortnite@gmail.com" + ".bh"
 fortnite@gmail.com.aspx?441=
 filetype:minecraft@hotmail.com.aspx?121=
-link:".is" + "FANTASY®"
+link:".is" + "FANTASYÂ®"
 filetype:".mc" + "Auto@steampowered.com"
 link:minecraft@yahoo.com.php?1077=
 info:".sz" + "fortnite@hotmail.com"
@@ -4190,7 +4190,7 @@ watch-netflix1561=
 allinurl:.aspx?545=
 XI@steampowered.com.asp?1734=
 inanchor:".al" + "dominos-pizza"
-640= "FANTASY®" + ".gd"
+640= "FANTASYÂ®" + ".gd"
 .aspx?815= "uplay-games"
 .asp?1071=
 569= "Grand" + ".gh"
@@ -4253,7 +4253,7 @@ allintitle:uplay-download.asp?1285=
 intext:Grand.asp?1937=
 netflix-buy.aspx?1510=
 589= "" + ".bj"
-FANTASY®.aspx?1115=
+FANTASYÂ®.aspx?1115=
 allintitle:".af" + "steam-games"
 allintitle:fortnite-errors1859=
 inanchor:".aw" + "fortnite@hotmail.com"
@@ -4270,7 +4270,7 @@ minecraft@gmail.com.asp?1983=
 info:".sx" + "Auto@steampowered.com"
 inurl:Theft.php?17=
 uplay-download46=
-.aspx?394= "FANTASY®"
+.aspx?394= "FANTASYÂ®"
 1129= "steam-games" + ".hu"
 inurl:uplay-games.asp?1731=
 .php?1319= "dominos-pizza"
@@ -4298,7 +4298,7 @@ FINAL1996=
 netflix-buy.php?1503=
 .aspx?1818= "Grand"
 Duty@steampowered.com.php?272=
-FANTASY®.aspx?802=
+FANTASYÂ®.aspx?802=
 allinanchor:".gy" + "dominos-pizza"
 185= "FINAL" + ".ru"
 info:.php?575=
@@ -4312,7 +4312,7 @@ link:".be" + ""
 allinanchor:".to" + ""
 intitle:".ec" + "uplay-games"
 intitle:XI@steampowered.com.php?1965=
-FANTASY®.php?1440=
+FANTASYÂ®.php?1440=
 source:fortnite-errors.aspx?1165=
 intext:minecraft@gmail.com1785=
 151= "minecraft@hotmail.com" + ".am"
@@ -4339,7 +4339,7 @@ intitle:".cz" + ""
 info:".cz" + "FINAL"
 minecraft@yahoo.com.asp?122=
 filetype:uplay-games.asp?490=
-.aspx?705= "FANTASY®"
+.aspx?705= "FANTASYÂ®"
 filetype:uplay-games.aspx?1690=
 allinanchor:fortnite-errors.asp?134=
 Call.aspx?1305=
@@ -4411,7 +4411,7 @@ fortnite@gmail.com.aspx?815=
 108= "Counter-Strike@steampowered.com" + ".sz"
 733= "Theft" + ".bi"
 .asp?321= "uplay-games"
-FANTASY®1340=
+FANTASYÂ®1340=
 intext:uplay-download300=
 inanchor:".in" + "uplay-download"
 inanchor:minecraft@gmail.com1285=
@@ -4443,7 +4443,7 @@ cache:".mh" + "steam-games"
 minecraft@gmail.com.php?1660=
 967= "fortnite-errors" + ".hn"
 .aspx?549= "uplay-games"
-intitle:".wf" + "FANTASY®"
+intitle:".wf" + "FANTASYÂ®"
 inurl:XI@steampowered.com626=
 inanchor:".ml" + "Call"
 1645= "Grand" + ".je"
@@ -4474,11 +4474,11 @@ Grand.php?226=
 .aspx?737=
 filetype:".tr" + "of"
 cache:.asp?658=
-1628= "FANTASY®"
+1628= "FANTASYÂ®"
 allinanchor:".bb" + "watch-netflix"
 intext:".ai" + "minecraft@gmail.com"
 fortnite-errors1338=
-allinanchor:".vn" + "FANTASY®"
+allinanchor:".vn" + "FANTASYÂ®"
 uplay-games.asp?172=
 .asp?435= "Grand"
 allintitle:".kp" + "netflix-buy"
@@ -4506,9 +4506,9 @@ allintext:fortnite@hotmail.com.asp?1876=
 inanchor:".mh" + "fortnite@yahoo.com"
 654= "fortnite-errors" + ".na"
 .asp?430= "Counter-Strike@steampowered.com"
-allintitle:FANTASY®174=
+allintitle:FANTASYÂ®174=
 allinurl:".hu" + "watch-netflix"
-.php?1315= "FANTASY®"
+.php?1315= "FANTASYÂ®"
 info:".vi" + ""
 1247= "FINAL" + ".tl"
 uplay-download.asp?335=
@@ -4534,7 +4534,7 @@ allinurl:".nz" + "minecraft@yahoo.com"
 .asp?1029= "XI@steampowered.com"
 minecraft@yahoo.com777=
 739= "minecraft@gmail.com" + ".az"
-inanchor:".su" + "FANTASY®"
+inanchor:".su" + "FANTASYÂ®"
 intitle:uplay-download.php?14=
 1625= "netflix-buy" + ".nu"
 Auto@steampowered.com1224=
@@ -4575,7 +4575,7 @@ info:fortnite@gmail.com1797=
 120= "minecraft@yahoo.com" + ".ms"
 .aspx?257= "fortnite-errors"
 insubject:".il" + "minecraft@hotmail.com"
-70= "FANTASY®" + ".pl"
+70= "FANTASYÂ®" + ".pl"
 727= "fortnite@yahoo.com" + ".aw"
 dominos-pizza.aspx?1535=
 info:".yt" + "fortnite@hotmail.com"
@@ -4621,7 +4621,7 @@ fortnite@yahoo.com1991=
 .asp?502= "steam-games"
 filetype:".md" + "Auto@steampowered.com"
 inanchor:".vn" + "minecraft@gmail.com"
-allintext:FANTASY®.asp?1836=
+allintext:FANTASYÂ®.asp?1836=
 allintitle:.aspx?359=
 cache:".mx" + "Counter-Strike@steampowered.com"
 insubject:fortnite-errors593=
@@ -4670,7 +4670,7 @@ fortnite@yahoo.com1214=
 intext:dominos-pizza.php?1305=
 netflix-buy952=
 1829= "Counter-Strike@steampowered.com" + ".fr"
-cache:FANTASY®.asp?308=
+cache:FANTASYÂ®.asp?308=
 netflix-buy1891=
 .php?1261= "uplay-games"
 .asp?1374= "netflix-buy"
@@ -4683,7 +4683,7 @@ cache:uplay-download1686=
 .php?1890= ""
 fortnite@yahoo.com.aspx?310=
 .aspx?702= "minecraft@gmail.com"
-intitle:FANTASY®.aspx?938=
+intitle:FANTASYÂ®.aspx?938=
 allintitle:Auto@steampowered.com704=
 .asp?814= "Grand"
 .aspx?576= "fortnite@hotmail.com"
@@ -4694,7 +4694,7 @@ Auto@steampowered.com.aspx?265=
 422= "watch-netflix"
 intitle:fortnite-errors1803=
 watch-netflix.asp?329=
-137= "FANTASY®" + ".kh"
+137= "FANTASYÂ®" + ".kh"
 981= "fortnite@hotmail.com" + ".ro"
 netflix-buy.aspx?1173=
 intext:".bs" + "minecraft@hotmail.com"
@@ -4721,7 +4721,7 @@ steam-games.asp?251=
 1033= "minecraft@gmail.com" + ".gg"
 Duty@steampowered.com.asp?1369=
 minecraft@gmail.com.php?1201=
-1074= "FANTASY®" + ".org"
+1074= "FANTASYÂ®" + ".org"
 1348= "Counter-Strike@steampowered.com" + ".wf"
 inanchor:".kn" + ""
 allintext:".lt" + "dominos-pizza"
@@ -4733,7 +4733,7 @@ source:".at" + "Grand"
 link:Duty@steampowered.com638=
 .asp?575= "Theft"
 734= "fortnite@gmail.com" + ".sl"
-354= "FANTASY®" + ".aw"
+354= "FANTASYÂ®" + ".aw"
 Call1213=
 allinurl:".by" + ""
 1509= "Theft" + ".nc"
@@ -4750,7 +4750,7 @@ XI@steampowered.com.php?41=
 of.asp?1908=
 .aspx?1429= "minecraft@yahoo.com"
 filetype:minecraft@yahoo.com.asp?350=
-allintitle:".mil" + "FANTASY®"
+allintitle:".mil" + "FANTASYÂ®"
 fortnite@hotmail.com1459=
 1935= "uplay-download" + ".lv"
 inanchor:watch-netflix.asp?1940=
@@ -4760,16 +4760,16 @@ allinurl:watch-netflix.php?476=
 .aspx?1156= "minecraft@gmail.com"
 35= "fortnite@hotmail.com" + ".pg"
 allintext:".bd" + "fortnite@yahoo.com"
-FANTASY®.aspx?1678=
+FANTASYÂ®.aspx?1678=
 .aspx?91= "minecraft@hotmail.com"
 .asp?1771= "netflix-buy"
 996= "" + ".pn"
-1345= "FANTASY®" + ".sx"
+1345= "FANTASYÂ®" + ".sx"
 .asp?802= "dominos-pizza"
 link:".com.tr" + "netflix-buy"
 531= "minecraft@yahoo.com" + ".tp"
 filetype:Grand.php?1834=
-intitle:FANTASY®.php?1879=
+intitle:FANTASYÂ®.php?1879=
 1528= "fortnite@yahoo.com" + ".bz"
 allintext:".bs" + ""
 Theft1180=
@@ -4805,7 +4805,7 @@ intitle:".zm" + "dominos-pizza"
 allintext:fortnite@yahoo.com1275=
 allintitle:".cz" + "uplay-games"
 insubject:".gf" + "dominos-pizza"
-FANTASY®.asp?1654=
+FANTASYÂ®.asp?1654=
 inanchor:XI@steampowered.com.php?1687=
 inurl:".ls" + "uplay-download"
 591= "dominos-pizza" + ".va"
@@ -4845,7 +4845,7 @@ watch-netflix.asp?83=
 Duty@steampowered.com.php?1964=
 link:".tv" + "dominos-pizza"
 XI@steampowered.com.php?864=
-cache:".ar" + "FANTASY®"
+cache:".ar" + "FANTASYÂ®"
 fortnite@hotmail.com.asp?1476=
 582= "minecraft@gmail.com" + ".vg"
 allinurl:Grand.aspx?1789=
@@ -4866,7 +4866,7 @@ allintitle:Counter-Strike@steampowered.com.asp?58=
 info:of.asp?692=
 .asp?250= "watch-netflix"
 764= "" + ".bj"
-allinurl:FANTASY®1837=
+allinurl:FANTASYÂ®1837=
 minecraft@gmail.com.aspx?1630=
 inanchor:netflix-buy.php?1154=
 1660= "watch-netflix"
@@ -4877,7 +4877,7 @@ inanchor:netflix-buy.php?1154=
 Grand1885=
 .aspx?1502= "dominos-pizza"
 uplay-download.php?1075=
-inurl:FANTASY®1574=
+inurl:FANTASYÂ®1574=
 insubject:".ly" + "Duty@steampowered.com"
 Grand.aspx?134=
 Auto@steampowered.com1828=
@@ -4923,12 +4923,12 @@ minecraft@yahoo.com.php?2017=
 source:".be" + "minecraft@yahoo.com"
 allinurl:Counter-Strike@steampowered.com.aspx?1550=
 .asp?1009= "XI@steampowered.com"
-FANTASY®.aspx?1852=
+FANTASYÂ®.aspx?1852=
 link:".edu" + "Grand"
 Auto@steampowered.com.aspx?697=
 351= "uplay-download" + ".cz"
 Call662=
-inurl:FANTASY®.asp?1718=
+inurl:FANTASYÂ®.asp?1718=
 222= "XI@steampowered.com" + ".eg"
 allinurl:uplay-games.aspx?1520=
 of.php?1810=
@@ -4962,7 +4962,7 @@ info:135=
 minecraft@gmail.com.aspx?1048=
 .aspx?1739= "fortnite@hotmail.com"
 inanchor:".cy" + "of"
-.asp?1497= "FANTASY®"
+.asp?1497= "FANTASYÂ®"
 allintitle:dominos-pizza290=
 619= "netflix-buy" + ".rw"
 allinanchor:".ua" + "minecraft@gmail.com"
@@ -5011,7 +5011,7 @@ source:".uk" + "Grand"
 1845= "fortnite@hotmail.com" + ".it"
 789= "steam-games" + ".gw"
 .asp?205= "Counter-Strike@steampowered.com"
-1950= "FANTASY®" + ".ao"
+1950= "FANTASYÂ®" + ".ao"
 insubject:fortnite@gmail.com.php?1503=
 708= "XI@steampowered.com"
 .aspx?581= "Counter-Strike@steampowered.com"
@@ -5045,7 +5045,7 @@ info:".ss" + "uplay-download"
 1434= "steam-games" + ".bb"
 inurl:Auto@steampowered.com.asp?1131=
 filetype:.asp?1751=
-FANTASY®.php?903=
+FANTASYÂ®.php?903=
 cache:dominos-pizza.asp?1783=
 1974= "" + ".do"
 1868= "netflix-buy" + ".bd"
@@ -5075,7 +5075,7 @@ filetype:Call783=
 allinanchor:1691=
 .aspx?1955= "Duty@steampowered.com"
 .php?1497= "netflix-buy"
-1890= "FANTASY®" + ".ba"
+1890= "FANTASYÂ®" + ".ba"
 129= "fortnite@gmail.com" + ".tl"
 Theft862=
 499= "fortnite@gmail.com" + ".et"
@@ -5112,7 +5112,7 @@ intext:.aspx?928=
 .php?464= "Auto@steampowered.com"
 allintitle:".pm" + "netflix-buy"
 intitle:".zm" + "watch-netflix"
-344= "FANTASY®" + ".az"
+344= "FANTASYÂ®" + ".az"
 Call.php?642=
 inanchor:fortnite@hotmail.com.asp?1896=
 91= "dominos-pizza" + ".fr"
@@ -5130,7 +5130,7 @@ link:minecraft@yahoo.com.php?755=
 inanchor:".pf" + "Duty@steampowered.com"
 482= "minecraft@gmail.com"
 697= "dominos-pizza"
-FANTASY®.aspx?102=
+FANTASYÂ®.aspx?102=
 intitle:minecraft@yahoo.com1697=
 fortnite@yahoo.com.aspx?765=
 allinanchor:Call1238=
@@ -5140,7 +5140,7 @@ insubject:".gp" + "steam-games"
 Grand879=
 .asp?1959= "Call"
 .asp?1577= "Counter-Strike@steampowered.com"
-FANTASY®.php?360=
+FANTASYÂ®.php?360=
 allintitle:Duty@steampowered.com671=
 Grand.php?238=
 filetype:".tf" + "netflix-buy"
@@ -5162,9 +5162,9 @@ inurl:fortnite-errors.asp?1488=
 allinurl:".cw" + "minecraft@hotmail.com"
 883= "Grand" + ".uz"
 .aspx?207= "Theft"
-.asp?1358= "FANTASY®"
+.asp?1358= "FANTASYÂ®"
 source:of.aspx?738=
-636= "FANTASY®" + ".mt"
+636= "FANTASYÂ®" + ".mt"
 allinurl:".pe" + "uplay-download"
 519= "Grand" + ".za"
 .php?430= "fortnite@yahoo.com"
@@ -5263,7 +5263,7 @@ filetype:uplay-games.aspx?1215=
 link:Grand1326=
 2001= "steam-games"
 1926= "dominos-pizza"
-1502= "FANTASY®"
+1502= "FANTASYÂ®"
 526= "fortnite-errors" + ".um"
 .php?949= "minecraft@hotmail.com"
 780= "fortnite-errors" + ".ph"
@@ -5279,7 +5279,7 @@ source:of.php?129=
 1176= "Counter-Strike@steampowered.com" + ".ye"
 inanchor:".gf" + "Grand"
 inurl:".ga" + "minecraft@yahoo.com"
-1902= "FANTASY®"
+1902= "FANTASYÂ®"
 info:".gp" + "of"
 minecraft@yahoo.com.asp?1081=
 Duty@steampowered.com.php?1294=
@@ -5287,13 +5287,13 @@ allinurl:".ve" + "Counter-Strike@steampowered.com"
 allinurl:watch-netflix.asp?675=
 885= "minecraft@gmail.com" + ".gm"
 fortnite-errors1645=
-inurl:FANTASY®.aspx?1978=
+inurl:FANTASYÂ®.aspx?1978=
 filetype:FINAL.php?1604=
 allinurl:".ph" + ""
 1675= "FINAL" + ".cy"
 .asp?1589= "steam-games"
 74= "fortnite-errors" + ".bs"
-inanchor:FANTASY®.asp?924=
+inanchor:FANTASYÂ®.asp?924=
 984= "fortnite@hotmail.com" + ".ml"
 .aspx?149= "dominos-pizza"
 Duty@steampowered.com.aspx?1132=
@@ -5340,7 +5340,7 @@ source:Grand.asp?1279=
 1053= "uplay-download" + ".tv"
 .php?913= "of"
 allintitle:".lt" + "watch-netflix"
-FANTASY®.asp?714=
+FANTASYÂ®.asp?714=
 intext:netflix-buy.asp?1614=
 434= "fortnite@gmail.com" + ".er"
 fortnite@hotmail.com1945=
@@ -5349,7 +5349,7 @@ inurl:".mg" + "fortnite@yahoo.com"
 1012= "minecraft@hotmail.com" + ".pe"
 uplay-download.php?1265=
 Theft491=
-1616= "FANTASY®"
+1616= "FANTASYÂ®"
 1264= "fortnite@gmail.com"
 856= "Auto@steampowered.com" + ".eg"
 585= "" + ".bl"
@@ -5376,7 +5376,7 @@ filetype:Auto@steampowered.com1130=
 .aspx?1513= "uplay-games"
 1903= "fortnite@yahoo.com" + ".gq"
 filetype:minecraft@gmail.com.php?344=
-FANTASY®.aspx?1809=
+FANTASYÂ®.aspx?1809=
 Counter-Strike@steampowered.com.aspx?1020=
 info:".ws" + "minecraft@hotmail.com"
 insubject:Auto@steampowered.com1585=
@@ -5395,14 +5395,14 @@ Theft.php?1057=
 dominos-pizza.php?1308=
 .asp?475= "fortnite-errors"
 allintitle:".is" + "Call"
-allinanchor:FANTASY®.php?95=
+allinanchor:FANTASYÂ®.php?95=
 Auto@steampowered.com.asp?1395=
 allintitle:fortnite@yahoo.com.php?43=
-allintext:FANTASY®.asp?1862=
+allintext:FANTASYÂ®.asp?1862=
 .php?1692= "XI@steampowered.com"
 814= "watch-netflix"
 intitle:watch-netflix.php?215=
-inanchor:".cx" + "FANTASY®"
+inanchor:".cx" + "FANTASYÂ®"
 steam-games.aspx?1584=
 filetype:Duty@steampowered.com515=
 allinurl:fortnite-errors216=
@@ -5422,7 +5422,7 @@ XI@steampowered.com.php?684=
 1242= "XI@steampowered.com" + ".gm"
 cache:".su" + "fortnite@yahoo.com"
 fortnite@gmail.com932=
-allintitle:".ws" + "FANTASY®"
+allintitle:".ws" + "FANTASYÂ®"
 1740= "fortnite-errors" + ".tm"
 filetype:".au" + "Grand"
 info:".mc" + "Duty@steampowered.com"
@@ -5496,7 +5496,7 @@ insubject:".tc" + "FINAL"
 allinanchor:".mh" + "minecraft@gmail.com"
 .aspx?1440= "of"
 of.php?669=
-.asp?1221= "FANTASY®"
+.asp?1221= "FANTASYÂ®"
 filetype:".kh" + ""
 source:".ir" + "netflix-buy"
 Counter-Strike@steampowered.com.aspx?1096=
@@ -5515,8 +5515,8 @@ Duty@steampowered.com.php?1818=
 inurl:".gs" + "fortnite@gmail.com"
 info:".li" + "Theft"
 998= "netflix-buy" + ".gn"
-insubject:".tk" + "FANTASY®"
-.aspx?990= "FANTASY®"
+insubject:".tk" + "FANTASYÂ®"
+.aspx?990= "FANTASYÂ®"
 fortnite-errors259=
 allintext:".nf" + "Grand"
 intext:".edu" + "minecraft@hotmail.com"
@@ -5536,8 +5536,8 @@ steam-games.asp?1774=
 .php?1906= "Auto@steampowered.com"
 intitle:".ye" + "fortnite@hotmail.com"
 1869= "uplay-games" + ".sz"
-1123= "FANTASY®" + ".kn"
-319= "FANTASY®" + ".be"
+1123= "FANTASYÂ®" + ".kn"
+319= "FANTASYÂ®" + ".be"
 allintitle:minecraft@gmail.com.asp?1346=
 insubject:Theft195=
 cache:".qa" + "of"
@@ -5577,20 +5577,20 @@ insubject:".pk" + "FINAL"
 fortnite-errors1175=
 1942= "FINAL"
 inanchor:".eu" + "of"
-info:".arpa" + "FANTASY®"
+info:".arpa" + "FANTASYÂ®"
 intitle:XI@steampowered.com.asp?1833=
 inurl:".ck" + "minecraft@gmail.com"
 allinurl:".int" + "of"
 .php?1301= "Call"
 allinurl:minecraft@hotmail.com.aspx?1393=
-360= "FANTASY®" + ".st"
+360= "FANTASYÂ®" + ".st"
 XI@steampowered.com.asp?92=
 1630= "fortnite@yahoo.com" + ".ca"
 minecraft@hotmail.com.aspx?230=
 intitle:Grand.asp?1673=
 443= "uplay-download" + ".hk"
 link:uplay-download.asp?803=
-1324= "FANTASY®" + ".tf"
+1324= "FANTASYÂ®" + ".tf"
 927= "netflix-buy" + ".ps"
 1680= "fortnite@hotmail.com" + ".mv"
 .php?1829= ""
@@ -5605,10 +5605,10 @@ uplay-download.php?327=
 1920= "minecraft@gmail.com" + ".by"
 inurl:".er" + "Call"
 info:".my" + "fortnite-errors"
-allinanchor:".us" + "FANTASY®"
+allinanchor:".us" + "FANTASYÂ®"
 fortnite@yahoo.com.aspx?813=
 inanchor:uplay-games.aspx?1516=
-.asp?1799= "FANTASY®"
+.asp?1799= "FANTASYÂ®"
 uplay-games.php?559=
 Counter-Strike@steampowered.com.aspx?845=
 1297= "fortnite@hotmail.com"
@@ -5649,7 +5649,7 @@ allintitle:Auto@steampowered.com904=
 .asp?1831= "uplay-games"
 netflix-buy.php?1557=
 Call.php?1493=
-FANTASY®2001=
+FANTASYÂ®2001=
 1205= "of" + ".va"
 1485= "Theft" + ".ad"
 .asp?164= "FINAL"
@@ -5675,7 +5675,7 @@ Auto@steampowered.com.aspx?1440=
 .aspx?659= "minecraft@gmail.com"
 .asp?1517= ""
 1819= "dominos-pizza" + ".fm"
-.aspx?1400= "FANTASY®"
+.aspx?1400= "FANTASYÂ®"
 .aspx?625= "minecraft@gmail.com"
 filetype:".mn" + "Grand"
 .php?816= "minecraft@hotmail.com"
@@ -5698,7 +5698,7 @@ inurl:minecraft@hotmail.com1213=
 619= "fortnite@gmail.com" + ".pr"
 inanchor:fortnite@hotmail.com.asp?930=
 fortnite@gmail.com.php?967=
-.asp?547= "FANTASY®"
+.asp?547= "FANTASYÂ®"
 insubject:".zm" + "fortnite@yahoo.com"
 allinanchor:Counter-Strike@steampowered.com.asp?423=
 allinanchor:".gp" + "dominos-pizza"
@@ -5745,7 +5745,7 @@ allinanchor:fortnite-errors.aspx?1700=
 .php?1129= "FINAL"
 uplay-download.aspx?728=
 allinanchor:".pm" + "Duty@steampowered.com"
-924= "FANTASY®" + ".sv"
+924= "FANTASYÂ®" + ".sv"
 266= "Duty@steampowered.com"
 allinanchor:dominos-pizza.aspx?1155=
 1826= "Duty@steampowered.com" + ".ki"
@@ -5775,7 +5775,7 @@ insubject:minecraft@yahoo.com.aspx?1717=
 154= "Auto@steampowered.com"
 .asp?72= "fortnite-errors"
 cache:of.php?1045=
-FANTASY®.php?124=
+FANTASYÂ®.php?124=
 allinanchor:Duty@steampowered.com.aspx?1375=
 intext:dominos-pizza1893=
 1106= "fortnite@yahoo.com" + ".sl"
@@ -5800,7 +5800,7 @@ info:".il" + "minecraft@hotmail.com"
 .aspx?2004= "XI@steampowered.com"
 of.aspx?991=
 cache:".mx" + "fortnite@hotmail.com"
-896= "FANTASY®"
+896= "FANTASYÂ®"
 .aspx?1571= "FINAL"
 Theft.php?225=
 intitle:".si" + "XI@steampowered.com"
@@ -5870,14 +5870,14 @@ source:".eh" + "fortnite@yahoo.com"
 Theft.aspx?1961=
 1920= "netflix-buy" + ".ca"
 insubject:fortnite@hotmail.com.php?758=
-cache:FANTASY®.aspx?1944=
+cache:FANTASYÂ®.aspx?1944=
 link:".sj" + "Auto@steampowered.com"
 source:Auto@steampowered.com.aspx?2007=
 .aspx?1885= "of"
 fortnite@hotmail.com.aspx?1474=
 intext:of.php?745=
 1091= "netflix-buy" + ".ky"
-FANTASY®.asp?1429=
+FANTASYÂ®.asp?1429=
 1667= "" + ".gu"
 intext:minecraft@gmail.com.php?288=
 intitle:".ng" + "fortnite@yahoo.com"
@@ -5911,12 +5911,12 @@ dominos-pizza.asp?1825=
 130= "fortnite@gmail.com" + ".mn"
 1823= "minecraft@yahoo.com" + ".bt"
 1953= "Counter-Strike@steampowered.com" + ".nl"
-435= "FANTASY®" + ".sc"
+435= "FANTASYÂ®" + ".sc"
 inanchor:".uy" + "Call"
 55= "Duty@steampowered.com"
 .aspx?1231= "minecraft@yahoo.com"
 1264= "XI@steampowered.com" + ".pm"
-insubject:FANTASY®494=
+insubject:FANTASYÂ®494=
 1849= "Duty@steampowered.com" + ".ke"
 Grand.aspx?1263=
 link:dominos-pizza.aspx?2018=
@@ -5957,7 +5957,7 @@ source:.asp?1964=
 1677= "minecraft@yahoo.com" + ".bs"
 .asp?1384= "of"
 fortnite-errors1946=
-info:FANTASY®.php?839=
+info:FANTASYÂ®.php?839=
 cache:".re" + "watch-netflix"
 .aspx?1217= "FINAL"
 cache:".ky" + "XI@steampowered.com"
@@ -5966,33 +5966,33 @@ inurl:".ba" + "uplay-download"
 1235= "minecraft@yahoo.com" + ".org"
 .asp?1376= "netflix-buy"
 1096= "fortnite@gmail.com" + ".mh"
-source:".lk" + "FANTASY®"
+source:".lk" + "FANTASYÂ®"
 780= "dominos-pizza"
 .php?88= "fortnite@hotmail.com"
 Grand.asp?1099=
-cache:".il" + "FANTASY®"
+cache:".il" + "FANTASYÂ®"
 inurl:fortnite@hotmail.com.aspx?1981=
 inanchor:Counter-Strike@steampowered.com1881=
 allinanchor:fortnite@hotmail.com.asp?654=
 44= "of" + ".ml"
 Call.asp?846=
 1099= "fortnite@gmail.com"
-.aspx?393= "FANTASY®"
+.aspx?393= "FANTASYÂ®"
 .php?244= "minecraft@yahoo.com"
 .asp?1070= "of"
 .php?567= "Theft"
 .php?1868= "Grand"
-source:".gw" + "FANTASY®"
+source:".gw" + "FANTASYÂ®"
 allinanchor:FINAL.php?1920=
 .php?692= "XI@steampowered.com"
-1457= "FANTASY®" + ".nz"
+1457= "FANTASYÂ®" + ".nz"
 cache:minecraft@yahoo.com1052=
 inanchor:minecraft@gmail.com.asp?1485=
 659= "FINAL" + ".pt"
 Call.asp?1010=
 steam-games.asp?446=
 6= "Duty@steampowered.com"
-inanchor:FANTASY®.php?657=
+inanchor:FANTASYÂ®.php?657=
 .asp?723= "watch-netflix"
 Grand.asp?1235=
 allinurl:".dk" + "XI@steampowered.com"
@@ -6005,7 +6005,7 @@ allintitle:Auto@steampowered.com.aspx?501=
 link:.php?1586=
 source:fortnite@hotmail.com.php?1940=
 959= "Counter-Strike@steampowered.com" + ".er"
-.aspx?1172= "FANTASY®"
+.aspx?1172= "FANTASYÂ®"
 fortnite@hotmail.com.aspx?1550=
 .php?1758= "Theft"
 cache:uplay-download.aspx?1555=
@@ -6066,14 +6066,14 @@ inanchor:".ao" + "Grand"
 .aspx?1874=
 450= "minecraft@gmail.com" + ".cz"
 uplay-games1974=
-.php?598= "FANTASY®"
+.php?598= "FANTASYÂ®"
 332= ""
 .asp?433= "dominos-pizza"
 allinanchor:".id" + "fortnite-errors"
 555= "XI@steampowered.com" + ".tz"
 inanchor:".kr" + "minecraft@hotmail.com"
 Theft.asp?959=
-source:".hr" + "FANTASY®"
+source:".hr" + "FANTASYÂ®"
 intext:".lr" + "Theft"
 insubject:".td" + "of"
 .aspx?194= "Theft"
@@ -6082,19 +6082,19 @@ Grand.php?376=
 insubject:Theft.asp?1728=
 minecraft@yahoo.com.aspx?1145=
 allintitle:uplay-games.php?118=
-20= "FANTASY®" + ".um"
+20= "FANTASYÂ®" + ".um"
 filetype:".va" + "FINAL"
 .asp?1725= ""
 netflix-buy.php?1185=
 1416= "Duty@steampowered.com" + ".ke"
 1318= "minecraft@yahoo.com"
 .aspx?540= "fortnite@hotmail.com"
-.aspx?1038= "FANTASY®"
+.aspx?1038= "FANTASYÂ®"
 info:Duty@steampowered.com.php?1736=
 insubject:368=
 intitle:192=
 filetype:minecraft@hotmail.com.aspx?1115=
-source:".yt" + "FANTASY®"
+source:".yt" + "FANTASYÂ®"
 link:".tw" + "Theft"
 allinurl:minecraft@yahoo.com.asp?1554=
 1186= "Auto@steampowered.com" + ".bz"
@@ -6121,7 +6121,7 @@ filetype:minecraft@yahoo.com.aspx?1000=
 link:watch-netflix.asp?1660=
 cache:".au" + "steam-games"
 filetype:".dk" + "uplay-games"
-716= "FANTASY®" + ".va"
+716= "FANTASYÂ®" + ".va"
 intext:minecraft@gmail.com.asp?741=
 3= "Counter-Strike@steampowered.com" + ".va"
 Theft.php?1028=
@@ -6132,7 +6132,7 @@ Theft.php?4=
 647= "uplay-download" + ".uz"
 .asp?172= "minecraft@yahoo.com"
 .asp?1370= "fortnite@hotmail.com"
-916= "FANTASY®" + ".cd"
+916= "FANTASYÂ®" + ".cd"
 insubject:dominos-pizza.aspx?1169=
 fortnite@hotmail.com.php?1572=
 source:steam-games1841=
@@ -6164,7 +6164,7 @@ uplay-games338=
 source:".cc" + "uplay-download"
 1684= "Counter-Strike@steampowered.com" + ".tl"
 1207= "" + ".km"
-168= "FANTASY®"
+168= "FANTASYÂ®"
 inanchor:Counter-Strike@steampowered.com1379=
 465= "uplay-download" + ".vc"
 inurl:uplay-games.asp?72=
@@ -6187,7 +6187,7 @@ intitle:".bo" + "dominos-pizza"
 202= "" + ".pk"
 source:Auto@steampowered.com.aspx?1148=
 450= "dominos-pizza"
-1226= "FANTASY®" + ".ro"
+1226= "FANTASYÂ®" + ".ro"
 inanchor:watch-netflix.asp?1977=
 allinurl:minecraft@hotmail.com.php?1097=
 allintext:Counter-Strike@steampowered.com1239=
@@ -6197,11 +6197,11 @@ Call.aspx?71=
 intitle:uplay-download.asp?333=
 544= "FINAL" + ".mx"
 cache:Theft.php?1618=
-source:FANTASY®.aspx?897=
+source:FANTASYÂ®.aspx?897=
 .php?1195= "Theft"
 .asp?1928= "Duty@steampowered.com"
 fortnite@hotmail.com.asp?382=
-FANTASY®816=
+FANTASYÂ®816=
 source:netflix-buy.aspx?1466=
 intitle:uplay-games.php?1463=
 insubject:Auto@steampowered.com.aspx?1099=
@@ -6222,7 +6222,7 @@ Counter-Strike@steampowered.com.aspx?1092=
 .aspx?865= ""
 .php?1222= "watch-netflix"
 intitle:of.php?510=
-1494= "FANTASY®" + ".th"
+1494= "FANTASYÂ®" + ".th"
 steam-games.aspx?1233=
 1812= "fortnite@yahoo.com" + ".ad"
 .php?1361= "Auto@steampowered.com"
@@ -6239,7 +6239,7 @@ link:".gov" + ""
 1955= "steam-games" + ".dk"
 2015= "steam-games" + ".lr"
 59= "Counter-Strike@steampowered.com" + ".ad"
-718= "FANTASY®" + ".vn"
+718= "FANTASYÂ®" + ".vn"
 1220= "of" + ".bh"
 1999= "Grand" + ".bn"
 562= "FINAL" + ".dm"
@@ -6272,7 +6272,7 @@ insubject:watch-netflix.asp?1226=
 link:".ml" + "FINAL"
 227= "uplay-games" + ".lv"
 .aspx?1392=
-intext:".ge" + "FANTASY®"
+intext:".ge" + "FANTASYÂ®"
 allinanchor:Grand.aspx?446=
 .aspx?1858= "steam-games"
 intitle:Auto@steampowered.com1244=
@@ -6289,7 +6289,7 @@ XI@steampowered.com.aspx?1352=
 .asp?1575= "Theft"
 .asp?244= ""
 fortnite@gmail.com.asp?2004=
-insubject:FANTASY®.php?339=
+insubject:FANTASYÂ®.php?339=
 allinurl:dominos-pizza.aspx?211=
 fortnite-errors.php?1763=
 XI@steampowered.com487=
@@ -6338,7 +6338,7 @@ link:Call1274=
 881= "fortnite@hotmail.com" + ".cr"
 filetype:fortnite@yahoo.com.asp?79=
 of.aspx?1775=
-1632= "FANTASY®" + ".ne"
+1632= "FANTASYÂ®" + ".ne"
 intitle:".lc" + "Counter-Strike@steampowered.com"
 info:watch-netflix.asp?311=
 cache:".et" + ""
@@ -6360,7 +6360,7 @@ allintitle:fortnite@gmail.com.aspx?578=
 .php?1709= "uplay-games"
 .php?1526= "FINAL"
 allintitle:".com.tr" + "uplay-download"
-filetype:FANTASY®440=
+filetype:FANTASYÂ®440=
 .asp?912= "steam-games"
 allinanchor:fortnite@yahoo.com.php?1623=
 Theft.asp?1062=
@@ -6370,7 +6370,7 @@ minecraft@gmail.com1263=
 988= "Duty@steampowered.com" + ".cy"
 fortnite@hotmail.com.aspx?1133=
 1748= "XI@steampowered.com"
-.php?181= "FANTASY®"
+.php?181= "FANTASYÂ®"
 .asp?883= "minecraft@hotmail.com"
 fortnite@gmail.com82=
 1649= "FINAL" + ".tj"
@@ -6399,7 +6399,7 @@ allinurl:".ck" + "steam-games"
 .php?1171=
 92= "dominos-pizza" + ".vi"
 info:fortnite-errors.aspx?1183=
-intitle:FANTASY®.aspx?1421=
+intitle:FANTASYÂ®.aspx?1421=
 1660= "fortnite@yahoo.com" + ".uz"
 .php?1396= "dominos-pizza"
 allintext:steam-games.asp?1115=
@@ -6413,7 +6413,7 @@ intitle:Duty@steampowered.com.php?569=
 1258= "of"
 source:".ws" + "fortnite@gmail.com"
 1687= "Auto@steampowered.com" + ".zm"
-FANTASY®1704=
+FANTASYÂ®1704=
 .asp?1784= "Theft"
 cache:".bg" + "Counter-Strike@steampowered.com"
 intitle:Duty@steampowered.com.aspx?1561=
@@ -6429,9 +6429,9 @@ allinanchor:".tm" + "minecraft@hotmail.com"
 filetype:".hn" + "netflix-buy"
 inurl:".hr" + "minecraft@gmail.com"
 intitle:.aspx?1400=
-1015= "FANTASY®" + ".fm"
+1015= "FANTASYÂ®" + ".fm"
 allinurl:1755=
-cache:".ag" + "FANTASY®"
+cache:".ag" + "FANTASYÂ®"
 minecraft@hotmail.com.aspx?753=
 .aspx?1402= "netflix-buy"
 1109= "fortnite-errors" + ".je"
@@ -6443,7 +6443,7 @@ fortnite@hotmail.com228=
 632= "netflix-buy" + ".ne"
 intext:".rs" + "watch-netflix"
 Auto@steampowered.com1301=
-FANTASY®.aspx?538=
+FANTASYÂ®.aspx?538=
 uplay-games1379=
 .php?508= "uplay-games"
 inanchor:".sz" + "steam-games"
@@ -6498,7 +6498,7 @@ FINAL.asp?1196=
 1064= "minecraft@hotmail.com"
 569= "dominos-pizza" + ".es"
 .aspx?231= ""
-FANTASY®.asp?124=
+FANTASYÂ®.asp?124=
 info:".bq" + "Auto@steampowered.com"
 .php?1609= ""
 1962= "Grand" + ".cf"
@@ -6522,7 +6522,7 @@ inurl:Auto@steampowered.com.php?1020=
 allintext:minecraft@gmail.com.aspx?323=
 cache:".gu" + "minecraft@hotmail.com"
 minecraft@yahoo.com.php?20=
-inanchor:".cw" + "FANTASY®"
+inanchor:".cw" + "FANTASYÂ®"
 1548= "FINAL"
 allintext:".nz" + "fortnite@gmail.com"
 allinanchor:fortnite@yahoo.com.aspx?1849=
@@ -6671,7 +6671,7 @@ allintext:Call.asp?1913=
 steam-games.php?618=
 inurl:".vc" + "fortnite@hotmail.com"
 331= "dominos-pizza" + ".ss"
-699= "FANTASY®" + ".qa"
+699= "FANTASYÂ®" + ".qa"
 minecraft@yahoo.com.aspx?1909=
 allinurl:".lb" + "Duty@steampowered.com"
 .asp?46= ""
@@ -6767,7 +6767,7 @@ intext:".np" + "FINAL"
 .aspx?411=
 fortnite@yahoo.com.asp?1932=
 fortnite@hotmail.com.php?439=
-.asp?300= "FANTASY®"
+.asp?300= "FANTASYÂ®"
 intext:minecraft@hotmail.com.php?278=
 Duty@steampowered.com.aspx?1797=
 1126= "Duty@steampowered.com" + ".vu"
@@ -6877,7 +6877,7 @@ Call.aspx?259=
 uplay-download.asp?1534=
 1866= "" + ".org"
 allinanchor:".fk" + "fortnite-errors"
-filetype:".is" + "FANTASY®"
+filetype:".is" + "FANTASYÂ®"
 1464= "dominos-pizza" + ".ba"
 XI@steampowered.com.asp?1662=
 allintext:Duty@steampowered.com1438=
@@ -6957,7 +6957,7 @@ link:493=
 403= "steam-games" + ".an"
 .php?682= "watch-netflix"
 allinanchor:Duty@steampowered.com.aspx?611=
-insubject:".bb" + "FANTASY®"
+insubject:".bb" + "FANTASYÂ®"
 intitle:dominos-pizza.asp?229=
 757= "watch-netflix" + ".er"
 340= "Theft"
@@ -6981,7 +6981,7 @@ link:minecraft@gmail.com.aspx?1483=
 496= "minecraft@yahoo.com"
 filetype:uplay-games.php?1153=
 link:".vg" + "minecraft@gmail.com"
-.php?747= "FANTASY®"
+.php?747= "FANTASYÂ®"
 .php?1031= "XI@steampowered.com"
 .asp?1428= "of"
 allintitle:fortnite@hotmail.com.php?1152=
@@ -6990,7 +6990,7 @@ link:uplay-download2012=
 info:fortnite@gmail.com.asp?924=
 allintitle:netflix-buy.asp?229=
 XI@steampowered.com485=
-429= "FANTASY®" + ".ca"
+429= "FANTASYÂ®" + ".ca"
 of.asp?823=
 source:netflix-buy.asp?1046=
 1253= "netflix-buy" + ".pf"
@@ -7077,7 +7077,7 @@ of.asp?150=
 .aspx?481=
 334= "of" + ".zm"
 intitle:uplay-download.php?1830=
-752= "FANTASY®"
+752= "FANTASYÂ®"
 cache:".ma" + "uplay-download"
 .php?1433= "uplay-games"
 filetype:".pw" + "dominos-pizza"
@@ -7091,7 +7091,7 @@ filetype:".sj" + "uplay-games"
 allinanchor:".cw" + "Theft"
 dominos-pizza.asp?251=
 1348= "of" + ".cv"
-allintitle:".dm" + "FANTASY®"
+allintitle:".dm" + "FANTASYÂ®"
 .php?1003= "fortnite@hotmail.com"
 source:XI@steampowered.com1157=
 intitle:".cu" + "minecraft@yahoo.com"
@@ -7140,7 +7140,7 @@ inanchor:Auto@steampowered.com.php?1819=
 453= "of" + ".ms"
 steam-games.asp?1277=
 1805= "netflix-buy" + ".ec"
-.asp?390= "FANTASY®"
+.asp?390= "FANTASYÂ®"
 allinurl:FINAL.asp?788=
 info:".tp" + "of"
 inurl:.aspx?1472=
@@ -7148,7 +7148,7 @@ inurl:".tl" + "of"
 intitle:Duty@steampowered.com.php?1091=
 1004= "minecraft@yahoo.com" + ".lu"
 allintext:Duty@steampowered.com1506=
-FANTASY®1892=
+FANTASYÂ®1892=
 filetype:".ki" + "minecraft@hotmail.com"
 Duty@steampowered.com682=
 .aspx?1887= "uplay-games"
@@ -7177,7 +7177,7 @@ allintext:XI@steampowered.com.aspx?1886=
 allintext:".com" + "dominos-pizza"
 allintitle:1790=
 watch-netflix.php?1673=
-634= "FANTASY®" + ".to"
+634= "FANTASYÂ®" + ".to"
 allintext:XI@steampowered.com.aspx?84=
 .aspx?939=
 intitle:".pw" + "Grand"
@@ -7250,7 +7250,7 @@ dominos-pizza.php?1567=
 1118= "fortnite@yahoo.com" + ".fr"
 dominos-pizza.aspx?1740=
 dominos-pizza.asp?25=
-1647= "FANTASY®" + ".sb"
+1647= "FANTASYÂ®" + ".sb"
 cache:steam-games.aspx?1021=
 Duty@steampowered.com.aspx?924=
 watch-netflix.php?527=
@@ -7301,7 +7301,7 @@ allinanchor:".tc" + "Call"
 Duty@steampowered.com.aspx?702=
 filetype:fortnite@hotmail.com.aspx?1158=
 fortnite@yahoo.com.aspx?473=
-source:FANTASY®342=
+source:FANTASYÂ®342=
 .php?89= "watch-netflix"
 610= "minecraft@gmail.com"
 257= "Theft" + ".tk"
@@ -7366,14 +7366,14 @@ allintext:uplay-download.aspx?863=
 1601= "" + ".fo"
 1079= "XI@steampowered.com" + ".rw"
 intext:".zm" + "minecraft@hotmail.com"
-.aspx?720= "FANTASY®"
+.aspx?720= "FANTASYÂ®"
 intitle:Call.aspx?1882=
 1959= ""
 allinanchor:".si" + "fortnite-errors"
 1989= "Theft"
 1498= "minecraft@hotmail.com" + ".yt"
 filetype:uplay-games.asp?1543=
-inurl:FANTASY®.asp?498=
+inurl:FANTASYÂ®.asp?498=
 allintext:.aspx?147=
 allintext:".se" + "Auto@steampowered.com"
 fortnite@hotmail.com.php?1371=
@@ -7425,7 +7425,7 @@ watch-netflix.php?437=
 Grand.asp?1060=
 1246= "watch-netflix" + ".ye"
 insubject:fortnite-errors.aspx?1890=
-.aspx?1391= "FANTASY®"
+.aspx?1391= "FANTASYÂ®"
 .php?951= "Theft"
 1100= "dominos-pizza"
 source:watch-netflix627=
@@ -7443,11 +7443,11 @@ inanchor:XI@steampowered.com.aspx?86=
 271= "" + ".ps"
 allintext:minecraft@yahoo.com.asp?1559=
 FINAL.asp?615=
-inurl:FANTASY®.aspx?1759=
+inurl:FANTASYÂ®.aspx?1759=
 894= "fortnite@yahoo.com"
 insubject:".md" + "minecraft@gmail.com"
 minecraft@gmail.com.php?608=
-.php?1693= "FANTASY®"
+.php?1693= "FANTASYÂ®"
 allintext:Duty@steampowered.com810=
 insubject:watch-netflix.php?1745=
 source:uplay-download.asp?1622=
@@ -7625,13 +7625,13 @@ inurl:239=
 source:".pa" + "fortnite@hotmail.com"
 .php?895= "uplay-games"
 insubject:FINAL.asp?737=
-filetype:FANTASY®.aspx?1148=
+filetype:FANTASYÂ®.aspx?1148=
 intext:Theft888=
 .php?438= "of"
 allinurl:".vc" + "minecraft@gmail.com"
 dominos-pizza.aspx?398=
 Call.php?1735=
-FANTASY®2012=
+FANTASYÂ®2012=
 inurl:".eh" + "uplay-games"
 info:uplay-games.asp?750=
 allintitle:dominos-pizza.asp?353=
@@ -7717,7 +7717,7 @@ cache:fortnite@gmail.com.php?980=
 intitle:Auto@steampowered.com.php?952=
 Grand346=
 link:".cc" + "minecraft@gmail.com"
-FANTASY®263=
+FANTASYÂ®263=
 fortnite@hotmail.com.aspx?1935=
 intext:".ci" + "of"
 1354= "fortnite@yahoo.com"
@@ -7730,13 +7730,13 @@ Theft.asp?1465=
 .php?314=
 uplay-games.asp?81=
 allintext:.aspx?1069=
-insubject:".co.uk" + "FANTASY®"
+insubject:".co.uk" + "FANTASYÂ®"
 267= "watch-netflix"
 inanchor:".nu" + "dominos-pizza"
 .aspx?1407= "Call"
 filetype:fortnite@gmail.com1342=
 .php?1629= ""
-link:FANTASY®.aspx?575=
+link:FANTASYÂ®.aspx?575=
 allintitle:.asp?1196=
 link:uplay-download.php?1256=
 filetype:FINAL.aspx?139=
@@ -7748,7 +7748,7 @@ insubject:".is" + "Call"
 filetype:Grand1914=
 51= "XI@steampowered.com" + ".de"
 .php?493= "uplay-download"
-754= "FANTASY®" + ".pn"
+754= "FANTASYÂ®" + ".pn"
 uplay-games.asp?1308=
 intitle:".uk" + "minecraft@gmail.com"
 1904= "netflix-buy" + ".km"
@@ -7757,7 +7757,7 @@ intitle:XI@steampowered.com.php?86=
 dominos-pizza.aspx?1503=
 285= "FINAL" + ".ht"
 683= "uplay-games"
-.aspx?229= "FANTASY®"
+.aspx?229= "FANTASYÂ®"
 .php?1431= "netflix-buy"
 steam-games562=
 insubject:dominos-pizza.asp?1182=
@@ -7767,7 +7767,7 @@ allintitle:".nu" + "watch-netflix"
 cache:".mx" + ""
 filetype:Auto@steampowered.com.aspx?602=
 insubject:minecraft@hotmail.com583=
-cache:FANTASY®.php?108=
+cache:FANTASYÂ®.php?108=
 allinanchor:".gy" + "Theft"
 allinurl:Counter-Strike@steampowered.com.asp?1381=
 .aspx?144=
@@ -7781,7 +7781,7 @@ allintext:Auto@steampowered.com1985=
 116= "fortnite@gmail.com" + ".mo"
 1968= "fortnite@gmail.com" + ".wf"
 uplay-games.aspx?947=
-info:FANTASY®1356=
+info:FANTASYÂ®1356=
 filetype:".ki" + "minecraft@gmail.com"
 1857= "minecraft@yahoo.com" + ".nu"
 fortnite@yahoo.com.asp?21=
@@ -7806,7 +7806,7 @@ of.php?931=
 allintext:".se" + "watch-netflix"
 allinurl:dominos-pizza1605=
 Auto@steampowered.com.aspx?658=
-.aspx?1536= "FANTASY®"
+.aspx?1536= "FANTASYÂ®"
 allinurl:".mh" + ""
 intitle:".bl" + "Auto@steampowered.com"
 allinanchor:".ee" + "fortnite@yahoo.com"
@@ -7822,7 +7822,7 @@ inanchor:".bn" + "Call"
 fortnite@gmail.com426=
 fortnite@yahoo.com.php?1861=
 1216= "fortnite@gmail.com" + ".cc"
-1161= "FANTASY®" + ".md"
+1161= "FANTASYÂ®" + ".md"
 info:fortnite-errors.asp?869=
 insubject:minecraft@yahoo.com.php?1444=
 .asp?963= "dominos-pizza"
@@ -7835,7 +7835,7 @@ allintitle:XI@steampowered.com.aspx?1136=
 uplay-download.php?886=
 inanchor:".md" + "fortnite@yahoo.com"
 info:".gf" + "Call"
-FANTASY®.asp?727=
+FANTASYÂ®.asp?727=
 inurl:Duty@steampowered.com.aspx?1184=
 1371= "Call" + ".gg"
 fortnite-errors.aspx?245=
@@ -7856,12 +7856,12 @@ FINAL790=
 1738= "uplay-games" + ".ru"
 368= "fortnite@yahoo.com" + ".is"
 uplay-games1607=
-source:FANTASY®.php?1159=
+source:FANTASYÂ®.php?1159=
 1931= "Duty@steampowered.com" + ".mp"
 1720= "FINAL"
 cache:fortnite@gmail.com.asp?47=
 .asp?1090= "fortnite@yahoo.com"
-cache:".bv" + "FANTASY®"
+cache:".bv" + "FANTASYÂ®"
 Grand.php?1937=
 1270= "dominos-pizza" + ".co.uk"
 uplay-download.php?182=
@@ -7887,7 +7887,7 @@ Duty@steampowered.com.php?1496=
 allintitle:Call.php?1390=
 .asp?585= "minecraft@gmail.com"
 inanchor:minecraft@yahoo.com.php?1147=
-inurl:".az" + "FANTASY®"
+inurl:".az" + "FANTASYÂ®"
 1229= "XI@steampowered.com" + ".ar"
 1203= "Auto@steampowered.com"
 .php?334= "minecraft@yahoo.com"
@@ -7910,7 +7910,7 @@ inanchor:".tr" + "Grand"
 1138= "watch-netflix" + ".com.tr"
 146= "of"
 .aspx?1041= "of"
-FANTASY®1444=
+FANTASYÂ®1444=
 Auto@steampowered.com.php?1160=
 cache:Auto@steampowered.com1721=
 fortnite@hotmail.com.asp?784=
@@ -7943,7 +7943,7 @@ intitle:".sb" + "Duty@steampowered.com"
 .aspx?1236=
 Call.asp?825=
 fortnite@hotmail.com.aspx?1599=
-allintext:FANTASY®430=
+allintext:FANTASYÂ®430=
 inurl:".org" + "watch-netflix"
 uplay-download.php?19=
 1086= "minecraft@yahoo.com" + ".bj"
@@ -7968,7 +7968,7 @@ link:Counter-Strike@steampowered.com.asp?917=
 insubject:Theft1152=
 inanchor:minecraft@gmail.com.aspx?1944=
 1511= "fortnite@hotmail.com" + ".ai"
-.aspx?1182= "FANTASY®"
+.aspx?1182= "FANTASYÂ®"
 inanchor:".zm" + "Duty@steampowered.com"
 allintitle:".cn" + "uplay-games"
 fortnite@yahoo.com.php?743=
@@ -8022,8 +8022,8 @@ source:fortnite@hotmail.com.aspx?1226=
 allinurl:".int" + "netflix-buy"
 uplay-games.asp?1221=
 648= "Auto@steampowered.com" + ".mn"
-allintext:FANTASY®.asp?341=
-allinurl:".to" + "FANTASY®"
+allintext:FANTASYÂ®.asp?341=
+allinurl:".to" + "FANTASYÂ®"
 netflix-buy.aspx?191=
 .asp?1439= "minecraft@gmail.com"
 .aspx?857= "steam-games"
@@ -8064,7 +8064,7 @@ inanchor:fortnite@gmail.com.aspx?1860=
 .asp?1925= ""
 intext:".ba" + "Auto@steampowered.com"
 intitle:Grand.asp?442=
-.aspx?483= "FANTASY®"
+.aspx?483= "FANTASYÂ®"
 Counter-Strike@steampowered.com.php?1680=
 1275= "Duty@steampowered.com" + ".nu"
 754= "Duty@steampowered.com" + ".cn"
@@ -8127,7 +8127,7 @@ intext:fortnite-errors.aspx?1517=
 1222= "Auto@steampowered.com" + ".aw"
 .php?1326= "minecraft@gmail.com"
 source:".fm" + "Grand"
-allintext:".gm" + "FANTASY®"
+allintext:".gm" + "FANTASYÂ®"
 fortnite@gmail.com.aspx?849=
 allinurl:fortnite@gmail.com.php?824=
 inanchor:Call.aspx?271=
@@ -8139,7 +8139,7 @@ info:78=
 allintext:".mt" + "minecraft@gmail.com"
 1763= "fortnite@hotmail.com" + ".eh"
 filetype:".vu" + "Counter-Strike@steampowered.com"
-FANTASY®27=
+FANTASYÂ®27=
 130= "Duty@steampowered.com" + ".in"
 minecraft@yahoo.com1795=
 Counter-Strike@steampowered.com.php?1431=
@@ -8150,7 +8150,7 @@ allinurl:".il" + "minecraft@yahoo.com"
 975= "" + ".mw"
 allinurl:of.aspx?563=
 fortnite-errors.asp?1756=
-link:".bi" + "FANTASY®"
+link:".bi" + "FANTASYÂ®"
 uplay-download.aspx?734=
 allintitle:".mp" + "of"
 netflix-buy1759=
@@ -8167,7 +8167,7 @@ info:".tn" + ""
 1250= "uplay-download" + ".ki"
 284= "fortnite@hotmail.com" + ".tg"
 allinanchor:minecraft@gmail.com.aspx?1417=
-FANTASY®.aspx?1201=
+FANTASYÂ®.aspx?1201=
 allintitle:".gf" + "dominos-pizza"
 allinurl:".bm" + "Auto@steampowered.com"
 FINAL660=
@@ -8185,10 +8185,10 @@ fortnite@hotmail.com1380=
 1774= "uplay-games" + ".dj"
 minecraft@gmail.com.asp?532=
 Theft.aspx?328=
-FANTASY®.aspx?902=
+FANTASYÂ®.aspx?902=
 intitle:".in" + "FINAL"
 of1204=
-.asp?1162= "FANTASY®"
+.asp?1162= "FANTASYÂ®"
 source:".mh" + "Auto@steampowered.com"
 uplay-games.php?1681=
 of489=
@@ -8198,7 +8198,7 @@ allinanchor:".ai" + ""
 cache:Theft.aspx?1340=
 80= "" + ".bd"
 minecraft@hotmail.com.aspx?1678=
-intitle:FANTASY®1230=
+intitle:FANTASYÂ®1230=
 link:watch-netflix.php?1118=
 Grand12=
 intitle:".gy" + ""
@@ -8279,7 +8279,7 @@ inurl:Counter-Strike@steampowered.com.aspx?1481=
 943=
 322= "dominos-pizza"
 watch-netflix.aspx?1915=
-allintext:FANTASY®.php?1327=
+allintext:FANTASYÂ®.php?1327=
 allinanchor:netflix-buy.php?179=
 insubject:".tl" + "fortnite@gmail.com"
 1183= "watch-netflix" + ".br"
@@ -8289,7 +8289,7 @@ intitle:Theft.aspx?1960=
 .aspx?1510= "Call"
 .php?1487= "fortnite@gmail.com"
 cache:".sm" + "Theft"
-inanchor:".fk" + "FANTASY®"
+inanchor:".fk" + "FANTASYÂ®"
 allinanchor:FINAL349=
 allinanchor:minecraft@yahoo.com574=
 intext:".gr" + ""
@@ -8307,7 +8307,7 @@ steam-games.aspx?238=
 intext:fortnite-errors.php?399=
 filetype:Grand.asp?932=
 inanchor:Theft.asp?2009=
-inanchor:".lb" + "FANTASY®"
+inanchor:".lb" + "FANTASYÂ®"
 1598= "uplay-download" + ".sz"
 cache:Grand.asp?1169=
 .php?914= "uplay-games"
@@ -8380,7 +8380,7 @@ link:minecraft@yahoo.com1814=
 intext:".at" + "fortnite@yahoo.com"
 839= "Theft" + ".lb"
 intitle:".at" + "FINAL"
-link:FANTASY®.asp?194=
+link:FANTASYÂ®.asp?194=
 minecraft@yahoo.com.php?1831=
 702= "uplay-games" + ".sj"
 netflix-buy.aspx?1382=
@@ -8410,7 +8410,7 @@ allinurl:".mm" + "fortnite@hotmail.com"
 of.asp?816=
 inanchor:".gi" + "uplay-download"
 599= "of" + ".nf"
-inurl:".af" + "FANTASY®"
+inurl:".af" + "FANTASYÂ®"
 209= "Call" + ".ma"
 intext:fortnite-errors522=
 .php?1118= ""
@@ -8422,7 +8422,7 @@ inurl:minecraft@yahoo.com.php?1356=
 info:".do" + ""
 Theft.asp?1400=
 insubject:Grand.aspx?1383=
-info:".ki" + "FANTASY®"
+info:".ki" + "FANTASYÂ®"
 netflix-buy1373=
 1799= "Call" + ".sj"
 .php?1562= "minecraft@hotmail.com"
@@ -8430,7 +8430,7 @@ netflix-buy1373=
 allinanchor:".nu" + "Auto@steampowered.com"
 .aspx?1777= "of"
 intext:fortnite@yahoo.com.aspx?1102=
-662= "FANTASY®" + ".ch"
+662= "FANTASYÂ®" + ".ch"
 629= "" + ".me"
 1945= "Theft" + ".nf"
 Call.asp?1200=
@@ -8456,7 +8456,7 @@ inanchor:fortnite@gmail.com.php?1430=
 insubject:".cf" + "FINAL"
 intext:".th" + "Call"
 allintext:watch-netflix.aspx?943=
-147= "FANTASY®" + ".ar"
+147= "FANTASYÂ®" + ".ar"
 allinanchor:fortnite-errors279=
 insubject:".kw" + "uplay-games"
 intext:Grand1461=
@@ -8526,7 +8526,7 @@ inurl:".uk" + "Duty@steampowered.com"
 inurl:".io" + "FINAL"
 1668= "uplay-games" + ".kz"
 intitle:".cc" + "uplay-games"
-623= "FANTASY®" + ".ps"
+623= "FANTASYÂ®" + ".ps"
 link:".to" + "Auto@steampowered.com"
 link:fortnite@hotmail.com1685=
 .asp?1998= "minecraft@yahoo.com"
@@ -8545,20 +8545,20 @@ filetype:netflix-buy.asp?142=
 filetype:uplay-download.php?1739=
 intitle:fortnite@hotmail.com.asp?1542=
 allintext:dominos-pizza.aspx?190=
-inanchor:FANTASY®.php?1483=
+inanchor:FANTASYÂ®.php?1483=
 1622= "" + ".kw"
 .asp?875= "XI@steampowered.com"
 .aspx?708=
 inanchor:minecraft@hotmail.com.asp?98=
 insubject:".tc" + "uplay-games"
-inurl:".uk" + "FANTASY®"
+inurl:".uk" + "FANTASYÂ®"
 .aspx?1526= "fortnite@yahoo.com"
 allinurl:".md" + "FINAL"
 insubject:".uk" + "XI@steampowered.com"
 cache:.aspx?301=
 .aspx?1696= "Theft"
 .php?615= "fortnite@yahoo.com"
-intitle:FANTASY®125=
+intitle:FANTASYÂ®125=
 615= "uplay-download" + ".ug"
 501= "fortnite@yahoo.com" + ".cd"
 832= "fortnite@yahoo.com"
@@ -8598,7 +8598,7 @@ filetype:".ca" + "fortnite@hotmail.com"
 link:uplay-games.asp?239=
 allintitle:".tz" + "Theft"
 allintext:.aspx?529=
-info:FANTASY®1861=
+info:FANTASYÂ®1861=
 1462= "minecraft@yahoo.com" + ".cl"
 862= "minecraft@hotmail.com" + ".sd"
 336= "" + ".ml"
@@ -8611,11 +8611,11 @@ insubject:".ls" + "netflix-buy"
 484= "uplay-download" + ".pe"
 .php?1195= "netflix-buy"
 info:fortnite@yahoo.com.asp?893=
-link:FANTASY®.php?584=
-FANTASY®.php?1623=
+link:FANTASYÂ®.php?584=
+FANTASYÂ®.php?1623=
 info:dominos-pizza.aspx?445=
 .php?541= "fortnite@yahoo.com"
-source:".uy" + "FANTASY®"
+source:".uy" + "FANTASYÂ®"
 1443= "minecraft@hotmail.com" + ".mf"
 .php?1336= "Duty@steampowered.com"
 1666= "netflix-buy"
@@ -8642,7 +8642,7 @@ fortnite@yahoo.com948=
 uplay-download.aspx?1566=
 allinurl:watch-netflix.php?1935=
 allintext:Theft.aspx?1953=
-FANTASY®.asp?1065=
+FANTASYÂ®.asp?1065=
 of.php?136=
 .aspx?161= "fortnite-errors"
 intext:".gf" + "fortnite@yahoo.com"
@@ -8685,7 +8685,7 @@ intext:".sx" + "Call"
 cache:".ad" + "minecraft@gmail.com"
 intext:".mu" + ""
 minecraft@hotmail.com.aspx?849=
-613= "FANTASY®" + ".bi"
+613= "FANTASYÂ®" + ".bi"
 832= "Counter-Strike@steampowered.com" + ".ph"
 .aspx?761= "minecraft@yahoo.com"
 minecraft@yahoo.com1288=
@@ -8754,7 +8754,7 @@ cache:of.aspx?470=
 1985= "minecraft@hotmail.com" + ".br"
 allintitle:.aspx?1302=
 1683= "XI@steampowered.com" + ".nu"
-2018= "FANTASY®" + ".mc"
+2018= "FANTASYÂ®" + ".mc"
 1657= "Grand"
 .php?1570= "fortnite@gmail.com"
 fortnite-errors1373=
@@ -8776,11 +8776,11 @@ allintext:".me" + "fortnite@yahoo.com"
 1754= "XI@steampowered.com" + ".lc"
 1893= "dominos-pizza"
 inurl:uplay-games.aspx?1942=
-inanchor:FANTASY®.php?1684=
+inanchor:FANTASYÂ®.php?1684=
 allinurl:steam-games.aspx?603=
 .asp?638= ""
 allinurl:netflix-buy.php?1340=
-inanchor:".mt" + "FANTASY®"
+inanchor:".mt" + "FANTASYÂ®"
 link:watch-netflix.aspx?1845=
 minecraft@hotmail.com1832=
 .aspx?1758= "minecraft@yahoo.com"
@@ -8875,7 +8875,7 @@ allintext:".cc" + "Call"
 cache:".vc" + "fortnite@hotmail.com"
 .aspx?500= "uplay-games"
 1733= "Grand"
-link:FANTASY®.asp?1556=
+link:FANTASYÂ®.asp?1556=
 Call9=
 1780= "steam-games" + ".fo"
 .aspx?940= "Grand"
@@ -8910,7 +8910,7 @@ allintitle:minecraft@hotmail.com.php?910=
 info:minecraft@hotmail.com.asp?1078=
 .asp?3= "of"
 .php?334=
-inanchor:FANTASY®1508=
+inanchor:FANTASYÂ®1508=
 1711= "" + ".pa"
 inurl:".ky" + "minecraft@yahoo.com"
 intext:".bg" + "uplay-download"
@@ -8950,9 +8950,9 @@ info:Theft.php?1519=
 fortnite@gmail.com.asp?33=
 Call.php?1113=
 allinanchor:fortnite@gmail.com.php?1241=
-info:".cr" + "FANTASY®"
+info:".cr" + "FANTASYÂ®"
 Counter-Strike@steampowered.com.php?241=
-FANTASY®.php?1452=
+FANTASYÂ®.php?1452=
 1886= "Theft" + ".au"
 allinurl:".es" + "minecraft@yahoo.com"
 595= "fortnite-errors" + ".ax"
@@ -9014,7 +9014,7 @@ steam-games.aspx?628=
 inurl:dominos-pizza.aspx?814=
 .aspx?255= "Counter-Strike@steampowered.com"
 allinurl:".pw" + "watch-netflix"
-info:FANTASY®.php?194=
+info:FANTASYÂ®.php?194=
 source:".zm" + "fortnite@yahoo.com"
 Grand.php?1885=
 inanchor:Counter-Strike@steampowered.com.php?1865=
@@ -9023,7 +9023,7 @@ allinanchor:".bj" + "FINAL"
 cache:fortnite@yahoo.com.asp?283=
 minecraft@hotmail.com1957=
 fortnite@gmail.com545=
-FANTASY®.php?684=
+FANTASYÂ®.php?684=
 Duty@steampowered.com.aspx?51=
 allinanchor:".gg" + "of"
 allintext:".bq" + "Auto@steampowered.com"
@@ -9106,7 +9106,7 @@ info:of.aspx?213=
 .php?708= "fortnite@hotmail.com"
 1550= "" + ".id"
 481= "dominos-pizza"
-insubject:".gs" + "FANTASY®"
+insubject:".gs" + "FANTASYÂ®"
 .php?1834= "watch-netflix"
 .php?559= "Grand"
 1400= "fortnite@yahoo.com" + ".mn"
@@ -9121,7 +9121,7 @@ cache:".cv" + "minecraft@hotmail.com"
 inurl:fortnite@yahoo.com1601=
 769= "minecraft@hotmail.com" + ".sd"
 906= "XI@steampowered.com"
-filetype:".an" + "FANTASY®"
+filetype:".an" + "FANTASYÂ®"
 835= "XI@steampowered.com" + ".ck"
 .aspx?1560= "uplay-games"
 241= "minecraft@yahoo.com" + ".kg"
@@ -9149,7 +9149,7 @@ intitle:netflix-buy.asp?225=
 of.aspx?1746=
 insubject:".mu" + "Auto@steampowered.com"
 inanchor:".fr" + "fortnite-errors"
-intext:".bi" + "FANTASY®"
+intext:".bi" + "FANTASYÂ®"
 1167= "Duty@steampowered.com" + ".ad"
 cache:".io" + "Auto@steampowered.com"
 190=
@@ -9171,9 +9171,9 @@ allintitle:minecraft@hotmail.com.php?1374=
 inanchor:".tc" + "Call"
 1432= "" + ".ug"
 XI@steampowered.com.asp?701=
-.asp?1770= "FANTASY®"
+.asp?1770= "FANTASYÂ®"
 intitle:minecraft@yahoo.com.aspx?756=
-517= "FANTASY®" + ".tr"
+517= "FANTASYÂ®" + ".tr"
 560= "Grand" + ".zm"
 source:minecraft@gmail.com.aspx?2012=
 info:minecraft@gmail.com.aspx?1129=
@@ -9206,7 +9206,7 @@ fortnite@gmail.com.aspx?1331=
 intitle:".bj" + "steam-games"
 filetype:minecraft@yahoo.com.php?1244=
 allintitle:".zm" + "uplay-download"
-source:FANTASY®.php?1766=
+source:FANTASYÂ®.php?1766=
 803= "fortnite@hotmail.com" + ".gf"
 inanchor:".cm" + "Counter-Strike@steampowered.com"
 .php?1021= "of"
@@ -9256,7 +9256,7 @@ fortnite@hotmail.com.php?815=
 1700= "uplay-download" + ".ca"
 .asp?1598= "steam-games"
 632= "" + ".lv"
-filetype:".hm" + "FANTASY®"
+filetype:".hm" + "FANTASYÂ®"
 link:".td" + ""
 allinurl:dominos-pizza180=
 steam-games.php?178=
@@ -9265,7 +9265,7 @@ uplay-download.aspx?1787=
 539= "minecraft@gmail.com" + ".mu"
 229= "Counter-Strike@steampowered.com" + ".je"
 allintext:".bf" + "fortnite@gmail.com"
-intext:FANTASY®.aspx?638=
+intext:FANTASYÂ®.aspx?638=
 .aspx?1133= ""
 FINAL.php?1822=
 fortnite@gmail.com.asp?1366=
@@ -9274,7 +9274,7 @@ fortnite@gmail.com.asp?1366=
 insubject:".nc" + "minecraft@hotmail.com"
 1907= "watch-netflix" + ".by"
 intitle:Grand.aspx?1448=
-.asp?362= "FANTASY®"
+.asp?362= "FANTASYÂ®"
 inanchor:uplay-download935=
 filetype:".na" + "uplay-games"
 inanchor:".rs" + "minecraft@gmail.com"
@@ -9282,7 +9282,7 @@ watch-netflix.aspx?1785=
 71= "Call" + ".au"
 242=
 allintitle:fortnite@gmail.com795=
-FANTASY®.aspx?1857=
+FANTASYÂ®.aspx?1857=
 1204= "minecraft@gmail.com" + ".cl"
 inanchor:".cx" + "minecraft@gmail.com"
 103= "fortnite@gmail.com" + ".ee"
@@ -9294,7 +9294,7 @@ info:716=
 insubject:".gov" + "minecraft@hotmail.com"
 404= "Auto@steampowered.com"
 allinurl:".dk" + "FINAL"
-.asp?1964= "FANTASY®"
+.asp?1964= "FANTASYÂ®"
 1155= "minecraft@yahoo.com" + ".az"
 intext:Duty@steampowered.com.aspx?338=
 729= "of" + ".sc"
@@ -9308,7 +9308,7 @@ source:".eh" + "fortnite@hotmail.com"
 .asp?1932= "fortnite-errors"
 filetype:".my" + "uplay-download"
 link:".gs" + "minecraft@yahoo.com"
-allinurl:".bb" + "FANTASY®"
+allinurl:".bb" + "FANTASYÂ®"
 .aspx?1095= "dominos-pizza"
 inanchor:fortnite@gmail.com.php?1218=
 allinanchor:Auto@steampowered.com.asp?714=
@@ -9320,14 +9320,14 @@ Grand1822=
 steam-games.asp?1619=
 watch-netflix.asp?768=
 source:.asp?408=
-intitle:".rw" + "FANTASY®"
+intitle:".rw" + "FANTASYÂ®"
 intitle:".tk" + "minecraft@hotmail.com"
 filetype:uplay-games.asp?340=
 allinurl:".sg" + "steam-games"
 805= "minecraft@gmail.com" + ".mk"
 .php?958= ""
 cache:Call805=
-inurl:FANTASY®.asp?553=
+inurl:FANTASYÂ®.asp?553=
 .aspx?1984= "dominos-pizza"
 cache:fortnite-errors.asp?411=
 info:".ua" + "uplay-games"
@@ -9352,9 +9352,9 @@ inanchor:".sa" + "XI@steampowered.com"
 XI@steampowered.com.asp?20=
 filetype:".sd" + "uplay-download"
 Grand.asp?1253=
-FANTASY®.php?781=
+FANTASYÂ®.php?781=
 watch-netflix.asp?1023=
-952= "FANTASY®"
+952= "FANTASYÂ®"
 1211= "Theft" + ".ml"
 filetype:".ge" + ""
 of.asp?78=
@@ -9372,7 +9372,7 @@ filetype:".iq" + "fortnite@yahoo.com"
 allintitle:".co.uk" + "fortnite@yahoo.com"
 1059= "XI@steampowered.com" + ".pw"
 1243= "Auto@steampowered.com"
-info:FANTASY®.php?429=
+info:FANTASYÂ®.php?429=
 allinanchor:".pt" + "Duty@steampowered.com"
 1627= "minecraft@hotmail.com" + ".ar"
 108= "fortnite@hotmail.com"
@@ -9414,7 +9414,7 @@ allintext:minecraft@gmail.com53=
 1829= "steam-games" + ".ws"
 1604= "" + ".to"
 .asp?911= "Counter-Strike@steampowered.com"
-429= "FANTASY®" + ".mv"
+429= "FANTASYÂ®" + ".mv"
 1502= "fortnite@yahoo.com" + ".bn"
 1167= "dominos-pizza" + ".arpa"
 inurl:netflix-buy.asp?1716=
@@ -9424,7 +9424,7 @@ intitle:".io" + "fortnite@gmail.com"
 1264= "minecraft@hotmail.com" + ".mo"
 inanchor:".mr" + "FINAL"
 1232= "Counter-Strike@steampowered.com" + ".sj"
-FANTASY®.php?366=
+FANTASYÂ®.php?366=
 Grand.php?1390=
 Theft.php?1852=
 .asp?476= "minecraft@gmail.com"
@@ -9478,14 +9478,14 @@ Grand15=
 1680= "watch-netflix" + ".ai"
 fortnite-errors.asp?305=
 allinurl:Auto@steampowered.com853=
-.aspx?142= "FANTASY®"
+.aspx?142= "FANTASYÂ®"
 Call811=
 848= "Grand" + ".mr"
 allinanchor:".sd" + ""
 allintitle:".me" + "Theft"
 intext:of.php?1761=
 Theft.php?823=
-inurl:FANTASY®.asp?1251=
+inurl:FANTASYÂ®.asp?1251=
 .php?424= "fortnite@yahoo.com"
 filetype:uplay-download1563=
 1508= "fortnite@yahoo.com"
@@ -9510,7 +9510,7 @@ inurl:Counter-Strike@steampowered.com1670=
 393= "uplay-download" + ".ye"
 filetype:.php?712=
 .php?560= "dominos-pizza"
-filetype:FANTASY®.asp?187=
+filetype:FANTASYÂ®.asp?187=
 link:".kg" + "minecraft@gmail.com"
 cache:2013=
 insubject:".ml" + "uplay-games"
@@ -9581,7 +9581,7 @@ insubject:".gy" + "fortnite@gmail.com"
 allinanchor:".py" + "steam-games"
 info:".bs" + "Grand"
 fortnite@yahoo.com.php?265=
-info:FANTASY®.php?1336=
+info:FANTASYÂ®.php?1336=
 507= "Duty@steampowered.com" + ".fm"
 .aspx?564= "uplay-games"
 .aspx?972= "XI@steampowered.com"
@@ -9610,7 +9610,7 @@ fortnite@hotmail.com.aspx?662=
 fortnite@gmail.com.php?412=
 .aspx?1875= "of"
 source:".ae" + "netflix-buy"
-1529= "FANTASY®" + ".pk"
+1529= "FANTASYÂ®" + ".pk"
 link:Duty@steampowered.com.asp?1130=
 .asp?704= "uplay-games"
 1910= "uplay-download" + ".bv"
@@ -9644,7 +9644,7 @@ inurl:".lk" + ""
 19= "fortnite@yahoo.com" + ".bm"
 .aspx?1392= "uplay-games"
 filetype:watch-netflix.aspx?1318=
-inurl:FANTASY®.asp?1776=
+inurl:FANTASYÂ®.asp?1776=
 uplay-games.asp?1747=
 watch-netflix.php?1682=
 intext:".io" + "Counter-Strike@steampowered.com"
@@ -9679,7 +9679,7 @@ watch-netflix.php?62=
 filetype:minecraft@hotmail.com.php?766=
 allintext:Theft.php?1314=
 link:".bj" + "uplay-games"
-FANTASY®.aspx?1337=
+FANTASYÂ®.aspx?1337=
 inurl:uplay-games.php?1096=
 732= "Theft"
 Grand.asp?538=
@@ -9692,7 +9692,7 @@ fortnite-errors1903=
 allinurl:Auto@steampowered.com.php?1786=
 1446= "Duty@steampowered.com" + ".ng"
 cache:.php?42=
-filetype:".et" + "FANTASY®"
+filetype:".et" + "FANTASYÂ®"
 Auto@steampowered.com.asp?320=
 allinurl:".ye" + "fortnite-errors"
 293= "minecraft@hotmail.com" + ".cl"
@@ -9702,12 +9702,12 @@ source:Counter-Strike@steampowered.com.php?128=
 inanchor:".ai" + "Duty@steampowered.com"
 380= "uplay-download" + ".ms"
 1418= "FINAL" + ".td"
-1305= "FANTASY®" + ".se"
+1305= "FANTASYÂ®" + ".se"
 706= "minecraft@gmail.com" + ".er"
 uplay-download.php?603=
 .php?977=
 234= "XI@steampowered.com" + ".sv"
-FANTASY®.aspx?1776=
+FANTASYÂ®.aspx?1776=
 fortnite-errors498=
 allinurl:".zm" + "netflix-buy"
 236= "minecraft@hotmail.com" + ".ck"
@@ -9752,7 +9752,7 @@ inurl:Duty@steampowered.com920=
 1111= "of"
 544= "Counter-Strike@steampowered.com" + ".bh"
 1352= "fortnite@hotmail.com" + ".mz"
-insubject:FANTASY®.php?149=
+insubject:FANTASYÂ®.php?149=
 minecraft@hotmail.com1282=
 allinurl:".eu" + "uplay-download"
 allinanchor:".nr" + "netflix-buy"
@@ -9816,18 +9816,18 @@ allinanchor:watch-netflix679=
 allintext:".aw" + "uplay-games"
 1583= "Auto@steampowered.com" + ".bs"
 allintitle:".mo" + ""
-1687= "FANTASY®" + ".ba"
+1687= "FANTASYÂ®" + ".ba"
 inanchor:".co" + "dominos-pizza"
 inanchor:".hm" + "netflix-buy"
 source:watch-netflix.php?142=
 filetype:Counter-Strike@steampowered.com.asp?1031=
 source:steam-games.aspx?1634=
 filetype:".eg" + "XI@steampowered.com"
-.aspx?141= "FANTASY®"
+.aspx?141= "FANTASYÂ®"
 1278= "XI@steampowered.com" + ".ci"
 .aspx?1457= "steam-games"
 341= "Duty@steampowered.com" + ".pn"
-allintext:".br" + "FANTASY®"
+allintext:".br" + "FANTASYÂ®"
 976= "Auto@steampowered.com" + ".py"
 .asp?335= "uplay-games"
 insubject:".dj" + "Grand"
@@ -9874,7 +9874,7 @@ source:".nr" + "FINAL"
 Counter-Strike@steampowered.com.php?2018=
 intitle:uplay-games54=
 uplay-games.php?1914=
-info:".by" + "FANTASY®"
+info:".by" + "FANTASYÂ®"
 insubject:".lu" + ""
 allinanchor:of.php?1170=
 Call.asp?610=
@@ -9891,7 +9891,7 @@ insubject:fortnite@yahoo.com490=
 Call.php?840=
 minecraft@gmail.com.asp?623=
 Theft.asp?614=
-2000= "FANTASY®" + ".ca"
+2000= "FANTASYÂ®" + ".ca"
 674= "dominos-pizza" + ".mv"
 intitle:Auto@steampowered.com63=
 allinanchor:".gi" + "fortnite@hotmail.com"
@@ -9944,7 +9944,7 @@ fortnite@yahoo.com1656=
 XI@steampowered.com.php?436=
 576= "" + ".mm"
 intext:Grand1758=
-FANTASY®.php?1590=
+FANTASYÂ®.php?1590=
 steam-games1051=
 .asp?850= "Duty@steampowered.com"
 watch-netflix.aspx?1519=
@@ -9958,12 +9958,12 @@ link:".mt" + "minecraft@yahoo.com"
 cache:".gt" + "Duty@steampowered.com"
 500= "FINAL" + ".an"
 intitle:Auto@steampowered.com.aspx?1580=
-.asp?1314= "FANTASY®"
+.asp?1314= "FANTASYÂ®"
 508= "Counter-Strike@steampowered.com" + ".ec"
 1628= "minecraft@hotmail.com" + ".pg"
 allintext:steam-games.aspx?1084=
 allinurl:uplay-games.php?930=
-.aspx?1327= "FANTASY®"
+.aspx?1327= "FANTASYÂ®"
 .asp?1367= "minecraft@gmail.com"
 source:Counter-Strike@steampowered.com.asp?798=
 1697= "fortnite-errors"
@@ -9994,18 +9994,18 @@ Auto@steampowered.com.aspx?896=
 608= "Auto@steampowered.com"
 source:Grand.php?1206=
 inanchor:of.aspx?1085=
-.asp?791= "FANTASY®"
+.asp?791= "FANTASYÂ®"
 Theft557=
 .php?1650= "uplay-games"
 netflix-buy1321=
 info:fortnite@yahoo.com1802=
 Call.asp?483=
 allinanchor:netflix-buy660=
-insubject:FANTASY®.php?468=
+insubject:FANTASYÂ®.php?468=
 allinurl:Theft.aspx?195=
 .asp?471= "Call"
 fortnite@hotmail.com1764=
-filetype:FANTASY®.aspx?1612=
+filetype:FANTASYÂ®.aspx?1612=
 1424= "netflix-buy" + ".dj"
 .asp?278= "fortnite@hotmail.com"
 8= "" + ".it"
@@ -10033,7 +10033,7 @@ Duty@steampowered.com.aspx?1878=
 of.php?1081=
 569= "Counter-Strike@steampowered.com" + ".sl"
 662= "dominos-pizza" + ".be"
-FANTASY®.asp?1834=
+FANTASYÂ®.asp?1834=
 inanchor:.aspx?796=
 858= "fortnite@hotmail.com" + ".se"
 allintext:".de" + "minecraft@yahoo.com"
@@ -10073,12 +10073,12 @@ FINAL.asp?417=
 303= "Auto@steampowered.com" + ".gd"
 .aspx?1039= "Auto@steampowered.com"
 inurl:.php?1044=
-FANTASY®.aspx?1053=
+FANTASYÂ®.aspx?1053=
 cache:".hr" + ""
 cache:fortnite-errors.php?229=
 1167= "Duty@steampowered.com"
 1072= "uplay-download" + ".np"
-1403= "FANTASY®"
+1403= "FANTASYÂ®"
 fortnite@yahoo.com.aspx?782=
 1275= "uplay-download" + ".nl"
 uplay-download.asp?1398=
@@ -10098,7 +10098,7 @@ inurl:".np" + ""
 minecraft@yahoo.com.aspx?630=
 link:".pm" + "minecraft@hotmail.com"
 allinanchor:".zm" + "minecraft@yahoo.com"
-FANTASY®.aspx?1096=
+FANTASYÂ®.aspx?1096=
 allintitle:".cw" + "minecraft@gmail.com"
 intitle:".is" + "XI@steampowered.com"
 minecraft@hotmail.com.aspx?1965=
@@ -10112,7 +10112,7 @@ insubject:fortnite-errors.aspx?512=
 .php?146= "fortnite-errors"
 870= "steam-games"
 .aspx?1029= "minecraft@yahoo.com"
-.php?431= "FANTASY®"
+.php?431= "FANTASYÂ®"
 allinanchor:Counter-Strike@steampowered.com.aspx?258=
 watch-netflix1811=
 intitle:".co" + ""
@@ -10128,7 +10128,7 @@ allinanchor:.php?1701=
 filetype:".gt" + "Theft"
 353= "Auto@steampowered.com" + ".ht"
 .aspx?1429=
-FANTASY®.asp?450=
+FANTASYÂ®.asp?450=
 netflix-buy.aspx?1721=
 624= "netflix-buy"
 .aspx?8= "Theft"
@@ -10170,7 +10170,7 @@ XI@steampowered.com.asp?1985=
 intext:".ve" + "steam-games"
 cache:".at" + "fortnite@hotmail.com"
 of.php?566=
-.asp?1185= "FANTASY®"
+.asp?1185= "FANTASYÂ®"
 filetype:uplay-download.php?1157=
 175= "Auto@steampowered.com" + ".bz"
 insubject:minecraft@gmail.com19=
@@ -10202,7 +10202,7 @@ inurl:".pt" + "fortnite@gmail.com"
 inanchor:fortnite@hotmail.com.asp?248=
 .asp?637= "FINAL"
 insubject:of.aspx?1312=
-.asp?689= "FANTASY®"
+.asp?689= "FANTASYÂ®"
 84= "FINAL" + ".np"
 .php?287= "FINAL"
 .aspx?1760= "dominos-pizza"
@@ -10213,12 +10213,12 @@ allinanchor:Theft.aspx?1678=
 of.aspx?773=
 1756= "fortnite@yahoo.com"
 .asp?1952= "minecraft@hotmail.com"
-933= "FANTASY®" + ".jm"
+933= "FANTASYÂ®" + ".jm"
 .php?1014= "fortnite-errors"
 inurl:".ro" + "Grand"
 .php?228= "of"
 allintext:Call.php?1955=
-1970= "FANTASY®" + ".ec"
+1970= "FANTASYÂ®" + ".ec"
 .aspx?3= "minecraft@gmail.com"
 1440= "netflix-buy" + ".gq"
 inurl:".je" + "Counter-Strike@steampowered.com"
@@ -10264,7 +10264,7 @@ inanchor:Duty@steampowered.com22=
 dominos-pizza.asp?59=
 minecraft@gmail.com.php?1140=
 .php?519=
-filetype:FANTASY®.aspx?993=
+filetype:FANTASYÂ®.aspx?993=
 filetype:Auto@steampowered.com.aspx?12=
 steam-games.php?1003=
 .aspx?268= "Theft"
@@ -10330,11 +10330,11 @@ info:Auto@steampowered.com.php?739=
 .asp?1117= "minecraft@gmail.com"
 intitle:uplay-download.php?640=
 1379= "of"
-allinanchor:".bh" + "FANTASY®"
+allinanchor:".bh" + "FANTASYÂ®"
 insubject:dominos-pizza.aspx?1333=
 inurl:".vu" + "Grand"
 netflix-buy1289=
-1389= "FANTASY®"
+1389= "FANTASYÂ®"
 Call.asp?1073=
 inanchor:watch-netflix.asp?1043=
 steam-games.php?723=
@@ -10351,8 +10351,8 @@ minecraft@gmail.com.aspx?1213=
 allintext:fortnite-errors385=
 FINAL.php?1160=
 .php?911=
-cache:".am" + "FANTASY®"
-FANTASY®593=
+cache:".am" + "FANTASYÂ®"
+FANTASYÂ®593=
 .asp?1170= "of"
 inanchor:".pk" + "minecraft@yahoo.com"
 uplay-games.php?262=
@@ -10428,7 +10428,7 @@ source:XI@steampowered.com1336=
 .php?296= "Grand"
 allintitle:.asp?1441=
 inanchor:".pk" + "netflix-buy"
-FANTASY®.php?513=
+FANTASYÂ®.php?513=
 allintitle:Duty@steampowered.com.aspx?318=
 179= "minecraft@gmail.com"
 inanchor:dominos-pizza.asp?1815=
@@ -10443,11 +10443,11 @@ allinurl:minecraft@yahoo.com.aspx?843=
 allintitle:uplay-games.aspx?265=
 minecraft@hotmail.com.php?1977=
 1647= "dominos-pizza" + ".as"
-FANTASY®.php?1658=
-FANTASY®.aspx?494=
+FANTASYÂ®.php?1658=
+FANTASYÂ®.aspx?494=
 XI@steampowered.com.php?815=
 1902= "XI@steampowered.com" + ".gs"
-FANTASY®.asp?847=
+FANTASYÂ®.asp?847=
 insubject:".bd" + "XI@steampowered.com"
 974= "Call" + ".gi"
 allinanchor:of1612=
@@ -10459,7 +10459,7 @@ intitle:".ae" + "uplay-download"
 link:steam-games1245=
 minecraft@hotmail.com.php?287=
 intext:".ly" + "Duty@steampowered.com"
-allinurl:".lk" + "FANTASY®"
+allinurl:".lk" + "FANTASYÂ®"
 allintitle:minecraft@gmail.com257=
 fortnite@yahoo.com.aspx?722=
 789= "minecraft@yahoo.com"
@@ -10496,7 +10496,7 @@ info:".vu" + "minecraft@gmail.com"
 info:".in" + "minecraft@hotmail.com"
 777= "uplay-games" + ".sr"
 source:".za" + "fortnite-errors"
-991= "FANTASY®" + ".tj"
+991= "FANTASYÂ®" + ".tj"
 dominos-pizza.aspx?836=
 .aspx?875= "uplay-download"
 uplay-download.aspx?695=
@@ -10512,7 +10512,7 @@ cache:".ne" + "fortnite-errors"
 .aspx?624= ""
 Duty@steampowered.com.aspx?881=
 allinurl:".cd" + "Counter-Strike@steampowered.com"
-FANTASY®.aspx?985=
+FANTASYÂ®.aspx?985=
 netflix-buy.aspx?484=
 allintitle:".ly" + "fortnite@hotmail.com"
 Theft.php?413=
@@ -10525,7 +10525,7 @@ allintext:".aw" + "Duty@steampowered.com"
 allintitle:".mk" + "FINAL"
 allintitle:".cw" + "fortnite@yahoo.com"
 .asp?1017= ""
-276= "FANTASY®" + ".il"
+276= "FANTASYÂ®" + ".il"
 FINAL.php?1356=
 cache:of.aspx?435=
 fortnite@hotmail.com.php?911=
@@ -10550,7 +10550,7 @@ Call.asp?478=
 1568= "XI@steampowered.com" + ".hr"
 .aspx?1576= "minecraft@gmail.com"
 .aspx?209= "dominos-pizza"
-source:FANTASY®.php?244=
+source:FANTASYÂ®.php?244=
 link:Theft.asp?576=
 Counter-Strike@steampowered.com.asp?1267=
 .asp?748= "minecraft@yahoo.com"
@@ -10607,10 +10607,10 @@ Duty@steampowered.com.asp?441=
 207= "watch-netflix" + ".cr"
 info:".my" + "Duty@steampowered.com"
 inanchor:".eh" + "Duty@steampowered.com"
-intext:FANTASY®.php?643=
+intext:FANTASYÂ®.php?643=
 allinurl:Grand.asp?530=
 .aspx?723= "uplay-games"
-allintext:".io" + "FANTASY®"
+allintext:".io" + "FANTASYÂ®"
 minecraft@gmail.com.aspx?1384=
 992= "" + ".net"
 .php?1772= ""
@@ -10633,7 +10633,7 @@ intitle:Grand.asp?677=
 allinurl:minecraft@yahoo.com.asp?712=
 allintitle:XI@steampowered.com.php?531=
 fortnite@hotmail.com.asp?1571=
-source:".dz" + "FANTASY®"
+source:".dz" + "FANTASYÂ®"
 816= "fortnite-errors" + ".ni"
 .aspx?360= "fortnite-errors"
 913= "fortnite@yahoo.com" + ".am"
@@ -10743,14 +10743,14 @@ Call.aspx?1393=
 info:steam-games.aspx?1451=
 1220= "uplay-download" + ".bw"
 link:Auto@steampowered.com.aspx?357=
-link:FANTASY®.asp?793=
+link:FANTASYÂ®.asp?793=
 fortnite@gmail.com.asp?741=
 uplay-games.php?1775=
 .asp?1141= "steam-games"
 .asp?1279= ""
 source:".gh" + "netflix-buy"
 fortnite@gmail.com.aspx?1677=
-FANTASY®.aspx?2007=
+FANTASYÂ®.aspx?2007=
 intitle:".arpa" + "Grand"
 .aspx?838= "fortnite@gmail.com"
 694= "Duty@steampowered.com" + ".mg"
@@ -10771,14 +10771,14 @@ intitle:".bd" + ""
 inanchor:dominos-pizza.asp?1637=
 .aspx?1186= "of"
 info:minecraft@gmail.com.aspx?1858=
-filetype:FANTASY®.asp?451=
+filetype:FANTASYÂ®.asp?451=
 uplay-games.aspx?1479=
 link:".ec" + "fortnite-errors"
 inurl:".ht" + "watch-netflix"
 .php?1115= "fortnite@hotmail.com"
 dominos-pizza.asp?857=
 1553= "netflix-buy"
-.asp?1084= "FANTASY®"
+.asp?1084= "FANTASYÂ®"
 insubject:XI@steampowered.com.asp?141=
 uplay-games.asp?63=
 allintext:".gw" + "Theft"
@@ -10808,7 +10808,7 @@ intext:fortnite-errors638=
 .asp?1022= "FINAL"
 dominos-pizza1551=
 inurl:".re" + "uplay-games"
-FANTASY®415=
+FANTASYÂ®415=
 source:uplay-download.asp?1926=
 allintitle:".mz" + "XI@steampowered.com"
 817= "uplay-download" + ".ch"
@@ -10845,7 +10845,7 @@ info:Counter-Strike@steampowered.com1041=
 .asp?1946= "XI@steampowered.com"
 minecraft@yahoo.com.asp?1189=
 cache:minecraft@gmail.com107=
-inanchor:FANTASY®939=
+inanchor:FANTASYÂ®939=
 1228= "Theft"
 allintext:".jo" + "uplay-games"
 allintitle:".rs" + "minecraft@gmail.com"
@@ -10865,12 +10865,12 @@ intext:".hm" + "netflix-buy"
 324= "netflix-buy" + ".gb"
 info:Counter-Strike@steampowered.com880=
 watch-netflix.asp?1351=
-FANTASY®948=
+FANTASYÂ®948=
 cache:".bm" + "Duty@steampowered.com"
 allintitle:".tf" + "steam-games"
 fortnite@gmail.com.asp?337=
 .asp?1170= "uplay-games"
-inurl:FANTASY®.asp?1591=
+inurl:FANTASYÂ®.asp?1591=
 .aspx?1644= ""
 link:minecraft@gmail.com.php?1449=
 .aspx?1314= "dominos-pizza"
@@ -10900,7 +10900,7 @@ fortnite@hotmail.com.asp?679=
 allintext:fortnite@hotmail.com.php?610=
 allintitle:Call.php?268=
 1187= "Duty@steampowered.com"
-1464= "FANTASY®" + ".yt"
+1464= "FANTASYÂ®" + ".yt"
 .asp?1979= "Theft"
 .asp?244= "minecraft@hotmail.com"
 742= "uplay-download" + ".km"
@@ -10912,16 +10912,16 @@ insubject:".bn" + "fortnite@hotmail.com"
 1966= "Call" + ".gd"
 intitle:Counter-Strike@steampowered.com.aspx?1741=
 fortnite@hotmail.com.aspx?687=
-FANTASY®93=
+FANTASYÂ®93=
 watch-netflix.aspx?59=
 intext:.php?1060=
 1084= "fortnite@hotmail.com" + ".et"
 minecraft@hotmail.com.aspx?998=
-FANTASY®.asp?340=
+FANTASYÂ®.asp?340=
 .php?1810= "minecraft@hotmail.com"
 1835= "XI@steampowered.com"
 cache:of1259=
-allintitle:FANTASY®.aspx?1849=
+allintitle:FANTASYÂ®.aspx?1849=
 watch-netflix.aspx?1581=
 filetype:Call1259=
 90= "XI@steampowered.com" + ".bn"
@@ -10938,11 +10938,11 @@ allintext:.aspx?1992=
 insubject:".fi" + "uplay-download"
 allinurl:".fm" + "FINAL"
 link:".bh" + "of"
-.asp?435= "FANTASY®"
+.asp?435= "FANTASYÂ®"
 allinurl:".tt" + "Duty@steampowered.com"
-cache:FANTASY®.php?376=
+cache:FANTASYÂ®.php?376=
 .asp?949= "Counter-Strike@steampowered.com"
-150= "FANTASY®" + ".pt"
+150= "FANTASYÂ®" + ".pt"
 link:".mt" + "of"
 inanchor:".td" + "minecraft@yahoo.com"
 allinanchor:Call.aspx?797=
@@ -10973,7 +10973,7 @@ fortnite-errors.aspx?1561=
 intitle:".am" + ""
 .php?1335=
 567= "" + ".dk"
-link:".pw" + "FANTASY®"
+link:".pw" + "FANTASYÂ®"
 Grand.aspx?591=
 filetype:".sz" + "Call"
 inurl:".se" + ""
@@ -10997,12 +10997,12 @@ inurl:".va" + "Grand"
 intitle:".com.tr" + "fortnite@yahoo.com"
 .asp?1903= "uplay-download"
 minecraft@hotmail.com1707=
-allinanchor:FANTASY®.asp?1492=
+allinanchor:FANTASYÂ®.asp?1492=
 933= "Theft" + ".pk"
 1696= "minecraft@yahoo.com" + ".im"
 allintitle:".sv" + "Duty@steampowered.com"
-115= "FANTASY®" + ".pt"
-info:FANTASY®.asp?1798=
+115= "FANTASYÂ®" + ".pt"
+info:FANTASYÂ®.asp?1798=
 1309= "" + ".kh"
 intext:minecraft@gmail.com.asp?542=
 366= "" + ".tn"
@@ -11042,7 +11042,7 @@ intitle:".ai" + "Auto@steampowered.com"
 inurl:of960=
 .asp?1562= "fortnite@gmail.com"
 netflix-buy.asp?1428=
-allintitle:".as" + "FANTASY®"
+allintitle:".as" + "FANTASYÂ®"
 allintitle:Grand620=
 .asp?1085= "uplay-download"
 allinanchor:fortnite@gmail.com.php?1689=
@@ -11055,7 +11055,7 @@ allinanchor:fortnite@gmail.com.php?1689=
 246= "fortnite@hotmail.com" + ".pa"
 info:netflix-buy1139=
 .asp?483= "Auto@steampowered.com"
-1621= "FANTASY®" + ".ye"
+1621= "FANTASYÂ®" + ".ye"
 intitle:fortnite@gmail.com.asp?1394=
 Theft.asp?569=
 689= "fortnite@gmail.com" + ".zm"
@@ -11142,7 +11142,7 @@ inurl:fortnite@yahoo.com1273=
 watch-netflix1167=
 filetype:netflix-buy905=
 1550= "watch-netflix" + ".zm"
-1063= "FANTASY®" + ".sr"
+1063= "FANTASYÂ®" + ".sr"
 insubject:of.php?834=
 Counter-Strike@steampowered.com1134=
 .php?757= "of"
@@ -11158,7 +11158,7 @@ link:Grand.php?1388=
 allinurl:Call.asp?1353=
 allintext:".vi" + "FINAL"
 Call.php?446=
-FANTASY®.php?1743=
+FANTASYÂ®.php?1743=
 fortnite@gmail.com.aspx?1393=
 322= "fortnite@gmail.com" + ".cv"
 1168= "steam-games" + ".kg"
@@ -11184,7 +11184,7 @@ Grand.asp?303=
 inurl:Duty@steampowered.com1460=
 534= "watch-netflix" + ".cz"
 allinanchor:".gw" + "Duty@steampowered.com"
-filetype:".com.tr" + "FANTASY®"
+filetype:".com.tr" + "FANTASYÂ®"
 allinurl:of1045=
 979= "netflix-buy"
 1893= "Theft"
@@ -11205,12 +11205,12 @@ allintitle:".pm" + "Theft"
 link:uplay-download.aspx?1371=
 1724= "fortnite@hotmail.com"
 .aspx?280=
-source:".mq" + "FANTASY®"
+source:".mq" + "FANTASYÂ®"
 249= "uplay-download" + ".tf"
 1909= "" + ".gy"
 intext:".qa" + "Duty@steampowered.com"
-330= "FANTASY®" + ".sk"
-1875= "FANTASY®" + ".na"
+330= "FANTASYÂ®" + ".sk"
+1875= "FANTASYÂ®" + ".na"
 filetype:Duty@steampowered.com.aspx?1776=
 140= "FINAL"
 1869= "fortnite@yahoo.com"
@@ -11221,7 +11221,7 @@ intitle:netflix-buy.aspx?1166=
 822= "Grand" + ".ls"
 fortnite@gmail.com.php?184=
 cache:".ni" + "fortnite@hotmail.com"
-1515= "FANTASY®"
+1515= "FANTASYÂ®"
 intitle:Call.asp?680=
 Theft.aspx?859=
 212= "steam-games" + ".dj"
@@ -11239,11 +11239,11 @@ intitle:minecraft@hotmail.com.asp?1506=
 .aspx?549= "FINAL"
 4= "FINAL" + ".com.tr"
 intitle:uplay-games.aspx?1968=
-FANTASY®.aspx?1444=
-allinanchor:FANTASY®.php?1908=
+FANTASYÂ®.aspx?1444=
+allinanchor:FANTASYÂ®.php?1908=
 503= "fortnite@yahoo.com" + ".nz"
 inanchor:".sm" + "Grand"
-1759= "FANTASY®" + ".ls"
+1759= "FANTASYÂ®" + ".ls"
 inurl:".bn" + "fortnite@gmail.com"
 steam-games1982=
 steam-games.php?1069=
@@ -11281,7 +11281,7 @@ allintitle:uplay-games.asp?1805=
 .asp?718= "steam-games"
 filetype:".gd" + "watch-netflix"
 .php?1383= "XI@steampowered.com"
-source:".am" + "FANTASY®"
+source:".am" + "FANTASYÂ®"
 516= "minecraft@gmail.com" + ".eh"
 minecraft@hotmail.com133=
 1925= ""
@@ -11318,7 +11318,7 @@ insubject:fortnite@hotmail.com.php?262=
 .asp?668= "uplay-download"
 XI@steampowered.com.php?1186=
 allintitle:".im" + "Call"
-allinanchor:".na" + "FANTASY®"
+allinanchor:".na" + "FANTASYÂ®"
 fortnite-errors.aspx?583=
 .php?1477= "Duty@steampowered.com"
 inurl:".li" + "XI@steampowered.com"
@@ -11326,7 +11326,7 @@ inurl:".li" + "XI@steampowered.com"
 477= "Auto@steampowered.com" + ".sy"
 .asp?1298=
 allinanchor:".th" + "steam-games"
-FANTASY®.php?973=
+FANTASYÂ®.php?973=
 1801= "dominos-pizza" + ".fi"
 1876= "fortnite@hotmail.com" + ".an"
 intext:".lc" + "FINAL"
@@ -11335,7 +11335,7 @@ allinanchor:Grand.aspx?367=
 minecraft@gmail.com.aspx?109=
 allintext:fortnite@hotmail.com893=
 2017= "Counter-Strike@steampowered.com" + ".al"
-FANTASY®.aspx?181=
+FANTASYÂ®.aspx?181=
 allintext:Theft.php?337=
 508= "uplay-games" + ".mt"
 872= "netflix-buy" + ".net"
@@ -11351,7 +11351,7 @@ Counter-Strike@steampowered.com.php?1022=
 1255= "fortnite@yahoo.com" + ".ie"
 .aspx?1140= "minecraft@hotmail.com"
 fortnite@gmail.com.asp?1634=
-FANTASY®.aspx?1953=
+FANTASYÂ®.aspx?1953=
 Duty@steampowered.com206=
 minecraft@yahoo.com496=
 allintext:fortnite-errors.aspx?865=
@@ -11378,12 +11378,12 @@ uplay-games348=
 watch-netflix.aspx?1618=
 allintext:".sr" + "fortnite@yahoo.com"
 428= "minecraft@hotmail.com" + ".hm"
-1042= "FANTASY®" + ".jm"
+1042= "FANTASYÂ®" + ".jm"
 670= "uplay-games" + ".mw"
-link:".co" + "FANTASY®"
+link:".co" + "FANTASYÂ®"
 1092=
 232= "minecraft@yahoo.com" + ".gg"
-allinanchor:FANTASY®1040=
+allinanchor:FANTASYÂ®1040=
 filetype:minecraft@yahoo.com.php?306=
 634= "uplay-download"
 intext:".cm" + "XI@steampowered.com"
@@ -11423,7 +11423,7 @@ allintext:".hk" + ""
 1777= "minecraft@hotmail.com" + ".mp"
 1614= "XI@steampowered.com" + ".sn"
 info:fortnite@yahoo.com.aspx?853=
-intitle:".tv" + "FANTASY®"
+intitle:".tv" + "FANTASYÂ®"
 .php?528= "dominos-pizza"
 1380= "fortnite-errors" + ".tk"
 Call.php?1396=
@@ -11444,7 +11444,7 @@ filetype:".au" + "watch-netflix"
 inanchor:".tz" + "XI@steampowered.com"
 362= "Duty@steampowered.com" + ".tt"
 source:".an" + "of"
-880= "FANTASY®" + ".ly"
+880= "FANTASYÂ®" + ".ly"
 allintext:uplay-games.asp?520=
 intitle:".lt" + "fortnite-errors"
 1527= "netflix-buy" + ".br"
@@ -11459,16 +11459,16 @@ info:minecraft@gmail.com.aspx?1256=
 1433= "watch-netflix" + ".il"
 fortnite-errors.php?282=
 158= "Auto@steampowered.com" + ".es"
-FANTASY®466=
+FANTASYÂ®466=
 Duty@steampowered.com.php?1497=
 1833= "uplay-games" + ".gg"
-.aspx?1306= "FANTASY®"
+.aspx?1306= "FANTASYÂ®"
 info:fortnite@gmail.com.php?740=
 1521= "Auto@steampowered.com" + ".gt"
 191= "Grand" + ".mp"
 dominos-pizza.php?530=
-.aspx?1011= "FANTASY®"
-1099= "FANTASY®"
+.aspx?1011= "FANTASYÂ®"
+1099= "FANTASYÂ®"
 inanchor:".al" + "uplay-download"
 allintitle:".bs" + "fortnite@gmail.com"
 .aspx?1572= "minecraft@yahoo.com"
@@ -11529,7 +11529,7 @@ insubject:Duty@steampowered.com.aspx?805=
 862= "fortnite@gmail.com" + ".bf"
 3= "fortnite@yahoo.com"
 intitle:.asp?1445=
-inurl:".ke" + "FANTASY®"
+inurl:".ke" + "FANTASYÂ®"
 .aspx?322= "fortnite@hotmail.com"
 source:".gs" + "netflix-buy"
 1043= "fortnite@gmail.com" + ".hu"
@@ -11557,7 +11557,7 @@ source:minecraft@hotmail.com.asp?1454=
 intext:Counter-Strike@steampowered.com1401=
 519= "Grand" + ".ga"
 1747= "uplay-download"
-allintext:FANTASY®498=
+allintext:FANTASYÂ®498=
 136= "Auto@steampowered.com" + ".tp"
 .asp?1524= "of"
 .aspx?606= "minecraft@hotmail.com"
@@ -11602,7 +11602,7 @@ Call.aspx?1770=
 846= "Call" + ".com"
 insubject:minecraft@yahoo.com.asp?1921=
 .asp?1916= "FINAL"
-allintitle:FANTASY®.asp?583=
+allintitle:FANTASYÂ®.asp?583=
 insubject:minecraft@hotmail.com.asp?1746=
 1233= "dominos-pizza" + ".gg"
 .asp?1689= "steam-games"
@@ -11650,7 +11650,7 @@ allintext:uplay-games.aspx?1870=
 intext:".pr" + "minecraft@gmail.com"
 allinanchor:".cg" + "Counter-Strike@steampowered.com"
 XI@steampowered.com.aspx?1645=
-1080= "FANTASY®" + ".rw"
+1080= "FANTASYÂ®" + ".rw"
 minecraft@gmail.com.aspx?302=
 104= "steam-games" + ".gov"
 182= "minecraft@gmail.com" + ".kn"
@@ -11686,10 +11686,10 @@ link:fortnite@yahoo.com.aspx?1822=
 300= "Theft" + ".mt"
 1520= "Theft" + ".vg"
 752= "" + ".org"
-1886= "FANTASY®" + ".eh"
+1886= "FANTASYÂ®" + ".eh"
 1440= "netflix-buy" + ".arpa"
 .aspx?1448= ""
-allintitle:".bv" + "FANTASY®"
+allintitle:".bv" + "FANTASYÂ®"
 minecraft@yahoo.com.asp?1824=
 Theft972=
 netflix-buy.asp?1533=
@@ -11699,7 +11699,7 @@ minecraft@hotmail.com.aspx?1237=
 Call.aspx?1951=
 .aspx?744= "XI@steampowered.com"
 Theft.asp?1792=
-allintext:FANTASY®.asp?516=
+allintext:FANTASYÂ®.asp?516=
 1890= "Theft" + ".pg"
 176= "minecraft@hotmail.com" + ".vu"
 Call1819=
@@ -11719,7 +11719,7 @@ link:".gw" + "of"
 1694= "uplay-download"
 .aspx?1604= "minecraft@gmail.com"
 .php?1450= "XI@steampowered.com"
-filetype:FANTASY®.aspx?1001=
+filetype:FANTASYÂ®.aspx?1001=
 fortnite-errors.aspx?231=
 inurl:of.php?323=
 allintitle:fortnite-errors.aspx?529=
@@ -11734,7 +11734,7 @@ minecraft@hotmail.com.asp?1177=
 minecraft@gmail.com1961=
 cache:".yt" + "dominos-pizza"
 filetype:".at" + "uplay-download"
-FANTASY®.php?41=
+FANTASYÂ®.php?41=
 intitle:".bf" + ""
 Call.asp?712=
 332= "Auto@steampowered.com" + ".com"
@@ -11745,7 +11745,7 @@ inanchor:".ht" + "XI@steampowered.com"
 insubject:".bi" + "of"
 1303= "netflix-buy" + ".id"
 intext:".bb" + "FINAL"
-.aspx?1272= "FANTASY®"
+.aspx?1272= "FANTASYÂ®"
 allintext:FINAL.asp?547=
 uplay-games.asp?434=
 minecraft@gmail.com1136=
@@ -11801,7 +11801,7 @@ insubject:Counter-Strike@steampowered.com.aspx?788=
 115= "minecraft@hotmail.com" + ".je"
 FINAL.asp?1203=
 allinanchor:Call.php?975=
-link:FANTASY®1514=
+link:FANTASYÂ®1514=
 1799=
 .asp?1923= "steam-games"
 fortnite@yahoo.com.php?838=
@@ -11850,7 +11850,7 @@ netflix-buy.asp?1488=
 49= "dominos-pizza" + ".km"
 intext:uplay-download1192=
 allintext:".hr" + "fortnite-errors"
-FANTASY®520=
+FANTASYÂ®520=
 1441= "netflix-buy"
 allinanchor:steam-games291=
 1675= "" + ".bv"
@@ -11862,7 +11862,7 @@ intitle:of.asp?707=
 source:".fj" + "uplay-download"
 watch-netflix.aspx?63=
 .php?1873= "fortnite@gmail.com"
-.aspx?1286= "FANTASY®"
+.aspx?1286= "FANTASYÂ®"
 allinurl:fortnite@yahoo.com.asp?922=
 intitle:steam-games253=
 filetype:".ve" + "minecraft@gmail.com"
@@ -11946,7 +11946,7 @@ source:".it" + "Call"
 Auto@steampowered.com.aspx?654=
 insubject:steam-games.aspx?188=
 1740= "fortnite@yahoo.com" + ".bb"
-1328= "FANTASY®"
+1328= "FANTASYÂ®"
 inanchor:Auto@steampowered.com.aspx?1258=
 FINAL.asp?189=
 intitle:netflix-buy.asp?1900=
@@ -11962,7 +11962,7 @@ inanchor:".ug" + "Counter-Strike@steampowered.com"
 737= "fortnite@hotmail.com" + ".tl"
 Counter-Strike@steampowered.com.php?82=
 .asp?1116= "uplay-games"
-cache:FANTASY®.php?1366=
+cache:FANTASYÂ®.php?1366=
 allintitle:fortnite-errors.asp?947=
 .aspx?661= "Call"
 1820= "fortnite@yahoo.com" + ".lc"
@@ -11998,7 +11998,7 @@ watch-netflix.aspx?1260=
 insubject:uplay-games1431=
 inanchor:uplay-games.asp?1884=
 1616= "Call" + ".sn"
-FANTASY®.asp?1277=
+FANTASYÂ®.asp?1277=
 insubject:watch-netflix.aspx?1654=
 netflix-buy751=
 323= "watch-netflix"
@@ -12020,7 +12020,7 @@ cache:Auto@steampowered.com.aspx?636=
 1949= "Auto@steampowered.com" + ".in"
 insubject:".as" + "steam-games"
 inurl:".fj" + ""
-FANTASY®.aspx?1558=
+FANTASYÂ®.aspx?1558=
 filetype:XI@steampowered.com885=
 allinanchor:".sa" + "Duty@steampowered.com"
 .php?585= "fortnite@yahoo.com"
@@ -12028,7 +12028,7 @@ Theft.php?1772=
 uplay-games.asp?739=
 allintext:".an" + "watch-netflix"
 fortnite@yahoo.com1757=
-allinanchor:".id" + "FANTASY®"
+allinanchor:".id" + "FANTASYÂ®"
 allintitle:".ec" + "Duty@steampowered.com"
 1034= "XI@steampowered.com" + ".km"
 allintitle:Counter-Strike@steampowered.com1700=
@@ -12072,7 +12072,7 @@ intext:".jm" + "watch-netflix"
 allinanchor:".mu" + "steam-games"
 216= "minecraft@gmail.com"
 1578= "Call" + ".so"
-FANTASY®.php?661=
+FANTASYÂ®.php?661=
 intext:minecraft@hotmail.com.asp?131=
 .asp?468= "fortnite@hotmail.com"
 531= "Auto@steampowered.com" + ".ss"
@@ -12085,7 +12085,7 @@ fortnite-errors.php?392=
 Grand.asp?1961=
 minecraft@gmail.com.php?579=
 1091= "minecraft@hotmail.com" + ".lu"
-.asp?123= "FANTASY®"
+.asp?123= "FANTASYÂ®"
 54= "FINAL" + ".bz"
 .php?685= "uplay-download"
 24= "fortnite@gmail.com" + ".wf"
@@ -12098,7 +12098,7 @@ filetype:".hu" + "Counter-Strike@steampowered.com"
 fortnite@yahoo.com.php?519=
 .php?29= "XI@steampowered.com"
 1990= "uplay-download"
-intitle:FANTASY®.aspx?1626=
+intitle:FANTASYÂ®.aspx?1626=
 source:".mk" + "Call"
 87= "fortnite@hotmail.com" + ".mo"
 .aspx?227= "fortnite-errors"
@@ -12134,12 +12134,12 @@ cache:".au" + "watch-netflix"
 1616= ""
 .php?341= "uplay-games"
 inurl:uplay-games140=
-FANTASY®.aspx?396=
+FANTASYÂ®.aspx?396=
 filetype:XI@steampowered.com.asp?1199=
 .aspx?1157=
 fortnite@hotmail.com.aspx?1855=
 FINAL924=
-intitle:".lb" + "FANTASY®"
+intitle:".lb" + "FANTASYÂ®"
 685= "fortnite-errors" + ".ci"
 1048= "minecraft@gmail.com"
 insubject:netflix-buy.asp?60=
@@ -12208,7 +12208,7 @@ fortnite@hotmail.com.aspx?914=
 filetype:".mk" + "uplay-games"
 .aspx?1766= "Auto@steampowered.com"
 insubject:fortnite-errors1151=
-.aspx?783= "FANTASY®"
+.aspx?783= "FANTASYÂ®"
 1269= "fortnite@gmail.com" + ".bf"
 intext:fortnite@yahoo.com.asp?1228=
 66= "uplay-download" + ".th"
@@ -12224,7 +12224,7 @@ intext:".ye" + "minecraft@hotmail.com"
 1845= "Auto@steampowered.com" + ".va"
 FINAL.php?1581=
 allintext:".vg" + "steam-games"
-1827= "FANTASY®"
+1827= "FANTASYÂ®"
 of.php?403=
 netflix-buy879=
 Theft.php?545=
@@ -12273,11 +12273,11 @@ Call.php?1350=
 .aspx?686= "minecraft@hotmail.com"
 461= "fortnite@hotmail.com" + ".uk"
 1405= "" + ".mx"
-link:FANTASY®.php?1740=
+link:FANTASYÂ®.php?1740=
 minecraft@hotmail.com1508=
 cache:Theft.php?1642=
 .aspx?1040= ""
-filetype:".by" + "FANTASY®"
+filetype:".by" + "FANTASYÂ®"
 cache:watch-netflix.aspx?1874=
 inanchor:fortnite@yahoo.com.php?1364=
 allinurl:".fm" + "minecraft@yahoo.com"
@@ -12319,7 +12319,7 @@ dominos-pizza.asp?442=
 source:.asp?36=
 allinanchor:1364=
 source:".gr" + ""
-.aspx?1352= "FANTASY®"
+.aspx?1352= "FANTASYÂ®"
 1456= "steam-games" + ".ls"
 steam-games.php?981=
 1765= "fortnite-errors"
@@ -12345,11 +12345,11 @@ intext:25=
 .asp?1108= "watch-netflix"
 .asp?736= "minecraft@yahoo.com"
 .aspx?253= "watch-netflix"
-allinanchor:".kn" + "FANTASY®"
+allinanchor:".kn" + "FANTASYÂ®"
 .asp?1378= "Call"
-FANTASY®.php?746=
+FANTASYÂ®.php?746=
 info:".sg" + "minecraft@yahoo.com"
-allintext:".com" + "FANTASY®"
+allintext:".com" + "FANTASYÂ®"
 intitle:.aspx?515=
 allinanchor:".ke" + "of"
 .asp?507= "watch-netflix"
@@ -12404,7 +12404,7 @@ Auto@steampowered.com.asp?1=
 1486= "Call" + ".do"
 696= "dominos-pizza" + ".iq"
 416= "" + ".dm"
-link:FANTASY®.php?715=
+link:FANTASYÂ®.php?715=
 .aspx?553= "uplay-download"
 425= "Duty@steampowered.com" + ".hr"
 .php?460= "dominos-pizza"
@@ -12461,7 +12461,7 @@ intext:XI@steampowered.com.aspx?775=
 allintitle:uplay-download.aspx?378=
 1542= "fortnite@gmail.com" + ".bg"
 206= "Counter-Strike@steampowered.com" + ".ng"
-FANTASY®1929=
+FANTASYÂ®1929=
 .aspx?947= "uplay-games"
 1445= "XI@steampowered.com"
 dominos-pizza.aspx?1225=
@@ -12478,7 +12478,7 @@ allinanchor:FINAL1134=
 allinanchor:".lr" + ""
 .php?1571= "dominos-pizza"
 2000= "fortnite@gmail.com" + ".pw"
-info:".pl" + "FANTASY®"
+info:".pl" + "FANTASYÂ®"
 1589= "XI@steampowered.com" + ".gl"
 insubject:".sz" + "uplay-games"
 uplay-games.aspx?1077=
@@ -12492,9 +12492,9 @@ allinurl:".ao" + "steam-games"
 inurl:.aspx?405=
 90= "fortnite-errors" + ".ms"
 info:Counter-Strike@steampowered.com1276=
-inurl:FANTASY®.asp?1946=
+inurl:FANTASYÂ®.asp?1946=
 intitle:".kh" + "minecraft@yahoo.com"
-FANTASY®.php?1168=
+FANTASYÂ®.php?1168=
 .asp?989= "fortnite-errors"
 source:Duty@steampowered.com.php?881=
 intext:".wf" + "Counter-Strike@steampowered.com"
@@ -12558,7 +12558,7 @@ intext:.asp?477=
 link:".gf" + "Call"
 allintitle:watch-netflix.asp?1317=
 fortnite@hotmail.com.php?851=
-98= "FANTASY®"
+98= "FANTASYÂ®"
 1951= "uplay-download"
 1505= "Grand" + ".lb"
 .asp?1688= "minecraft@hotmail.com"
@@ -12566,10 +12566,10 @@ steam-games.php?167=
 minecraft@gmail.com407=
 617= "Theft" + ".ga"
 inanchor:fortnite@hotmail.com.aspx?8=
-7= "FANTASY®" + ".kh"
+7= "FANTASYÂ®" + ".kh"
 fortnite@hotmail.com.php?836=
 filetype:".mo" + "of"
-5= "FANTASY®" + ".gs"
+5= "FANTASYÂ®" + ".gs"
 allinurl:".at" + "fortnite-errors"
 intitle:minecraft@yahoo.com1528=
 inurl:".cx" + "Auto@steampowered.com"
@@ -12591,12 +12591,12 @@ allinanchor:".cy" + "uplay-games"
 520= "Auto@steampowered.com" + ".mil"
 .aspx?1029= "netflix-buy"
 .php?1252= "watch-netflix"
-filetype:".zw" + "FANTASY®"
-source:FANTASY®1723=
+filetype:".zw" + "FANTASYÂ®"
+source:FANTASYÂ®1723=
 inurl:fortnite@gmail.com196=
 147= "watch-netflix" + ".ag"
 .asp?1213= "Counter-Strike@steampowered.com"
-263= "FANTASY®" + ".bd"
+263= "FANTASYÂ®" + ".bd"
 intitle:Grand1573=
 1126= "of" + ".io"
 fortnite@hotmail.com537=
@@ -12647,7 +12647,7 @@ insubject:minecraft@yahoo.com.aspx?103=
 intitle:".ro" + "Grand"
 1105= "Auto@steampowered.com" + ".sx"
 .aspx?634= "XI@steampowered.com"
-cache:".mm" + "FANTASY®"
+cache:".mm" + "FANTASYÂ®"
 .php?744= "Grand"
 cache:".cw" + "of"
 Auto@steampowered.com.php?1248=
@@ -12679,21 +12679,21 @@ XI@steampowered.com.asp?296=
 inanchor:Grand.asp?1479=
 .php?894= "Call"
 allinanchor:Auto@steampowered.com.php?1344=
-1998= "FANTASY®" + ".qa"
+1998= "FANTASYÂ®" + ".qa"
 Duty@steampowered.com1973=
 intext:steam-games.aspx?766=
 1330= "fortnite@yahoo.com" + ".pe"
 .aspx?1623= "fortnite@gmail.com"
 fortnite@yahoo.com.asp?1488=
 allintitle:".rw" + "fortnite@gmail.com"
-cache:FANTASY®.aspx?1795=
+cache:FANTASYÂ®.aspx?1795=
 Counter-Strike@steampowered.com.php?1=
 allinanchor:".ck" + ""
 .asp?502= "watch-netflix"
 39=
 source:dominos-pizza1539=
 netflix-buy.asp?965=
-1381= "FANTASY®"
+1381= "FANTASYÂ®"
 Auto@steampowered.com.php?1165=
 filetype:watch-netflix.asp?743=
 .asp?705= ""
@@ -12717,11 +12717,11 @@ uplay-download.php?1532=
 Auto@steampowered.com.php?913=
 inurl:".eu" + "minecraft@hotmail.com"
 978= "netflix-buy" + ".hm"
-info:FANTASY®.php?541=
+info:FANTASYÂ®.php?541=
 1285= "fortnite@yahoo.com" + ".co"
 581= "minecraft@hotmail.com" + ".so"
 1693= "FINAL" + ".om"
-1940= "FANTASY®"
+1940= "FANTASYÂ®"
 1771= "FINAL" + ".it"
 cache:minecraft@hotmail.com.php?793=
 .php?1096= "fortnite@gmail.com"
@@ -12735,15 +12735,15 @@ filetype:fortnite@yahoo.com.php?83=
 insubject:".my" + "watch-netflix"
 543= "fortnite@hotmail.com" + ".pn"
 intitle:".gp" + "fortnite@gmail.com"
-.asp?440= "FANTASY®"
+.asp?440= "FANTASYÂ®"
 link:Theft.php?983=
 watch-netflix570=
 1813= "fortnite-errors" + ".int"
 Theft.aspx?1937=
-.php?858= "FANTASY®"
+.php?858= "FANTASYÂ®"
 filetype:Theft1703=
 allintitle:".sn" + "fortnite@gmail.com"
-FANTASY®.aspx?962=
+FANTASYÂ®.aspx?962=
 .asp?1087= "uplay-games"
 allintitle:watch-netflix.asp?1998=
 1814= "minecraft@yahoo.com" + ".mq"
@@ -12813,7 +12813,7 @@ source:".arpa" + "fortnite@yahoo.com"
 inurl:".kg" + "fortnite@hotmail.com"
 source:".gt" + "Auto@steampowered.com"
 .aspx?1578= "watch-netflix"
-144= "FANTASY®" + ".lb"
+144= "FANTASYÂ®" + ".lb"
 .aspx?328= "minecraft@gmail.com"
 allintitle:minecraft@gmail.com.aspx?635=
 link:".gu" + "minecraft@gmail.com"
@@ -12841,7 +12841,7 @@ insubject:watch-netflix.aspx?271=
 968= "fortnite@gmail.com" + ".sm"
 intext:uplay-download.php?1384=
 .aspx?222= "fortnite@hotmail.com"
-FANTASY®.aspx?1708=
+FANTASYÂ®.aspx?1708=
 dominos-pizza.aspx?366=
 inanchor:".ke" + "watch-netflix"
 link:".ie" + "uplay-download"
@@ -12880,7 +12880,7 @@ info:".rw" + "Theft"
 Duty@steampowered.com.aspx?1983=
 fortnite-errors.aspx?380=
 1084= "" + ".je"
-source:FANTASY®1947=
+source:FANTASYÂ®1947=
 cache:".pk" + "uplay-games"
 .asp?1231= "of"
 fortnite@hotmail.com.php?1163=
@@ -12894,7 +12894,7 @@ watch-netflix.php?1224=
 .asp?1695= "uplay-download"
 intext:Duty@steampowered.com.aspx?1673=
 .asp?411= "fortnite@yahoo.com"
-allinurl:".gr" + "FANTASY®"
+allinurl:".gr" + "FANTASYÂ®"
 1624= "Call"
 820= "fortnite@gmail.com" + ".ve"
 .asp?868=
@@ -12903,7 +12903,7 @@ uplay-games.php?1497=
 allintitle:Grand.aspx?1906=
 510= "" + ".cw"
 netflix-buy345=
-info:".ph" + "FANTASY®"
+info:".ph" + "FANTASYÂ®"
 754= "fortnite-errors" + ".sm"
 1006= "XI@steampowered.com"
 1267= "uplay-download" + ".eg"
@@ -12939,7 +12939,7 @@ minecraft@yahoo.com.aspx?1150=
 uplay-games.aspx?1464=
 .aspx?1703= "uplay-games"
 60= "Duty@steampowered.com" + ".iq"
-allinurl:FANTASY®939=
+allinurl:FANTASYÂ®939=
 FINAL.asp?1855=
 291= "of" + ".li"
 inanchor:Auto@steampowered.com1771=
@@ -12977,7 +12977,7 @@ dominos-pizza.asp?1553=
 insubject:netflix-buy.asp?807=
 allinurl:fortnite-errors.php?1892=
 .asp?637= "of"
-allintext:".mt" + "FANTASY®"
+allintext:".mt" + "FANTASYÂ®"
 1781= "uplay-download" + ".net"
 cache:".kh" + "fortnite@yahoo.com"
 .asp?1725= "uplay-games"
@@ -12987,8 +12987,8 @@ Duty@steampowered.com1871=
 787= "steam-games" + ".mf"
 allinurl:Theft.asp?1057=
 of.asp?86=
-1676= "FANTASY®" + ".nr"
-allinurl:".tr" + "FANTASY®"
+1676= "FANTASYÂ®" + ".nr"
+allinurl:".tr" + "FANTASYÂ®"
 insubject:XI@steampowered.com.aspx?1775=
 FINAL.asp?1431=
 link:".sb" + "fortnite-errors"
@@ -13021,7 +13021,7 @@ allinanchor:fortnite@gmail.com.aspx?1892=
 .asp?1154= "steam-games"
 .php?637= "Call"
 .asp?28=
-FANTASY®.aspx?489=
+FANTASYÂ®.aspx?489=
 allinanchor:minecraft@yahoo.com1106=
 .php?1546= "Call"
 allinurl:Auto@steampowered.com811=
@@ -13076,7 +13076,7 @@ info:".cl" + "of"
 link:Call.aspx?311=
 .aspx?678= "watch-netflix"
 1230= "steam-games" + ".net"
-23= "FANTASY®" + ".li"
+23= "FANTASYÂ®" + ".li"
 1287= "uplay-download" + ".io"
 allintitle:".lk" + "fortnite@yahoo.com"
 .aspx?1139= "Counter-Strike@steampowered.com"
@@ -13097,7 +13097,7 @@ fortnite@gmail.com.asp?5=
 minecraft@yahoo.com.aspx?1001=
 allintitle:Auto@steampowered.com.asp?1458=
 allinurl:".hn" + "fortnite@gmail.com"
-FANTASY®.php?856=
+FANTASYÂ®.php?856=
 cache:".com" + "Theft"
 link:".va" + "watch-netflix"
 inurl:".ci" + "fortnite@gmail.com"
@@ -13140,7 +13140,7 @@ inanchor:XI@steampowered.com1481=
 allintext:".sr" + "Theft"
 .asp?1719= "XI@steampowered.com"
 insubject:uplay-download1936=
-402= "FANTASY®" + ".org"
+402= "FANTASYÂ®" + ".org"
 uplay-download1432=
 source:Call.aspx?108=
 503= "fortnite@yahoo.com" + ".tw"
@@ -13204,7 +13204,7 @@ insubject:dominos-pizza.php?1109=
 dominos-pizza.aspx?1575=
 steam-games.aspx?730=
 .aspx?1642= "fortnite@hotmail.com"
-inanchor:".tk" + "FANTASY®"
+inanchor:".tk" + "FANTASYÂ®"
 .asp?1369= ""
 994= "fortnite@gmail.com" + ".uy"
 intext:".aw" + "uplay-download"
@@ -13215,7 +13215,7 @@ allintext:minecraft@hotmail.com.aspx?359=
 1023= "steam-games" + ".st"
 minecraft@yahoo.com1883=
 allintitle:".gn" + "fortnite@yahoo.com"
-insubject:FANTASY®.php?1989=
+insubject:FANTASYÂ®.php?1989=
 Grand.asp?1237=
 .php?1086=
 676= "Auto@steampowered.com"
@@ -13240,7 +13240,7 @@ filetype:".rs" + "dominos-pizza"
 minecraft@gmail.com.asp?1781=
 1611= "of"
 Call.php?311=
-.asp?766= "FANTASY®"
+.asp?766= "FANTASYÂ®"
 allinurl:Grand.aspx?1407=
 1970= "Theft" + ".kn"
 .aspx?1305= "Call"
@@ -13250,7 +13250,7 @@ Auto@steampowered.com.aspx?471=
 minecraft@gmail.com.asp?102=
 allinanchor:".vn" + "Call"
 link:".mt" + "fortnite@gmail.com"
-.asp?404= "FANTASY®"
+.asp?404= "FANTASYÂ®"
 XI@steampowered.com.aspx?1569=
 .aspx?614= "fortnite@yahoo.com"
 allinurl:uplay-download1987=
@@ -13268,7 +13268,7 @@ allintext:".gf" + "minecraft@hotmail.com"
 530= "fortnite@yahoo.com" + ".bf"
 inanchor:".hk" + "minecraft@yahoo.com"
 .asp?508= "fortnite-errors"
-filetype:FANTASY®.aspx?1898=
+filetype:FANTASYÂ®.aspx?1898=
 intitle:watch-netflix.aspx?1928=
 inurl:watch-netflix.asp?664=
 1438= "fortnite@gmail.com" + ".uy"
@@ -13343,7 +13343,7 @@ intext:steam-games.aspx?145=
 minecraft@yahoo.com1019=
 347= "minecraft@gmail.com" + ".hu"
 allintitle:XI@steampowered.com.php?184=
-allintext:FANTASY®.aspx?1843=
+allintext:FANTASYÂ®.aspx?1843=
 620= "steam-games"
 1465= "of"
 1956= "FINAL" + ".kp"
@@ -13423,11 +13423,11 @@ allinanchor:".nu" + "Theft"
 allinanchor:".cm" + ""
 watch-netflix.php?1188=
 info:Grand.php?583=
-source:".tg" + "FANTASY®"
-.php?1371= "FANTASY®"
+source:".tg" + "FANTASYÂ®"
+.php?1371= "FANTASYÂ®"
 506= "fortnite@yahoo.com"
 629= "Call" + ".km"
-intext:".nr" + "FANTASY®"
+intext:".nr" + "FANTASYÂ®"
 .asp?1290= "FINAL"
 .aspx?1709= "fortnite@hotmail.com"
 324= "steam-games" + ".no"
@@ -13442,7 +13442,7 @@ cache:".am" + "Duty@steampowered.com"
 .asp?1776= ""
 1134= "watch-netflix" + ".bl"
 914= "steam-games" + ".bn"
-cache:FANTASY®399=
+cache:FANTASYÂ®399=
 cache:.php?265=
 .asp?60= "steam-games"
 source:fortnite@gmail.com.aspx?93=
@@ -13480,7 +13480,7 @@ allinanchor:".ad" + "steam-games"
 inurl:Counter-Strike@steampowered.com.php?1583=
 filetype:".ni" + "Duty@steampowered.com"
 allintext:".com" + "uplay-games"
-.php?925= "FANTASY®"
+.php?925= "FANTASYÂ®"
 919= "netflix-buy"
 XI@steampowered.com1805=
 295= "minecraft@gmail.com" + ".ar"
@@ -13530,7 +13530,7 @@ allintitle:Call1824=
 .asp?739= ""
 1593= "fortnite-errors" + ".af"
 netflix-buy.php?1929=
-intext:".fo" + "FANTASY®"
+intext:".fo" + "FANTASYÂ®"
 allinanchor:".sa" + "FINAL"
 .aspx?1081= ""
 55= "FINAL" + ".no"
@@ -13637,12 +13637,12 @@ minecraft@gmail.com.aspx?1918=
 .aspx?1209= "FINAL"
 1572= "Call" + ".gy"
 1282= "Counter-Strike@steampowered.com"
-.aspx?1113= "FANTASY®"
+.aspx?1113= "FANTASYÂ®"
 1428= "Grand" + ".ni"
 info:fortnite@hotmail.com.asp?170=
 .php?418= "uplay-games"
 .php?1749= "Theft"
-allinurl:".cu" + "FANTASY®"
+allinurl:".cu" + "FANTASYÂ®"
 uplay-download572=
 81= "FINAL" + ".mc"
 uplay-download.asp?101=
@@ -13659,7 +13659,7 @@ inanchor:".rw" + "dominos-pizza"
 XI@steampowered.com.aspx?811=
 source:.php?1226=
 Duty@steampowered.com.php?1530=
-326= "FANTASY®" + ".pe"
+326= "FANTASYÂ®" + ".pe"
 link:.asp?681=
 cache:netflix-buy.php?1588=
 .aspx?804= "uplay-download"
@@ -13691,7 +13691,7 @@ insubject:".bq" + "Duty@steampowered.com"
 source:dominos-pizza.aspx?169=
 880= "of" + ".mil"
 .php?616= "minecraft@hotmail.com"
-FANTASY®.php?270=
+FANTASYÂ®.php?270=
 minecraft@yahoo.com.php?997=
 .php?1467= "netflix-buy"
 inurl:".pk" + "FINAL"
@@ -13760,13 +13760,13 @@ Counter-Strike@steampowered.com.asp?1900=
 Grand.aspx?1448=
 1756= "steam-games"
 fortnite@gmail.com1265=
-.asp?480= "FANTASY®"
+.asp?480= "FANTASYÂ®"
 allinurl:Counter-Strike@steampowered.com.asp?295=
 .asp?210= ""
 fortnite@yahoo.com.aspx?1607=
 filetype:steam-games.php?456=
 netflix-buy.asp?513=
-info:".ua" + "FANTASY®"
+info:".ua" + "FANTASYÂ®"
 1210= "XI@steampowered.com" + ".bo"
 allinanchor:".dz" + "of"
 .php?720= "XI@steampowered.com"
@@ -13781,7 +13781,7 @@ filetype:steam-games669=
 .php?1013= "netflix-buy"
 intitle:".kw" + "fortnite-errors"
 allinanchor:fortnite@gmail.com.php?1207=
-1621= "FANTASY®"
+1621= "FANTASYÂ®"
 link:".tk" + "uplay-download"
 uplay-download1491=
 intitle:Call.asp?406=
@@ -13794,11 +13794,11 @@ fortnite-errors.php?137=
 insubject:".bb" + "of"
 Call1395=
 .asp?972= "fortnite@yahoo.com"
-FANTASY®.asp?1675=
+FANTASYÂ®.asp?1675=
 filetype:minecraft@yahoo.com.asp?1692=
 Call.php?1762=
 234= "Auto@steampowered.com" + ".fk"
-allinanchor:FANTASY®.php?1163=
+allinanchor:FANTASYÂ®.php?1163=
 intitle:uplay-download.php?151=
 .aspx?855= "steam-games"
 info:XI@steampowered.com.aspx?2013=
@@ -13808,7 +13808,7 @@ cache:".sg" + "Duty@steampowered.com"
 source:Call.aspx?777=
 filetype:".ps" + "uplay-download"
 1720=
-FANTASY®.php?1330=
+FANTASYÂ®.php?1330=
 minecraft@hotmail.com.asp?110=
 .php?566= "Theft"
 .php?31= ""
@@ -13827,7 +13827,7 @@ Auto@steampowered.com113=
 138= "Duty@steampowered.com" + ".eh"
 allinanchor:fortnite@hotmail.com.asp?1181=
 1755= "XI@steampowered.com" + ".no"
-FANTASY®.php?1364=
+FANTASYÂ®.php?1364=
 785= "uplay-download" + ".by"
 intext:fortnite@gmail.com.asp?1836=
 .asp?224= "netflix-buy"
@@ -13847,22 +13847,22 @@ filetype:uplay-games.aspx?1157=
 inanchor:Theft.php?139=
 Theft102=
 .asp?751= "Theft"
-allinanchor:FANTASY®.aspx?601=
+allinanchor:FANTASYÂ®.aspx?601=
 allintitle:Auto@steampowered.com.aspx?1353=
 1579= "minecraft@gmail.com"
 .aspx?749= "Auto@steampowered.com"
-1990= "FANTASY®" + ".vi"
+1990= "FANTASYÂ®" + ".vi"
 310= "steam-games" + ".tg"
 link:".sn" + "uplay-games"
 1525= "uplay-games" + ".vg"
 link:Counter-Strike@steampowered.com.php?1260=
-1975= "FANTASY®" + ".ml"
+1975= "FANTASYÂ®" + ".ml"
 .php?950= "uplay-games"
-1171= "FANTASY®"
+1171= "FANTASYÂ®"
 35= "Auto@steampowered.com"
 .aspx?1573= "fortnite-errors"
 1096= "netflix-buy" + ".hr"
-insubject:FANTASY®.aspx?40=
+insubject:FANTASYÂ®.aspx?40=
 fortnite@hotmail.com.asp?58=
 allintitle:".sj" + "watch-netflix"
 Duty@steampowered.com.aspx?1000=
@@ -13883,10 +13883,10 @@ fortnite-errors.aspx?1994=
 allinurl:".is" + "minecraft@gmail.com"
 1637= "minecraft@hotmail.com" + ".tf"
 source:dominos-pizza.asp?1388=
-FANTASY®.aspx?474=
+FANTASYÂ®.aspx?474=
 1182= "watch-netflix" + ".gw"
 1070= "fortnite@hotmail.com"
-967= "FANTASY®" + ".cd"
+967= "FANTASYÂ®" + ".cd"
 1403= "fortnite-errors" + ".bl"
 inanchor:".ky" + "minecraft@hotmail.com"
 685= "fortnite@hotmail.com" + ".mf"
@@ -13919,7 +13919,7 @@ filetype:uplay-games.asp?1190=
 allinurl:".uz" + "watch-netflix"
 257= "steam-games" + ".ca"
 302= "netflix-buy" + ".et"
-intitle:FANTASY®417=
+intitle:FANTASYÂ®417=
 allinurl:".fo" + "minecraft@hotmail.com"
 688= "of" + ".af"
 .asp?1087=
@@ -13949,7 +13949,7 @@ cache:".bt" + "of"
 .asp?809= "Auto@steampowered.com"
 of559=
 source:minecraft@yahoo.com.asp?792=
-1336= "FANTASY®" + ".ml"
+1336= "FANTASYÂ®" + ".ml"
 .php?1519= "Auto@steampowered.com"
 allintext:fortnite@yahoo.com.asp?48=
 .aspx?857= "fortnite-errors"
@@ -13959,7 +13959,7 @@ allintitle:uplay-download.asp?1145=
 .php?715= "fortnite-errors"
 allintext:".es" + "of"
 minecraft@hotmail.com.aspx?877=
-FANTASY®1487=
+FANTASYÂ®1487=
 inurl:fortnite@hotmail.com1011=
 .php?77= "watch-netflix"
 allintitle:".cd" + "of"
@@ -14049,7 +14049,7 @@ intitle:".hn" + "Counter-Strike@steampowered.com"
 .asp?1365= "uplay-download"
 1509= "Grand" + ".bs"
 .aspx?1407= "uplay-games"
-433= "FANTASY®" + ".at"
+433= "FANTASYÂ®" + ".at"
 link:".aw" + "fortnite@yahoo.com"
 intitle:Auto@steampowered.com.asp?1499=
 allintext:Call1406=
@@ -14065,7 +14065,7 @@ allintext:.php?1967=
 .aspx?136= "Theft"
 1741= "netflix-buy"
 75= "netflix-buy" + ".cd"
-.asp?1617= "FANTASY®"
+.asp?1617= "FANTASYÂ®"
 cache:".sh" + "dominos-pizza"
 276= "" + ".ba"
 .php?946=
@@ -14078,7 +14078,7 @@ allintext:Duty@steampowered.com.asp?1771=
 allinanchor:".kg" + "XI@steampowered.com"
 Call.aspx?1092=
 .aspx?1591= "dominos-pizza"
-755= "FANTASY®" + ".br"
+755= "FANTASYÂ®" + ".br"
 inurl:".sk" + "fortnite-errors"
 496= "Theft" + ".net"
 .aspx?1722= "FINAL"
@@ -14099,7 +14099,7 @@ intitle:dominos-pizza.php?769=
 allintitle:dominos-pizza.php?1603=
 .php?1835= "watch-netflix"
 1377=
-source:".kp" + "FANTASY®"
+source:".kp" + "FANTASYÂ®"
 intitle:".pl" + "minecraft@yahoo.com"
 inanchor:".mt" + "Auto@steampowered.com"
 753= "fortnite-errors" + ".dz"
@@ -14142,7 +14142,7 @@ Grand1928=
 .asp?764= "Grand"
 1699= "fortnite@hotmail.com" + ".cw"
 .php?348= "steam-games"
-FANTASY®.aspx?1383=
+FANTASYÂ®.aspx?1383=
 inanchor:".cy" + "Auto@steampowered.com"
 minecraft@gmail.com.asp?1552=
 intitle:dominos-pizza1681=
@@ -14225,7 +14225,7 @@ insubject:uplay-games930=
 inanchor:".bi" + "steam-games"
 1997= "fortnite@yahoo.com"
 inanchor:".gn" + "uplay-games"
-allintitle:FANTASY®.php?1586=
+allintitle:FANTASYÂ®.php?1586=
 link:Duty@steampowered.com.asp?353=
 .php?1097= "uplay-games"
 1682= "FINAL" + ".fo"
@@ -14254,7 +14254,7 @@ Grand.php?1494=
 allintext:".mn" + "uplay-games"
 .aspx?1780= ""
 1844= "Counter-Strike@steampowered.com" + ".ki"
-allinurl:FANTASY®.aspx?1037=
+allinurl:FANTASYÂ®.aspx?1037=
 inanchor:".al" + ""
 source:".cz" + "Counter-Strike@steampowered.com"
 intitle:fortnite-errors609=
@@ -14277,7 +14277,7 @@ FINAL.php?813=
 allintitle:".nl" + "netflix-buy"
 .aspx?328=
 .php?872= "uplay-download"
-intitle:".vu" + "FANTASY®"
+intitle:".vu" + "FANTASYÂ®"
 inanchor:".gov" + "minecraft@hotmail.com"
 insubject:steam-games.asp?1117=
 Grand.asp?136=
@@ -14315,7 +14315,7 @@ steam-games.aspx?666=
 .php?975=
 link:".ws" + "uplay-download"
 intitle:".tg" + "fortnite@gmail.com"
-1913= "FANTASY®" + ".gi"
+1913= "FANTASYÂ®" + ".gi"
 XI@steampowered.com1184=
 link:steam-games.php?908=
 info:uplay-games544=
@@ -14324,7 +14324,7 @@ allintitle:".ke" + ""
 1640= "dominos-pizza" + ".gu"
 1718= "fortnite@gmail.com" + ".il"
 steam-games1122=
-info:".to" + "FANTASY®"
+info:".to" + "FANTASYÂ®"
 1430= "FINAL" + ".tr"
 cache:Auto@steampowered.com.asp?1345=
 .aspx?536= "XI@steampowered.com"
@@ -14350,7 +14350,7 @@ intitle:uplay-download.php?1767=
 .aspx?2= "minecraft@yahoo.com"
 minecraft@yahoo.com.aspx?844=
 of1761=
-info:".it" + "FANTASY®"
+info:".it" + "FANTASYÂ®"
 173= "Grand" + ".hr"
 730= "fortnite@gmail.com" + ".bd"
 allintitle:".co.uk" + "dominos-pizza"
@@ -14369,7 +14369,7 @@ link:uplay-games1717=
 inanchor:fortnite@gmail.com.asp?1868=
 intext:1662=
 .php?4= "Theft"
-90= "FANTASY®"
+90= "FANTASYÂ®"
 steam-games.aspx?1239=
 Call.asp?1532=
 allinurl:".uy" + "dominos-pizza"
@@ -14448,7 +14448,7 @@ fortnite@gmail.com.php?1204=
 netflix-buy.asp?1296=
 info:steam-games.asp?789=
 netflix-buy.aspx?286=
-filetype:".th" + "FANTASY®"
+filetype:".th" + "FANTASYÂ®"
 .asp?1247= "fortnite@yahoo.com"
 allinanchor:".pf" + "minecraft@hotmail.com"
 source:".ng" + "uplay-games"
@@ -14482,7 +14482,7 @@ allinanchor:".gl" + "Theft"
 intitle:".mk" + "fortnite@hotmail.com"
 .php?467=
 .aspx?309= "XI@steampowered.com"
-1862= "FANTASY®"
+1862= "FANTASYÂ®"
 intext:".ht" + "of"
 intitle:minecraft@gmail.com.aspx?1290=
 .php?1595= "Counter-Strike@steampowered.com"
@@ -14493,7 +14493,7 @@ Grand1845=
 507= "XI@steampowered.com" + ".al"
 Theft1555=
 netflix-buy.aspx?1556=
-source:FANTASY®.aspx?1740=
+source:FANTASYÂ®.aspx?1740=
 inanchor:uplay-games.asp?799=
 allintext:fortnite-errors.asp?1920=
 472= "fortnite@hotmail.com" + ".gi"
@@ -14520,7 +14520,7 @@ allinanchor:netflix-buy.php?1286=
 455= "" + ".hr"
 .asp?1762= "uplay-games"
 .aspx?696= "fortnite@gmail.com"
-FANTASY®.asp?943=
+FANTASYÂ®.asp?943=
 146= "watch-netflix" + ".fo"
 .php?1232= "Theft"
 allintext:".no" + "of"
@@ -14540,7 +14540,7 @@ allintitle:".kz" + "minecraft@hotmail.com"
 inurl:uplay-games1717=
 allintitle:".hu" + "netflix-buy"
 1742= "uplay-games" + ".bw"
-link:".tz" + "FANTASY®"
+link:".tz" + "FANTASYÂ®"
 .aspx?852= "fortnite@hotmail.com"
 .asp?74= "Duty@steampowered.com"
 477= "" + ".li"
@@ -14573,7 +14573,7 @@ inurl:".td" + "fortnite@hotmail.com"
 .aspx?1140= "dominos-pizza"
 filetype:".in" + "fortnite-errors"
 FINAL636=
-1683= "FANTASY®" + ".io"
+1683= "FANTASYÂ®" + ".io"
 1352= "Theft" + ".aw"
 minecraft@gmail.com.aspx?1333=
 allintext:".gs" + "fortnite@yahoo.com"
@@ -14650,7 +14650,7 @@ source:1303=
 of.asp?815=
 source:".tp" + "dominos-pizza"
 allintext:FINAL1105=
-allintext:FANTASY®.php?993=
+allintext:FANTASYÂ®.php?993=
 .php?1194= "netflix-buy"
 link:".kz" + "uplay-games"
 .aspx?850= "Call"
@@ -14674,7 +14674,7 @@ Grand786=
 cache:steam-games.php?218=
 inanchor:fortnite-errors.aspx?1975=
 .asp?570= "uplay-download"
-cache:FANTASY®.aspx?1685=
+cache:FANTASYÂ®.aspx?1685=
 info:".ma" + "minecraft@yahoo.com"
 inanchor:of.aspx?1748=
 fortnite-errors.aspx?690=
@@ -14689,7 +14689,7 @@ allintitle:minecraft@yahoo.com.aspx?989=
 insubject:uplay-download.php?1940=
 steam-games.aspx?1907=
 source:".ke" + "dominos-pizza"
-.aspx?1956= "FANTASY®"
+.aspx?1956= "FANTASYÂ®"
 .asp?271= "Call"
 intext:".pf" + "minecraft@hotmail.com"
 steam-games1024=
@@ -14745,7 +14745,7 @@ allintext:minecraft@yahoo.com.php?1099=
 1569= "fortnite@gmail.com" + ".mz"
 cache:".mf" + "Theft"
 intext:.asp?673=
-FANTASY®.aspx?1185=
+FANTASYÂ®.aspx?1185=
 1856= "Auto@steampowered.com" + ".md"
 allinurl:".nf" + "fortnite@yahoo.com"
 allintext:XI@steampowered.com1043=
@@ -14767,10 +14767,10 @@ allintitle:".wf" + "Theft"
 info:fortnite@yahoo.com1542=
 923= "Grand" + ".rw"
 info:steam-games.asp?1381=
-668= "FANTASY®" + ".cy"
+668= "FANTASYÂ®" + ".cy"
 Theft1386=
 minecraft@gmail.com497=
-1810= "FANTASY®" + ".rs"
+1810= "FANTASYÂ®" + ".rs"
 1084= "fortnite@gmail.com" + ".fi"
 Theft446=
 source:fortnite@gmail.com.php?1174=
@@ -14819,7 +14819,7 @@ link:Call.php?1888=
 minecraft@gmail.com.php?254=
 1091= "" + ".ai"
 462= "of" + ".cc"
-link:".ba" + "FANTASY®"
+link:".ba" + "FANTASYÂ®"
 fortnite@gmail.com.php?811=
 666= "" + ".lu"
 watch-netflix598=
@@ -14853,7 +14853,7 @@ allinanchor:Grand.php?789=
 .asp?711= "Duty@steampowered.com"
 allinurl:".dj" + "steam-games"
 330= "" + ".ec"
-FANTASY®.asp?278=
+FANTASYÂ®.asp?278=
 intitle:netflix-buy.aspx?1946=
 filetype:".be" + "Counter-Strike@steampowered.com"
 293= "uplay-download" + ".iq"
@@ -14912,7 +14912,7 @@ allintitle:".vg" + "uplay-download"
 steam-games.asp?838=
 insubject:".fr" + "Counter-Strike@steampowered.com"
 intitle:of1742=
-605= "FANTASY®" + ".mk"
+605= "FANTASYÂ®" + ".mk"
 .asp?1417= ""
 745= "of" + ".ph"
 uplay-games.aspx?1035=
@@ -14931,7 +14931,7 @@ allintitle:minecraft@hotmail.com.php?280=
 .asp?1291= "fortnite-errors"
 allintext:uplay-games.aspx?187=
 129= "XI@steampowered.com"
-.asp?815= "FANTASY®"
+.asp?815= "FANTASYÂ®"
 allinurl:steam-games.asp?449=
 .php?884= "fortnite@hotmail.com"
 inurl:.aspx?141=
@@ -14957,7 +14957,7 @@ allinurl:".nc" + "fortnite@hotmail.com"
 .aspx?1559=
 intitle:".aw" + "Theft"
 cache:".lr" + "minecraft@gmail.com"
-FANTASY®.asp?1857=
+FANTASYÂ®.asp?1857=
 filetype:.php?909=
 .asp?544= "uplay-download"
 .php?5= "uplay-download"

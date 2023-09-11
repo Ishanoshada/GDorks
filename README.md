@@ -7,17 +7,17 @@ Welcome to the fascinating world of Google dorks, where we unveil the secret pat
 ## File Structure
 
 ```bash
-  - Dorks(1M)
+  - Dorks(1M)/
     - dorks.txt 
     - dorks2.txt 
     - dorks3.txt 
     - ...
-  - More-Dorks
+  - More-Dorks/
     - 7k.txt 
     - Sqli.txt 
     - Sqli2.txt
     - ...
-  - wp-dorks
+  - wp-dorks/
     - 17k.txt 
     - wp(30K).txt
     - ...

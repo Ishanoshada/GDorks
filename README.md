@@ -4,6 +4,25 @@
 
 Welcome to the fascinating world of Google dorks, where we unveil the secret pathways of the internet! 🚀
 
+## File Structure
+
+```bash
+  - Dorks(1M)
+    - dorks.txt 
+    - dorks2.txt 
+    - dorks3.txt 
+    - ...
+  - More-Dorks
+    - 7k.txt 
+    - Sqli.txt 
+    - Sqli2.txt
+    - ...
+  - wp-dorks
+    - 17k.txt 
+    - wp(30K).txt
+    - ...
+```
+
 ## 💡 What are Google Dorks?
 
 Google dorks are specially crafted search queries that use a combination of advanced search operators to fine-tune your Google searches. By employing these dorks, you can focus on specific search results, unveiling hidden gems that ordinary searches might miss.
@@ -38,24 +57,7 @@ git clone https://github.com/ishanoshada/GDorks.git
 
 3. **Using Google Dorks**: To use these dorks, simply copy and paste a dork of your choice into the Google search bar or use them with specialized search tools designed for Google hacking. Remember to exercise caution and ensure you are using these dorks responsibly and legally.
 
-## File Structure
 
-```bash
-  - Dorks(1M)
-    - dorks.txt 
-    - dorks2.txt 
-    - dorks3.txt 
-    - ...
-  - More-Dorks
-    - 7k.txt 
-    - Sqli.txt 
-    - Sqli2.txt
-    - ...
-  - wp-dorks
-    - 17k.txt 
-    - wp(30K).txt
-    - ...
-```
 
 ## 🔍 Category: Webcams - Peeking into the World
 

@@ -268,4 +268,6 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
 Help build a comprehensive and responsible Google dork list! Contribute ethically and let's explore the internet responsibly together.
 
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/GDorks/count.svg)
+
 > Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking! 🌟

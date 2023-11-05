@@ -1,0 +1,971 @@
+------SQL Dork-------
+
+inurl:index.php?id=
+inurl:trainers.php?id=
+inurl:buy.php?category=
+inurl:article.php?ID=
+inurllay_old.php?id=
+inurl:declaration_more.php?decl_id=
+inurlageid=
+inurl:games.php?id=
+inurlage.php?file=
+inurl:newsDetail.php?id=
+inurl:gallery.php?id=d=
+inurl:event.php?id=
+inurlroduct-item.php?id=
+inurl:sql.php?id=
+inurl:news_view.php?id=
+inurl:select_biblio.php?id=
+inurl:humor.php?id=
+inurl:aboutbook.php?id=
+inurl:fiche_spectacle.php?id=
+inurl:article.php?id=
+inurl:show.php?id=
+inurl:staff_id=
+inurl:newsitem.php?num=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:historialeer.php?num=
+inurl:reagir.php?num=
+inurltray-Questions-View.php?num=
+inurl:forum_bds.php?num=
+inurl:game.php?id=
+inurl:view_product.php?id=
+inurl:newsone.php?id=
+inurl:sw_comment.php?id=
+inurl:news.php?id=
+inurl:avd_start.php?av
+inurl:communique_detail.php?id=
+inurl:sem.php3?id=
+inurl:kategorie.php4?id=
+inurl:news.php?id=
+inurl:index.php?id=
+inurl:faq2.php?id=
+inurl:show_an.php?id=
+inurlreview.php?id=
+inurl:loadpsb.php?id=
+inurlpinions.php?id=
+inurl:spr.php?id=
+inurlages.php?id=
+inurl:announce.php?id=
+inurl:clanek.php4?id=
+inurlarticipant.php?id=
+inurl:download.php?id=
+inurl:main.php?id=
+inurl:review.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurlrod_detail.php?id=
+inurl:viewphoto.php?id=
+inurl:article.php?id=
+inurlerson.php?id=
+inurlroductinfo.php?id=
+inurl:showimg.php?id=
+inurl:view.php?id=
+inurl:website.php?id=
+inurl:hosting_info.php?id=
+inurl:gallery.php?id=
+inurl:rub.php?idr=
+inurl:view_faq.php?id=
+inurl:artikelinfo.php?id=
+inurl:detail.php?ID=
+inurl:index.php?=
+inurlrofile_view.php?id=
+inurl:category.php?id=
+inurlublications.php?id=
+inurl:fellows.php?id=
+inurl:downloads_info.php?id=
+inurlrod_info.php?id=
+inurl:shop.php?do=part&id=
+inurl:productinfo.php?id=
+inurl:collectionitem.php?id=
+inurl:band_info.php?id=
+inurlroduct.php?id=
+inurl:releases.php?id=
+inurl:ray.php?id=
+inurlroduit.php?id=
+inurlop.php?id=
+inurl:shopping.php?id=
+inurlroductdetail.php?id=
+inurlost.php?id=
+inurl:viewshowdetail.php?id=
+inurl:clubpage.php?id=
+inurl:memberInfo.php?id=
+inurl:section.php?id=
+inurl:theme.php?id=
+inurlage.php?id=
+inurl:shredder-categories.php?id=
+inurl:tradeCategory.php?id=
+inurlroduct_ranges_view.php?ID=
+inurl:shop_category.php?id=
+inurl:tran******.php?id=
+inurl:channel_id=
+inurl:item_id=
+inurl:newsid=
+inurl:trainers.php?id=
+inurl:news-full.php?id=
+inurl:news_display.php?getid=
+inurl:index2.php?option=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:newsone.php?id=
+inurl:event.php?id=
+inurlroduct-item.php?id=
+inurl:sql.php?id=
+inurl:aboutbook.php?id=
+inurl:review.php?id=
+inurl:loadpsb.php?id=
+inurl:ages.php?id=
+inurl:material.php?id=
+inurl:clanek.php4?id=
+inurl:announce.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurl:viewapp.php?id=
+inurl:viewphoto.php?id=
+inurl:rub.php?idr=
+inurl:galeri_info.php?l=
+inurl:review.php?id=
+inurl:iniziativa.php?in=
+inurl:curriculum.php?id=
+inurl:labels.php?id=
+inurl:story.php?id=
+inurl:look.php?ID=
+inurl:newsone.php?id=
+inurl:aboutbook.php?id=
+inurl:material.php?id=
+inurlpinions.php?id=
+inurl:announce.php?id=
+inurl:rub.php?idr=
+inurl:galeri_info.php?l=
+inurl:tekst.php?idt=
+inurl:newscat.php?id=
+inurl:newsticker_info.php?idn=
+inurl:rubrika.php?idr=
+inurl:rubp.php?idr=
+inurlffer.php?idf=
+inurl:art.php?idm=
+inurl:title.php?id=
+inur l: info.php?id=
+inurl : pro.php?id=
+inurl:index.php?id=
+inurl:trainers.php?id=
+inurl:buy.php?category=
+inurl:article.php?ID=
+inurllay_old.php?id=
+inurl:declaration_more.php?decl_id=
+inurlageid=
+inurl:games.php?id=
+inurlage.php?file=
+inurl:newsDetail.php?id=
+inurl:gallery.php?id=
+inurl:article.php?id=
+inurl:show.php?id=
+inurl:staff_id=
+inurl:newsitem.php?num=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:historialeer.php?num=
+inurl:reagir.php?num=
+inurltray-Questions-View.php?num=
+inurl:forum_bds.php?num=
+inurl:game.php?id=
+inurl:view_product.php?id=
+inurl:newsone.php?id=
+inurl:sw_comment.php?id=
+inurl:news.php?id=
+inurl:avd_start.php?avd=
+inurl:event.php?id=
+inurlroduct-item.php?id=
+inurl:sql.php?id=
+inurl:news_view.php?id=
+inurl:select_biblio.php?id=
+inurl:humor.php?id=
+inurl:aboutbook.php?id=
+inurl:fiche_spectacle.php?id=
+inurl:communique_detail.php?id=
+inurl:sem.php3?id=
+inurl:kategorie.php4?id=
+inurl:news.php?id=
+inurl:index.php?id=
+inurl:faq2.php?id=
+inurl:show_an.php?id=
+inurlreview.php?id=
+inurl:loadpsb.php?id=
+inurlpinions.php?id=
+inurl:spr.php?id=
+inurlages.php?id=
+inurl:announce.php?id=
+inurl:clanek.php4?id=
+inurlarticipant.php?id=
+inurl:download.php?id=
+inurl:main.php?id=
+inurl:review.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurlrod_detail.php?id=
+inurl:viewphoto.php?id=
+inurl:article.php?id=
+inurlerson.php?id=
+inurlroductinfo.php?id=
+inurl:showimg.php?id=
+inurl:view.php?id=
+inurl:website.php?id=
+inurl:hosting_info.php?id=
+inurl:gallery.php?id=
+inurl:rub.php?idr=
+inurl:view_faq.php?id=
+inurl:artikelinfo.php?id=
+inurl:detail.php?ID=
+inurl:index.php?=
+inurlrofile_view.php?id=
+inurl:category.php?id=
+inurl:ublications.php?id=
+inurl:fellows.php?id=
+inurl:downloads_info.php?id=
+inurlrod_info.php?id=
+inurl:shop.php?do=part&id=
+inurlroductinfo.php?id=
+inurl:collectionitem.php?id=
+inurl:band_info.php?id=
+inurlroduct.php?id=
+inurl:releases.php?id=
+inurl:ray.php?id=
+inurlroduit.php?id=
+inurlop.php?id=
+inurl:shopping.php?id=
+inurlroductdetail.php?id=
+inurlost.php?id=
+inurl:viewshowdetail.php?id=
+inurl:clubpage.php?id=
+inurl:memberInfo.php?id=
+inurl:section.php?id=
+inurl:theme.php?id=
+inurlage.php?id=
+inurl:shredder-categories.php?id=
+inurl:tradeCategory.php?id=
+inurlroduct_ranges_view.php?ID=
+inurl:shop_category.php?id=
+inurl:tran******.php?id=
+inurl:channel_id=
+inurl:item_id=
+inurl:newsid=
+inurl:trainers.php?id=
+inurl:news-full.php?id=
+inurl:news_display.php?getid=
+inurl:index2.php?option=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:newsone.php?id=
+inurl:event.php?id=
+inul:product-item.php?id=
+inurl:sql.php?id=
+inurl:aboutbook.php?id=
+inurl:review.php?id=
+inurl:loadpsb.php?id=
+inurl:ages.php?id=
+inurl:material.php?id=
+inurl:clanek.php4?id=
+inurl:announce.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurl:viewapp.php?id=
+inurl:viewphoto.php?id=
+inurl:rub.php?idr=
+inurl:galeri_info.php?l=
+inurl:review.php?id=
+inurl:iniziativa.php?in=
+inurl:curriculum.php?id=
+inurl:labels.php?id=
+inurl:story.php?id=
+inurl:look.php?ID=
+inurl:newsone.php?id=
+inurl:aboutbook.php?id=
+inurl:material.php?id=
+inurlpinions.php?id=
+inurl:announce.php?id=
+inurl:rub.php?idr=
+inurl:galeri_info.php?l=
+inurl:tekst.php?idt=
+inurl:newscat.php?id=
+inurl:newsticker_info.php?idn=
+inurl:rubrika.php?idr=
+inurl:rubp.php?idr=
+inurlffer.php?idf=
+inurl:art.php?idm=
+inurl:title.php?id=
+inurl:shop+php?id+site:fr
+"inurl:admin.asp"
+"inurl:login/admin.asp"
+"inurl:admin/login.asp"
+"inurl:adminlogin.asp"
+"inurl:adminhome.asp"
+"inurl:admin_login.asp"
+"inurl:administratorlogin.asp"
+"inurl:login/administrator.asp"
+"inurl:administrator_login.asp"
+inurl:"id=" & intext:"Warning: mysql_fetch_assoc()
+inurl:"id=" & intext:"Warning: mysql_fetch_array()
+inurl:"id=" & intext:"Warning: mysql_num_rows()
+inurl:"id=" & intext:"Warning: session_start()
+inurl:"id=" & intext:"Warning: getimagesize()
+inurl:"id=" & intext:"Warning: is_writable()
+inurl:"id=" & intext:"Warning: getimagesize()
+inurl:"id=" & intext:"Warning: Unknown()
+inurl:"id=" & intext:"Warning: session_start()
+inurl:"id=" & intext:"Warning: mysql_result()
+inurl:"id=" & intext:"Warning: pg_exec()
+inurl:"id=" & intext:"Warning: mysql_result()
+inurl:"id=" & intext:"Warning: mysql_num_rows()
+inurl:"id=" & intext:"Warning: mysql_query()
+inurl:"id=" & intext:"Warning: array_merge()
+inurl:"id=" & intext:"Warning: preg_match()
+inurl:"id=" & intext:"Warning: ilesize()
+inurl:"id=" & intext:"Warning: filesize()
+inurl:"id=" & intext:"Warning: require()
+inurl:index.php?id=
+inurl:trainers.php?id=
+inurl:login.asp
+index of:/admin/login.asp
+inurl:buy.php?category=
+inurl:article.php?ID=
+inurl:play_old.php?id=
+inurl:declaration_more.php?decl_id=
+inurl:pageid=
+inurl:games.php?id=
+inurl:page.php?file=
+inurl:newsDetail.php?id=
+inurl:gallery.php?id=
+inurl:article.php?id=
+inurl:show.php?id=
+inurl:staff_id=
+inurl:newsitem.php?num=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:historialeer.php?num=
+inurl:reagir.php?num=
+inurl:Stray-Questions-View.php?num=
+inurl:forum_bds.php?num=
+inurl:game.php?id=
+inurl:view_product.php?id=
+inurl:newsone.php?id=
+inurl:sw_comment.php?id=
+inurl:news.php?id=
+inurl:avd_start.php?avd=
+inurl:event.php?id=
+inurl:product-item.php?id=
+inurl:sql.php?id=
+inurl:news_view.php?id=
+inurl:select_biblio.php?id=
+inurl:humor.php?id=
+inurl:aboutbook.php?id=
+inurl:ogl_inet.php?ogl_id=
+inurl:fiche_spectacle.php?id=
+inurl:communique_detail.php?id=
+inurl:sem.php3?id=
+inurl:kategorie.php4?id=
+inurl:news.php?id=
+inurl:index.php?id=
+inurl:faq2.php?id=
+inurl:show_an.php?id=
+inurl:preview.php?id=
+inurl:loadpsb.php?id=
+inurl:opinions.php?id=
+inurl:spr.php?id=
+inurl:pages.php?id=
+inurl:announce.php?id=
+inurl:clanek.php4?id=
+inurl:participant.php?id=
+inurl:download.php?id=
+inurl:main.php?id=
+inurl:review.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurl:prod_detail.php?id=
+inurl:viewphoto.php?id=
+inurl:article.php?id=
+inurl:person.php?id=
+inurl:productinfo.php?id=
+inurl:showimg.php?id=
+inurl:view.php?id=
+inurl:website.php?id=
+inurl:hosting_info.php?id=
+inurl:gallery.php?id=
+inurl:rub.php?idr=
+inurl:view_faq.php?id=
+inurl:artikelinfo.php?id=
+inurl:detail.php?ID=
+inurl:index.php?=
+inurl:profile_view.php?id=
+inurl:category.php?id=
+inurl:publications.php?id=
+inurl:fellows.php?id=
+inurl:downloads_info.php?id=
+inurl:prod_info.php?id=
+inurl:shop.php?do=part&id=
+inurl:productinfo.php?id=
+inurl:collectionitem.php?id=
+inurl:band_info.php?id=
+inurl:product.php?id=
+inurl:releases.php?id=
+inurl:ray.php?id=
+inurl:produit.php?id=
+inurl:produit.php?id=+site:fr
+inurl:pop.php?id=
+inurl:shopping.php?id=
+inurl:productdetail.php?id=
+inurl:post.php?id=
+inurl:viewshowdetail.php?id=
+inurl:clubpage.php?id=
+inurl:memberInfo.php?id=
+inurl:section.php?id=
+inurl:theme.php?id=
+inurl:page.php?id=
+inurl:shredder-categories.php?id=
+inurl:tradeCategory.php?id=
+inurl:product_ranges_view.php?ID=
+inurl:shop_category.php?id=
+inurl:transcript.php?id=
+inurl:channel_id=
+inurl:item_id=
+inurl:newsid=
+inurl:trainers.php?id=
+inurl:news-full.php?id=
+inurl:news_display.php?getid=
+inurl:index2.php?option=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:newsone.php?id=
+inurl:event.php?id=
+inurl:product-item.php?id=
+inurl:sql.php?id=
+inurl:aboutbook.php?id=
+inurl:preview.php?id=
+inurl:loadpsb.php?id=
+inurl:pages.php?id=
+inurl:material.php?id=
+inurl:clanek.php4?id=
+inurl:announce.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurl:viewapp.php?id=
+inurl:viewphoto.php?id=
+inurl:rub.php?idr=
+inurl:galeri_info.php?l=
+inurl:review.php?id=
+inurl:iniziativa.php?in=
+inurl:curriculum.php?id=
+inurl:labels.php?id=
+inurl:story.php?id=
+inurl:look.php?ID=
+inurl:newsone.php?id=
+inurl:aboutbook.php?id=
+inurl:material.php?id=
+inurl:opinions.php?id=
+inurl:announce.php?id=
+inurl:rub.php?idr=
+inurl:galeri_info.php?l=
+inurl:tekst.php?idt=
+inurl:newscat.php?id=
+inurl:newsticker_info.php?idn=
+inurl:rubrika.php?idr=
+inurl:rubp.php?idr=
+inurl:offer.php?idf=
+inurl:art.php?idm=
+inurl:title.php?id=
+inurl:index.php?id=
+inurl:trainers.php?id=
+inurl:buy.php?category=
+inurl:article.php?ID=
+inurllay_old.php?id=
+inurl:declaration_more.php?decl_id=
+inurlageid=
+inurl:games.php?id=
+inurlage.php?file=
+inurl:newsDetail.php?id=
+inurl:gallery.php?id=
+inurl:article.php?id=
+inurl:show.php?id=
+inurl:staff_id=
+inurl:newsitem.php?num=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:historialeer.php?num=
+inurl:reagir.php?num=
+inurltray-Questions-View.php?num=
+inurl:forum_bds.php?num=
+inurl:game.php?id=
+inurl:view_product.php?id=
+inurl:newsone.php?id=
+inurl:sw_comment.php?id=
+inurl:news.php?id=
+inurl:avd_start.php?avd=
+inurl:event.php?id=
+inurlroduct-item.php?id=
+inurl:sql.php?id=
+inurl:news_view.php?id=
+inurl:select_biblio.php?id=
+inurl:humor.php?id=
+inurl:aboutbook.php?id=
+inurl:fiche_spectacle.php?id=
+inurl:communique_detail.php?id=
+inurl:sem.php3?id=
+inurl:kategorie.php4?id=
+inurl:news.php?id=
+inurl:index.php?id=
+inurl:faq2.php?id=
+inurl:show_an.php?id=
+inurl:review.php?id=
+inurl:loadpsb.php?id=
+inurlpinions.php?id=
+inurl:spr.php?id=
+inurlages.php?id=
+inurl:announce.php?id=
+inurl:clanek.php4?id=
+inurlarticipant.php?id=
+inurl:download.php?id=
+inurl:main.php?id=
+inurl:review.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurlrod_detail.php?id=
+inurl:viewphoto.php?id=
+inurl:article.php?id=
+inurlerson.php?id=
+inurlroductinfo.php?id=
+inurl:showimg.php?id=
+inurl:view.php?id=
+inurl:website.php?id=
+inurl:hosting_info.php?id=
+inurl:gallery.php?id=
+inurl:rub.php?idr=
+inurl:view_faq.php?id=
+inurl:artikelinfo.php?id=
+inurl:detail.php?ID=
+inurl:index.php?=
+inurlrofile_view.php?id=
+inurl:category.php?id=
+inurlublications.php?id=
+inurl:fellows.php?id=
+inurl:downloads_info.php?id=
+inurlrod_info.php?id=
+inurl:shop.php?do=part&id=
+inurlroductinfo.php?id=
+inurl:collectionitem.php?id=
+inurl:band_info.php?id=
+inurlroduct.php?id=
+inurl:releases.php?id=
+inurl:ray.php?id=
+inurlroduit.php?id=
+inurlop.php?id=
+inurl:shopping.php?id=
+inurlroductdetail.php?id=
+inurlost.php?id=
+inurl:viewshowdetail.php?id=
+inurl:clubpage.php?id=
+inurl:memberInfo.php?id=
+inurl:section.php?id=
+inurl:theme.php?id=
+inurlage.php?id=
+inurl:shredder-categories.php?id=
+inurl:tradeCategory.php?id=
+inurlroduct_ranges_view.php?ID=
+inurl:shop_category.php?id=
+inurl:transcript.php?id=
+inurl:channel_id=
+inurl:item_id=
+inurl:newsid=
+inurl:trainers.php?id=
+inurl:news-full.php?id=
+inurl:news_display.php?getid=
+inurl:index2.php?option=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:newsone.php?id=
+inurl:event.php?id=
+inurlroduct-item.php?id=
+inurl:sql.php?id=
+inurl:aboutbook.php?id=
+inurl:review.php?id=
+inurl:loadpsb.php?id=
+inurl:ages.php?id=
+inurl:material.php?id=
+inurl:clanek.php4?id=
+inurl:announce.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurl:viewapp.php?id=
+inurl:viewphoto.php?id=
+inurl:rub.php?idr=
+inurl:galeri_info.php?l=
+inurl:review.php?id=
+inurl:iniziativa.php?in=
+inurl:curriculum.php?id=
+inurl:labels.php?id=
+inurl:story.php?id=
+inurl:look.php?ID=
+inurl:newsone.php?id=
+inurl:aboutbook.php?id=
+inurl:material.php?id=
+inurlpinions.php?id=
+inurl:announce.php?id=
+inurl:rub.php?idr=
+inurl:galeri_info.php?l=
+inurl:tekst.php?idt=
+inurl:newscat.php?id=
+inurl:newsticker_info.php?idn=
+inurl:rubrika.php?idr=
+inurl:rubp.php?idr=
+inurlffer.php?idf=
+inurl:art.php?idm=
+inurl:title.php?id=
+
+
+------XSS Dork List------
+
+inurl:".php?cmd="
+inurl:".php?z="
+inurl:".php?q="
+inurl:".php?search="
+inurl:".php?query="
+inurl:".php?searchstring="
+inurl:".php?keyword="
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback="
+inurl:".php?mail="
+inurl:".php?cat="
+inurl:".php?vote="
+inurl:search.php?q=
+inurl:com_feedpostold/feedpost.php?url=
+inurl:scrapbook.php?id=
+inurl:headersearch.php?sid=
+inurl:/poll/default.asp?catid=
+inurl:/search_results.php?search= 
+
+
+------LFI Dork List------
+
+inurl:/modules/mod_mainmenu.php?mosConfig_absolute_path=
+
+
+inurl:/include/new-visitor.inc.php?lvc_include_dir=
+
+
+inurl:/_functions.php?prefix=
+
+
+inurl:/cpcommerce/_functions.php?prefix=
+
+
+inurl:/modules/coppermine/themes/default/theme.php?THEME_DIR=
+
+
+inurl:/modules/agendax/addevent.inc.php?agendax_path=
+
+
+inurl:/ashnews.php?pathtoashnews=
+
+
+inurl:/eblog/blog.inc.php?xoopsConfig[xoops_url]=
+
+
+inurl:/pm/lib.inc.php?pm_path=
+
+
+inurl:/b2-tools/gm-2-b2.php?b2inc=
+
+
+inurl:/modules/mod_mainmenu.php?mosConfig_absolute_path=
+
+
+inurl:/modules/agendax/addevent.inc.php?agendax_path=
+
+
+inurl:/includes/include_once.php?include_file=
+
+
+inurl:/e107/e107_handlers/secure_img_render.php?p=
+
+
+inurl:/shoutbox/expanded.php?conf=
+
+
+inurl:/main.php?x=
+
+
+inurl:/myPHPCalendar/admin.php?cal_dir=
+
+
+inurl:/index.php/main.php?x=
+
+
+inurl:/index.php?include=
+
+
+inurl:/index.php?x=
+
+
+inurl:/index.php?open=
+
+
+inurl:/index.php?visualizar=
+
+
+inurl:/template.php?pagina=
+
+
+inurl:/index.php?pagina=
+
+
+inurl:/index.php?inc=
+
+
+inurl:/includes/include_onde.php?include_file=
+
+
+inurl:/index.php?page=
+
+
+inurl:/index.php?pg=
+
+
+inurl:/index.php?show=
+
+
+inurl:/index.php?cat=
+
+
+inurl:/index.php?file=
+
+
+inurl:/db.php?path_local=
+
+
+inurl:/index.php?site=
+
+
+inurl:/htmltonuke.php?filnavn=
+
+
+inurl:/livehelp/inc/pipe.php?HCL_path=
+
+
+inurl:/hcl/inc/pipe.php?HCL_path=
+
+
+inurl:/inc/pipe.php?HCL_path=
+
+
+inurl:/support/faq/inc/pipe.php?HCL_path=
+
+
+inurl:/help/faq/inc/pipe.php?HCL_path=
+
+
+inurl:/helpcenter/inc/pipe.php?HCL_path=
+
+
+inurl:/live-support/inc/pipe.php?HCL_path=
+
+
+inurl:/gnu3/index.php?doc=
+
+
+inurl:/gnu/index.php?doc=
+
+
+inurl:/phpgwapi/setup/tables_update.inc.php?appdir=
+
+
+inurl:/forum/install.php?phpbb_root_dir=
+
+
+inurl:/includes/calendar.php?phpc_root_path=
+
+
+inurl:/includes/setup.php?phpc_root_path=
+
+
+inurl:/inc/authform.inc.php?path_pre=
+
+
+inurl:/include/authform.inc.php?path_pre=
+
+
+inurl:index.php?nic=
+
+
+inurl:index.php?sec=
+
+
+inurl:index.php?content=
+
+
+inurl:index.php?link=
+
+
+inurl:index.php?filename=
+
+
+inurl:index.php?dir=
+
+
+inurl:index.php?document=
+
+
+inurl:index.php?view=
+
+
+
+
+
+!lfi /index.php?option=com_myblog&Itemid=12&task= "com_myblog"
+!lfi /index.php?option=com_juliaportfolio&controller= "com_juliaportfolio"
+!lfi /index.php?option=com_sbsfile&controller= "com_sbsfile"
+!lfi /index.php?option=com_rokdownloads&controller= "com_rokdownloads"
+!lfi /index.php?option=com_sectionex&controller= "com_sectionex"
+!lfi /index.php?option=com_ganalytics&controller= "com_ganalytics"
+!lfi /index.php?option=com_janews&controller= "com_janews"
+!lfi /index.php?option=com_linkr&controller= "com_linkr"
+!lfi /index.php?option=com_rpx&controller= "com_rpx"
+!lfi /index.php?option=com_ninjarsssyndicator&controller = "com_ninjarsssyndicator"
+!lfi /index.php?option=com_gcalendar&controller= "com_gcalendar"
+!lfi /index.php?option=com_ckforms&controller= "com_ckforms"
+!lfi /index.php?option=com_jeformcr&view= "com_jeformcr"
+!lfi /index.php?option=com_jresearch&controller= "com_jresearch"
+!lfi /index.php?option=com_smestorage&controller= "com_smestorage"
+!lfi /index.php?option=com_properties&controller= "com_properties"
+!lfi /index.php?option=com_dwgraphs&controller= "com_dwgraphs"
+!lfi /index.php?option=com_weberpcustomer&controller= "com_weberpcustomer"
+!lfi /index.php?option=com_userstatus&controller= "com_userstatus"
+!lfi /index.php?option=com_econtent&controller= "com_econtent"
+!lfi /index.php?option=com_jvehicles&controller= "com_jvehicles"
+!lfi /index.php?option=com_joomlapicasa2&controller= "com_joomlapicasa2"
+!lfi /index.php?option=com_svmap&controller= "com_svmap"
+!lfi /index.php?option=com_shoutbox&controller= "com_shoutbox"
+!lfi /index.php?option=com_loginbox&view= "com_loginbox"
+!lfi /index.php?option=com_myblog&Itemid=12&task= "com_myblog"
+!lfi /index.php?option=com_juliaportfolio&controller= "com_juliaportfolio"
+!lfi /index.php?option=com_sbsfile&controller= "com_sbsfile"
+!lfi /index.php?option=com_rokdownloads&controller= "com_rokdownloads"
+!lfi /index.php?option=com_sectionex&controller= "com_sectionex"
+!lfi /index.php?option=com_ganalytics&controller= "com_ganalytics"
+!lfi /index.php?option=com_janews&controller= "com_janews"
+!lfi /index.php?option=com_linkr&controller= "com_linkr"
+!lfi /index.php?option=com_rpx&controller= "com_rpx"
+!lfi /index.php?option=com_ninjarsssyndicator&controller = "com_ninjarsssyndicator"
+!lfi /index.php?option=com_gcalendar&controller= "com_gcalendar"
+!lfi /index.php?option=com_ckforms&controller= "com_ckforms"
+!lfi /index.php?option=com_jeformcr&view= "com_jeformcr"
+!lfi /index.php?option=com_jresearch&controller= "com_jresearch"
+!lfi /index.php?option=com_smestorage&controller= "com_smestorage"
+!lfi /index.php?option=com_properties&controller= "com_properties"
+!lfi /index.php?option=com_dwgraphs&controller= "com_dwgraphs"
+!lfi /index.php?option=com_weberpcustomer&controller= "com_weberpcustomer"
+!lfi /index.php?option=com_userstatus&controller= "com_userstatus"
+!lfi /index.php?option=com_econtent&controller= "com_econtent"
+!lfi /index.php?option=com_jvehicles&controller= "com_jvehicles"
+!lfi /index.php?option=com_joomlapicasa2&controller= "com_joomlapicasa2"
+!lfi /index.php?option=com_svmap&controller= "com_svmap"
+!lfi /index.php?option=com_shoutbox&controller= "com_shoutbox"
+!lfi /index.php?option=com_loginbox&view= "com_loginbox"
+!lfi /index.php?option=com_bca-rss-syndicator&controller= "com_bca-rss-syndicator"
+!lfi /index.php?option=com_joomlaupdater&controller= "com_joomlaupdater"
+!lfi /index.php?option=com_redshop&view= "com_redshop"
+!lfi /index.php?option=com_redtwitter&view= "com_redtwitter"
+!lfi /index.php?option=com_wisroyq&controller= "com_wisroyq"
+!lfi /index.php?option=com_jinventory&controller= "com_jinventory"
+!lfi /index.php?option=com_appointment&controller= "com_appointment"
+!lfi /index.php?option=com_datafeeds&controller= "com_datafeeds"
+!lfi /index.php?option=com_fabrik&controller= "com_fabrik"
+!lfi /index.php?option=com_hsconfig&controller= "com_hsconfig"
+!lfi /index.php?option=com_joomlaflickr&controller= "com_joomlaflickr"
+!lfi /index.php?option=com_jukebox&controller= "com_jukebox"
+!lfi /index.php?option=com_jwhmcs&controller= "com_jwhmcs"
+!lfi /index.php?option=com_sebercart&view= "com_sebercart"
+!lfi /index.php?option=com_awiki&controller= "com_awiki"
+!lfi /index.php?option=com_vjdeo&controller= "com_vjdeo"
+!lfi /index.php?option=com_awdwall&controller= "com_awdwall"
+!lfi /index.php?option=com_realtyna&controller= "com_realtyna"
+!lfi /index.php?option=com_webeecomment&controller= "com_webeecomment"
+!lfi /index.php?option=com_javoice&view= "com_javoice"
+!lfi /index.php?option=com_foobla_suggestions&controller = "com_foobla_suggestions"
+!lfi /index.php?option=com_powermail&controller= "com_powermail"
+!lfi /index.php?option=com_pcchess&controller= "com_pcchess"
+!lfi /index.php?option=com_spsnewsletter&controller= "com_spsnewsletter"
+!lfi /index.php?option=com_alphauserpoints&view= "com_alphauserpoints"
+!lfi /index.php?option=com_travelbook&controller= "com_travelbook"
+!lfi /index.php?option=com_tweetla&controller= "com_tweetla"
+!lfi /index.php?option=com_ticketbook&controller= "com_ticketbook"
+!lfi /index.php?option=com_jajobboard&view= "com_jajobboard"
+!lfi /index.php?option=com_jajobboard&controller= "com_jajobboard"
+!lfi /index.php?option=com_jfeedback&controller= "com_jfeedback"
+!lfi /index.php?option=com_jprojectmanager&controller= "com_jprojectmanager"
+!lfi /index.php?option=com_preventive&controller= "com_preventive"
+!lfi /index.php?option=com_myfiles&controller= "com_myfiles"
+!lfi /index.php?option=com_onlineexam&controller= "com_onlineexam"
+!lfi /index.php?option=com_joommail&controller= "com_joommail"
+!lfi /index.php?option=com_memory&controller= "com_memory"
+!lfi /index.php?option=com_market&controller= "com_market"
+!lfi /index.php?option=com_diary&controller= "com_diary"
+!lfi /index.php?option=com_webtv&controller= "com_webtv"
+!lfi /index.php?option=com_horoscope&controller= "com_horoscope"
+!lfi /index.php?option=com_arcadegames&controller= "com_arcadegames"
+!lfi /index.php?option=com_flashgames&controller= "com_flashgames"
+!lfi /index.php?option=com_addressbook&controller= "com_addressbook"
+!lfi /index.php?option=com_flexicontent&controller= "com_flexicontent"
+!lfi /index.php?option=com_advertising&controller= "com_advertising"
+!lfi /index.php?option=com_cvmaker&controller= "com_cvmaker"
+!lfi /index.php?option=com_worldrates&controller= "com_worldrates"
+!lfi /index.php?option=com_record&controller= "com_record"
+!lfi /index.php?option=com_sweetykeeper&controller= "com_sweetykeeper"
+!lfi /index.php?option=com_beeheard&controller= "com_beeheard"
+!lfi /index.php?option=com_blogfactory&controller= "com_blogfactory"
+!lfi /index.php?option=com_delicious&controller= "com_delicious"
+!lfi /index.php?option=com_jacomment&view= "com_jacomment"
+!lfi /index.php?option=com_lovefactory&controller= "com_lovefactory"
+!lfi /index.php?option=com_mtfireeagle&controller= "com_mtfireeagle"
+!lfi /index.php?option=com_photobattle&view= "com_photobattle"
+!lfi /index.php?option=com_s5clanroster&view= "com_s5clanroster"
+!lfi /index.php?option=com_s5clanroster&controller= "com_s5clanroster"
+!lfi /index.php?option=com_wgpicasa&controller= "com_wgpicasa"
+!lfi /index.php?option=com_zimbcomment&controller= "com_zimbcomment"
+!lfi /index.php?option=com_zimbcore&controller= "com_zimbcore"
+!lfi /index.php?option=com_gadgetfactory&controller= "com_gadgetfactory"
+!lfi /index.php?option=com_matamko&controller= "com_matamko"
+!lfi /index.php?option=com_archeryscores&controller= "com_archeryscores"
+!lfi /index.php?option=com_multiroot&controller= "com_multiroot"
+!lfi /index.php?option=com_multimap&controller= "com_multimap"
+!lfi /index.php?option=com_drawroot&controller= "com_drawroot"
+!lfi /index.php?option=com_google&controller= "com_google"
+!lfi /index.php?option=com_if_surfalert&controller= "com_if_surfalert"
+!lfi /index.php?option=com_orgchart&controller= "com_orgchart"
+!lfi /index.php?option=com_mmsblog&controller= "com_mmsblog"
+!lfi /index.php?option=com_wmi&controller= "com_wmi"
+!lfi /index.php?option=com_ultimateportfolio&controller= "com_ultimateportfolio"
+!lfi /index.php?option=com_noticeboard&controller= "com_noticeboard"
+!lfi /index.php?option=com_smartsite&controller= "com_smartsite"
+!lfi /index.php?option=com_graphics&controller= "com_graphics"
+!lfi /index.php?option=com_php&file= "com_php"
+!lfi /index.php?option=com_aardvertiser&task= "com_aardvertiser"
+!lfi /index.php?option=com_jejob&view= "com_jejob"
+!lfi /index.php?option=com_jeajaxeventcalendar&view= "com_jeajaxeventcalendar"
+!lfi /index.php?option=com_dioneformwizard&controller= "com_dioneformwizard"
+!lfi /index.php?option=com_jequoteform&view= "com_jequoteform"
+!lfi /index.php?option=com_mscomment&controller= "com_mscomment"
+!lfi /index.php?option=com_simpledownload&controller= "com_simpledownload"
+!lfi /index.php?option=com_event&view= "com_event"
+!lfi /index.php?option=com_product&controller= "com_product"
+!lfi /index.php?option=com_job&controller= "com_job"
+!lfi /index2.php?option=com_simpledownload&controller= "com_simpledownload"
+!lfi /index.php?option=com_perchaimageattach&controller= "com_perchaimageattach"
+!lfi /index.php?option=com_perchafieldsattach&controller = "com_perchafieldsattach"
+
+    !lfi /index.php?option=com_perchagallery&controller= "com_perchagallery

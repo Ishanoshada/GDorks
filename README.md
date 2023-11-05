@@ -17,6 +17,7 @@ Give a ⭐️ if this project helped you!
     - ...
   - More-Dorks/
     - 7k.txt
+    - best2.txt
     - Amazon10k.txt
     - Gaming.txt
     - Shoping.txt
@@ -45,7 +46,7 @@ Give a ⭐️ if this project helped you!
   - CCTV/
    - cctv.txt
    - ...
-  - dorks.txt,dorks.json,dorks2.txt,dorks3.txt,dorks2023.txt
+  - dorks.txt,dorks.json,dorks2.txt,dorks3.txt,dorks2023.txt,dork...
 
 ```
 

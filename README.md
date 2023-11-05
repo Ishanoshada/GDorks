@@ -39,18 +39,84 @@ Google dorks are specially crafted search queries that use a combination of adva
 
 Google dorks follow a particular syntax using advanced search operators that refine search results. Some popular operators include:
 
+
 - **intitle**: Searches for pages with a specific keyword in the title.
+
+   Example: `intitle:"OpenAI"` will find pages with "OpenAI" in the title.
+
 - **inurl**: Searches for URLs containing a specific keyword.
-- **filetype**: Narrows results to- `intitle`: Searches for pages with a specific keyword in the title.
-- **inurl**: Searches for URLs containing a specific keyword.
+
+   Example: `inurl:python` will find URLs containing the word "python".
+
 - **filetype**: Narrows results to specific file types (e.g., `pdf`, `doc`, `csv`).
+
+   Example: `filetype:pdf site:example.com` will find PDF files on "example.com".
+
 - **site**: Limits the search to a specific website (e.g., `site:example.com`).
+
+   Example: `site:github.com OpenAI` will search for pages mentioning "OpenAI" only on GitHub.
+
 - **intext**: Searches for pages with a specific keyword in the page content.
+
+   Example: `intext:"artificial intelligence"` will find pages containing the phrase "artificial intelligence".
+
 - **ext**: Limits results to files with a specific extension (e.g., `ext:php`).
- specific file types (e.g., `pdf`, `doc`, `csv`).
-- **site**: Limits the search to a specific website (e.g., `site:example.com`).
-- **intext**: Searches for pages with a specific keyword in the page content.
-- **ext**: Limits results to files with a specific extension (e.g., `ext:php`).
+
+   Example: `ext:html inurl:about` will find HTML files with "about" in the URL.
+
+- **cache**: Finds cached versions of a webpage.
+
+   Example: `cache:example.com` will show Google's cached version of "example.com".
+
+- **link**: Finds pages that link to a specific URL.
+
+   Example: `link:example.com` will find pages that link to "example.com".
+
+- **related**: Finds pages related to a specific URL.
+
+   Example: `related:example.com` will find pages related to "example.com".
+
+- **define**: Provides definitions for a specific term.
+
+   Example: `define:cybersecurity` will give a definition for the term "cybersecurity".
+
+- **info**: Provides information about a specific URL.
+
+   Example: `info:example.com` will give information about "example.com".
+
+- **movie**: Finds information about a specific movie.
+
+   Example: `movie:Inception` will provide information about the movie "Inception".
+
+- **book**: Finds information about a specific book.
+
+   Example: `book:"To Kill a Mockingbird"` will provide information about the book "To Kill a Mockingbird".
+
+- **weather**: Provides current weather conditions and forecasts for a specific location.
+
+   Example: `weather:New York` will provide weather information for New York.
+
+- **stocks**: Provides stock market information for a specific company.
+
+   Example: `stocks:GOOGL` will provide stock information for Google.
+
+- **map**: Displays a map centered around a specific location.
+
+   Example: `map:New York` will display a map centered around New York.
+
+- **movie showtimes**: Provides movie showtimes for a specific location.
+
+   Example: `movie showtimes:Los Angeles` will display movie showtimes for Los Angeles.
+
+- **calculator**: Functions as a basic calculator.
+
+   Example: `calculator:2+2` will return the result "4".
+
+- **define**: Provides definitions for a specific term.
+
+   Example: `define:cybersecurity` will define the term "cybersecurity".
+
+
 
 
 ## Usage

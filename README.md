@@ -1,4 +1,4 @@
-# Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories ) 🌐
+# Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories + [3M+ Dorks] ) 🌐
 
 ![Language](https://img.shields.io/badge/language-txt-orange)
 

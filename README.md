@@ -337,6 +337,93 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
 ...
 ```
 
+
+## ⚡ Additional Google Dork Syntax Examples (Continued)
+
+4. **Finding URLs with a Specific Keyword**:
+   - `inurl:"keyword"` - Searches for URLs containing the specified keyword.
+
+5. **Excluding Specific Terms**:
+   - `-term` - Excludes results containing the specified term.
+
+6. **Searching for Pages with a Specific Title**:
+   - `intitle:"your search term"` - Searches for pages with the specified term in the title.
+
+7. **Looking for Pages with a Specific Extension**:
+   - `ext:php` - Limits results to files with a PHP extension.
+   - `ext:html` - Limits results to HTML files.
+
+8. **Finding Social Media Profiles**:
+   - `site:facebook.com "John Doe"` - Searches for Facebook profiles with the name "John Doe".
+
+9. **Locating Login Pages**:
+    - `intitle:"Login" inurl:/login` - Finds login pages.
+
+10. **Exploring Subdomains**:
+    - `site:*.example.com` - Searches for subdomains of "example.com".
+
+11. **Finding Vulnerable Webcams**:
+    - `intitle:"Live View / - AXIS"` - Searches for AXIS webcams.
+
+12. **Discovering Exposed Git Repositories**:
+    - `intitle:index.of.git` - Searches for exposed Git repositories.
+
+13. **Uncovering Open Directories**:
+    - `intitle:"Index of /"` - Searches for open directories.
+
+14. **Identifying Exposed Elasticsearch Instances**:
+    - `intitle:"Kibana" intext:"You know, for search"` - Searches for publicly accessible Elasticsearch instances.
+
+15. **Hunting for Configuration Files**:
+    - `filetype:env intext:AWS_SECRET_ACCESS_KEY` - Searches for AWS secret access keys in configuration files.
+
+16. **Revealing WordPress Configuration Files**:
+    - `filetype:txt inurl:wp-config` - Searches for WordPress configuration files.
+
+17. **Finding AWS Access Keys**:
+    - `filetype:pem intext:PRIVATE KEY` - Searches for AWS private keys.
+
+18. **Finding Vulnerable PHP Scripts**:
+   - `intitle:"PHP Shell"` - Searches for pages with PHP shells.
+
+19. **Locating Exposed Admin Panels**:
+    - `intitle:"Admin Login"` - Searches for pages with "Admin Login" in the title.
+
+20. **Discovering Network Devices with Default Credentials**:
+    - `intitle:"Router Login" | intext:"default username"` - Searches for router login pages with default usernames.
+
+21. **Exploring Database Backup Files**:
+    - `ext:sql intext:"-- MySQL dump"` - Searches for MySQL database dump files.
+
+22. **Identifying Exposed MongoDB Instances**:
+    - `intitle:"MongoDB Shell"` - Searches for MongoDB admin consoles.
+
+23. **Hunting for Backup Files**:
+    - `intitle:"Index of /backup"` - Searches for directories with "backup" in the name.
+
+24. **Uncovering Exposed Jenkins Instances**:
+    - `intitle:"Dashboard [Jenkins]"` - Searches for Jenkins dashboard pages.
+
+25. **Finding Apache Struts Vulnerabilities**:
+    - `intitle:"Welcome to the Apache Struts" intext:"showcase"` - Searches for Apache Struts showcase applications.
+
+26. **Discovering Exposed WordPress Theme Files**:
+    - `inurl:/wp-content/themes/ intitle:"Index of"` - Searches for directories with WordPress theme files.
+
+27. **Locating Exposed GitLab Repositories**:
+    - `intitle:"index of /" inurl:".gitlab.yml"` - Searches for GitLab configuration files.
+
+28. **Hunting for Exposed Jupyter Notebooks**:
+    - `intitle:"Jupyter Notebook" -"Sign Up" -"Log In"` - Searches for public Jupyter notebooks.
+
+29. **Finding Misconfigured Jenkins Instances**:
+    - `intitle:"Dashboard [Jenkins]" inurl:/job/` - Searches for Jenkins jobs.
+
+30. **Exploring Exposed Grafana Dashboards**:
+    - `intitle:"Grafana"` - Searches for Grafana dashboard pages.
+
+
+
 ## Google Dork List - Contribute and Discover
 
 Help build a comprehensive and responsible Google dork list! Contribute ethically and let's explore the internet responsibly together.

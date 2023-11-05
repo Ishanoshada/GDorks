@@ -1,0 +1,406 @@
+inurl:/modules/mod_
+mainmenu.php?mosConfig_
+absolute_path=
+inurl:/include/new-
+visitor.inc.php?lvc_include_dir=
+inurl:/_functions.php?prefix= inurl:/cpcommerce/_
+functions.php?prefix=
+inurl:/modules/coppermine/
+themes/default/theme.php?
+THEME_DIR=
+inurl:/modules/agendax/ addevent.inc.php?agendax_path=
+inurl:/ashnews.php?
+pathtoashnews=
+inurl:/eblog/blog.inc.php?
+xoopsConfig[xoops_url]=
+inurl:/pm/lib.inc.php?pm_path= inurl:/b2-tools/gm-2-b2.php?
+b2inc=
+inurl:/modules/mod_
+mainmenu.php?mosConfig_
+absolute_path=
+inurl:/modules/agendax/ addevent.inc.php?agendax_path=
+inurl:/includes/include_once.php?
+include_file=
+inurl:/e107/e107_handlers/
+secure_img_render.php?p=
+inurl:/shoutbox/expanded.php? conf=
+inurl:/main.php?x=
+inurl:/myPHPCalendar/
+admin.php?cal_dir=
+inurl:/index.php/main.php?x=
+inurl:/index.php?include= inurl:/index.php?x=
+inurl:/index.php?open=
+inurl:/index.php?visualizar=
+inurl:/template.php?pagina=
+inurl:/index.php?pagina=
+inurl:/index.php?inc= inurl:/includes/include_
+onde.php?include_file=
+inurl:/index.php?page=
+inurl:/index.php?pg=
+inurl:/index.php?show=
+inurl:/index.php?cat= inurl:/index.php?file=
+inurl:/db.php?path_local=
+inurl:/index.php?site=
+inurl:/htmltonuke.php?filnavn=
+inurl:/livehelp/inc/pipe.php?HCL_
+path= inurl:/hcl/inc/pipe.php?HCL_
+path=
+inurl:/inc/pipe.php?HCL_path=
+inurl:/support/faq/inc/pipe.php?
+HCL_path=
+inurl:/help/faq/inc/pipe.php? HCL_path=
+inurl:/helpcenter/inc/pipe.php?
+HCL_path=
+inurl:/live-support/inc/pipe.php?
+HCL_path=
+inurl:/gnu3/index.php?doc= inurl:/gnu/index.php?doc=
+inurl:/phpgwapi/setup/tables_
+update.inc.php?appdir=
+inurl:/forum/install.php?phpbb_
+root_dir=
+inurl:/includes/calendar.php? phpc_root_path=
+inurl:/includes/setup.php?phpc_
+root_path=
+inurl:/inc/authform.inc.php?
+path_pre=
+inurl:/include/authform.inc.php? path_pre=
+inurl:index.php?nic=
+inurl:index.php?sec=
+inurl:index.php?content=
+inurl:index.php?link=
+inurl:index.php?filename= inurl:index.php?dir=
+inurl:index.php?document=
+inurl:index.php?view=
+!lfi /index.php?option=com_
+myblog&Itemid=12&task= "com_
+myblog" !lfi /index.php?option=com_
+juliaportfolio&controller= "com_
+juliaportfolio"
+!lfi /index.php?option=com_
+sbsfile&controller= "com_sbsfile"
+!lfi /index.php?option=com_ rokdownloads&controller= "com_
+rokdownloads"
+!lfi /index.php?option=com_
+sectionex&controller= "com_
+sectionex"
+!lfi /index.php?option=com_ ganalytics&controller= "com_
+ganalytics"
+!lfi /index.php?option=com_
+janews&controller= "com_
+janews"
+!lfi /index.php?option=com_ linkr&controller= "com_linkr"
+!lfi /index.php?option=com_
+rpx&controller= "com_rpx"
+!lfi /index.php?option=com_
+ninjarsssyndicator&controller =
+"com_ninjarsssyndicator" !lfi /index.php?option=com_
+gcalendar&controller= "com_
+gcalendar"
+!lfi /index.php?option=com_
+ckforms&controller= "com_
+ckforms" !lfi /index.php?option=com_
+jeformcr&view= "com_jeformcr"
+!lfi /index.php?option=com_
+jresearch&controller= "com_
+jresearch"
+!lfi /index.php?option=com_ smestorage&controller= "com_
+smestorage"
+!lfi /index.php?option=com_
+properties&controller= "com_
+properties"
+!lfi /index.php?option=com_ dwgraphs&controller= "com_
+dwgraphs"
+!lfi /index.php?option=com_
+weberpcustomer&controller=
+"com_weberpcustomer"
+!lfi /index.php?option=com_ userstatus&controller= "com_
+userstatus"
+!lfi /index.php?option=com_
+econtent&controller= "com_
+econtent"
+!lfi /index.php?option=com_ jvehicles&controller= "com_
+jvehicles"
+!lfi /index.php?option=com_
+joomlapicasa2&controller= "com_
+joomlapicasa2"
+!lfi /index.php?option=com_ svmap&controller= "com_svmap"
+!lfi /index.php?option=com_
+shoutbox&controller= "com_
+shoutbox"
+!lfi /index.php?option=com_
+loginbox&view= "com_loginbox" !lfi /index.php?option=com_
+myblog&Itemid=12&task= "com_
+myblog"
+!lfi /index.php?option=com_
+juliaportfolio&controller= "com_
+juliaportfolio" !lfi /index.php?option=com_
+sbsfile&controller= "com_sbsfile"
+!lfi /index.php?option=com_
+rokdownloads&controller= "com_
+rokdownloads"
+!lfi /index.php?option=com_ sectionex&controller= "com_
+sectionex"
+!lfi /index.php?option=com_
+ganalytics&controller= "com_
+ganalytics"
+!lfi /index.php?option=com_ janews&controller= "com_
+janews"
+!lfi /index.php?option=com_
+linkr&controller= "com_linkr"
+!lfi /index.php?option=com_
+rpx&controller= "com_rpx" !lfi /index.php?option=com_
+ninjarsssyndicator&controller =
+"com_ninjarsssyndicator"
+!lfi /index.php?option=com_
+gcalendar&controller= "com_
+gcalendar" !lfi /index.php?option=com_
+ckforms&controller= "com_
+ckforms"
+!lfi /index.php?option=com_
+jeformcr&view= "com_jeformcr"
+!lfi /index.php?option=com_ jresearch&controller= "com_
+jresearch"
+!lfi /index.php?option=com_
+smestorage&controller= "com_
+smestorage"
+!lfi /index.php?option=com_ properties&controller= "com_
+properties"
+!lfi /index.php?option=com_
+dwgraphs&controller= "com_
+dwgraphs"
+!lfi /index.php?option=com_ weberpcustomer&controller=
+"com_weberpcustomer"
+!lfi /index.php?option=com_
+userstatus&controller= "com_
+userstatus"
+!lfi /index.php?option=com_ econtent&controller= "com_
+econtent"
+!lfi /index.php?option=com_
+jvehicles&controller= "com_
+jvehicles"
+!lfi /index.php?option=com_ joomlapicasa2&controller= "com_
+joomlapicasa2"
+!lfi /index.php?option=com_
+svmap&controller= "com_svmap"
+!lfi /index.php?option=com_
+shoutbox&controller= "com_ shoutbox"
+!lfi /index.php?option=com_
+loginbox&view= "com_loginbox"
+!lfi /index.php?option=com_bca-
+rss-syndicator&controller= "com_
+bca-rss-syndicator" !lfi /index.php?option=com_
+joomlaupdater&controller=
+"com_joomlaupdater"
+!lfi /index.php?option=com_
+redshop&view= "com_redshop"
+!lfi /index.php?option=com_ redtwitter&view= "com_
+redtwitter"
+!lfi /index.php?option=com_
+wisroyq&controller= "com_
+wisroyq"
+!lfi /index.php?option=com_ jinventory&controller= "com_
+jinventory"
+!lfi /index.php?option=com_
+appointment&controller= "com_
+appointment"
+!lfi /index.php?option=com_ datafeeds&controller= "com_
+datafeeds"
+!lfi /index.php?option=com_
+fabrik&controller= "com_fabrik"
+!lfi /index.php?option=com_
+hsconfig&controller= "com_ hsconfig"
+!lfi /index.php?option=com_
+joomlaflickr&controller= "com_
+joomlaflickr"
+!lfi /index.php?option=com_
+jukebox&controller= "com_ jukebox"
+!lfi /index.php?option=com_
+jwhmcs&controller= "com_
+jwhmcs"
+!lfi /index.php?option=com_
+sebercart&view= "com_ sebercart"
+!lfi /index.php?option=com_
+awiki&controller= "com_awiki"
+!lfi /index.php?option=com_
+vjdeo&controller= "com_vjdeo"
+!lfi /index.php?option=com_ awdwall&controller= "com_
+awdwall"
+!lfi /index.php?option=com_
+realtyna&controller= "com_
+realtyna"
+!lfi /index.php?option=com_ webeecomment&controller=
+"com_webeecomment"
+!lfi /index.php?option=com_
+javoice&view= "com_javoice"
+!lfi /index.php?option=com_
+foobla_suggestions&controller = "com_foobla_suggestions"
+!lfi /index.php?option=com_
+powermail&controller= "com_
+powermail"
+!lfi /index.php?option=com_
+pcchess&controller= "com_ pcchess"
+!lfi /index.php?option=com_
+spsnewsletter&controller= "com_
+spsnewsletter"
+!lfi /index.php?option=com_
+alphauserpoints&view= "com_ alphauserpoints"
+!lfi /index.php?option=com_
+travelbook&controller= "com_
+travelbook"
+!lfi /index.php?option=com_
+tweetla&controller= "com_ tweetla"
+!lfi /index.php?option=com_
+ticketbook&controller= "com_
+ticketbook"
+!lfi /index.php?option=com_
+jajobboard&view= "com_ jajobboard"
+!lfi /index.php?option=com_
+jajobboard&controller= "com_
+jajobboard"
+!lfi /index.php?option=com_
+jfeedback&controller= "com_ jfeedback"
+!lfi /index.php?option=com_
+jprojectmanager&controller=
+"com_jprojectmanager"
+!lfi /index.php?option=com_
+preventive&controller= "com_ preventive"
+!lfi /index.php?option=com_
+myfiles&controller= "com_
+myfiles"
+!lfi /index.php?option=com_
+onlineexam&controller= "com_ onlineexam"
+!lfi /index.php?option=com_
+joommail&controller= "com_
+joommail"
+!lfi /index.php?option=com_
+memory&controller= "com_ memory"
+!lfi /index.php?option=com_
+market&controller= "com_
+market"
+!lfi /index.php?option=com_
+diary&controller= "com_diary" !lfi /index.php?option=com_
+webtv&controller= "com_webtv"
+!lfi /index.php?option=com_
+horoscope&controller= "com_
+horoscope"
+!lfi /index.php?option=com_ arcadegames&controller= "com_
+arcadegames"
+!lfi /index.php?option=com_
+flashgames&controller= "com_
+flashgames"
+!lfi /index.php?option=com_ addressbook&controller= "com_
+addressbook"
+!lfi /index.php?option=com_
+flexicontent&controller= "com_
+flexicontent"
+!lfi /index.php?option=com_ advertising&controller= "com_
+advertising"
+!lfi /index.php?option=com_
+cvmaker&controller= "com_
+cvmaker"
+!lfi /index.php?option=com_ worldrates&controller= "com_
+worldrates"
+!lfi /index.php?option=com_
+record&controller= "com_record"
+!lfi /index.php?option=com_
+sweetykeeper&controller= "com_ sweetykeeper"
+!lfi /index.php?option=com_
+beeheard&controller= "com_
+beeheard"
+!lfi /index.php?option=com_
+blogfactory&controller= "com_ blogfactory"
+!lfi /index.php?option=com_
+delicious&controller= "com_
+delicious"
+!lfi /index.php?option=com_
+jacomment&view= "com_ jacomment"
+!lfi /index.php?option=com_
+lovefactory&controller= "com_
+lovefactory"
+!lfi /index.php?option=com_
+mtfireeagle&controller= "com_ mtfireeagle"
+!lfi /index.php?option=com_
+photobattle&view= "com_
+photobattle"
+!lfi /index.php?option=com_
+s5clanroster&view= "com_ s5clanroster"
+!lfi /index.php?option=com_
+s5clanroster&controller= "com_
+s5clanroster"
+!lfi /index.php?option=com_
+wgpicasa&controller= "com_ wgpicasa"
+!lfi /index.php?option=com_
+zimbcomment&controller= "com_
+zimbcomment"
+!lfi /index.php?option=com_
+zimbcore&controller= "com_ zimbcore"
+!lfi /index.php?option=com_
+gadgetfactory&controller= "com_
+gadgetfactory"
+!lfi /index.php?option=com_
+matamko&controller= "com_ matamko"
+!lfi /index.php?option=com_
+archeryscores&controller= "com_
+archeryscores"
+!lfi /index.php?option=com_
+multiroot&controller= "com_ multiroot"
+!lfi /index.php?option=com_
+multimap&controller= "com_
+multimap"
+!lfi /index.php?option=com_
+drawroot&controller= "com_ drawroot"
+!lfi /index.php?option=com_
+google&controller= "com_google"
+!lfi /index.php?option=com_if_
+surfalert&controller= "com_if_
+surfalert" !lfi /index.php?option=com_
+orgchart&controller= "com_
+orgchart"
+!lfi /index.php?option=com_
+mmsblog&controller= "com_
+mmsblog" !lfi /index.php?option=com_
+wmi&controller= "com_wmi"
+!lfi /index.php?option=com_
+ultimateportfolio&controller=
+"com_ultimateportfolio"
+!lfi /index.php?option=com_ noticeboard&controller= "com_
+noticeboard"
+!lfi /index.php?option=com_
+smartsite&controller= "com_
+smartsite"
+!lfi /index.php?option=com_ graphics&controller= "com_
+graphics"
+!lfi /index.php?option=com_
+php&file= "com_php"
+!lfi /index.php?option=com_
+aardvertiser&task= "com_ aardvertiser"
+!lfi /index.php?option=com_
+jejob&view= "com_jejob"
+!lfi /index.php?option=com_
+jeajaxeventcalendar&view=
+"com_jeajaxeventcalendar" !lfi /index.php?option=com_
+dioneformwizard&controller=
+"com_dioneformwizard"
+!lfi /index.php?option=com_
+jequoteform&view= "com_
+jequoteform" !lfi /index.php?option=com_
+mscomment&controller= "com_
+mscomment"
+!lfi /index.php?option=com_
+simpledownload&controller=
+"com_simpledownload" !lfi /index.php?option=com_
+event&view= "com_event"
+!lfi /index.php?option=com_
+product&controller= "com_
+product"
+!lfi /index.php?option=com_ job&controller= "com_job"
+!lfi /index2.php?option=com_
+simpledownload&controller=
+"com_simpledownload"
+!lfi /index.php?option=com_
+perchaimageattach&controller= "com_perchaimageattach"
+!lfi /index.php?option=com_
+perchafieldsattach&controller =
+"com_perchafieldsattach"
+!lfi /index.php?option=com_
+perchagallery&controller= "com_ perchagallery"

@@ -1,8 +1,10 @@
-# Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories ) 🌐
+# Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories + [3M+ Dorks] ) 🌐
 
 ![Language](https://img.shields.io/badge/language-txt-orange)
 
 Welcome to the fascinating world of Google dorks, where we unveil the secret pathways of the internet! 🚀
+
+Give a ⭐️ if this project helped you!
 
 ## File Structure
 
@@ -13,7 +15,9 @@ Welcome to the fascinating world of Google dorks, where we unveil the secret pat
     - dorks3.txt 
     - ...
   - More-Dorks/
-    - 7k.txt 
+    - 7k.txt
+    - ...
+  - SQLi/
     - Sqli.txt 
     - Sqli2.txt
     - ...
@@ -21,6 +25,13 @@ Welcome to the fascinating world of Google dorks, where we unveil the secret pat
     - 17k.txt 
     - wp(30K).txt
     - ...
+  - Laravel/
+    - 1.txt
+    - ...
+  - CCTV/
+   - cctv.txt
+   - ...
+
 ```
 
 ## 💡 What are Google Dorks?
@@ -31,18 +42,84 @@ Google dorks are specially crafted search queries that use a combination of adva
 
 Google dorks follow a particular syntax using advanced search operators that refine search results. Some popular operators include:
 
+
 - **intitle**: Searches for pages with a specific keyword in the title.
+
+   Example: `intitle:"OpenAI"` will find pages with "OpenAI" in the title.
+
 - **inurl**: Searches for URLs containing a specific keyword.
-- **filetype**: Narrows results to- `intitle`: Searches for pages with a specific keyword in the title.
-- **inurl**: Searches for URLs containing a specific keyword.
+
+   Example: `inurl:python` will find URLs containing the word "python".
+
 - **filetype**: Narrows results to specific file types (e.g., `pdf`, `doc`, `csv`).
+
+   Example: `filetype:pdf site:example.com` will find PDF files on "example.com".
+
 - **site**: Limits the search to a specific website (e.g., `site:example.com`).
+
+   Example: `site:github.com OpenAI` will search for pages mentioning "OpenAI" only on GitHub.
+
 - **intext**: Searches for pages with a specific keyword in the page content.
+
+   Example: `intext:"artificial intelligence"` will find pages containing the phrase "artificial intelligence".
+
 - **ext**: Limits results to files with a specific extension (e.g., `ext:php`).
- specific file types (e.g., `pdf`, `doc`, `csv`).
-- **site**: Limits the search to a specific website (e.g., `site:example.com`).
-- **intext**: Searches for pages with a specific keyword in the page content.
-- **ext**: Limits results to files with a specific extension (e.g., `ext:php`).
+
+   Example: `ext:html inurl:about` will find HTML files with "about" in the URL.
+
+- **cache**: Finds cached versions of a webpage.
+
+   Example: `cache:example.com` will show Google's cached version of "example.com".
+
+- **link**: Finds pages that link to a specific URL.
+
+   Example: `link:example.com` will find pages that link to "example.com".
+
+- **related**: Finds pages related to a specific URL.
+
+   Example: `related:example.com` will find pages related to "example.com".
+
+- **define**: Provides definitions for a specific term.
+
+   Example: `define:cybersecurity` will give a definition for the term "cybersecurity".
+
+- **info**: Provides information about a specific URL.
+
+   Example: `info:example.com` will give information about "example.com".
+
+- **movie**: Finds information about a specific movie.
+
+   Example: `movie:Inception` will provide information about the movie "Inception".
+
+- **book**: Finds information about a specific book.
+
+   Example: `book:"To Kill a Mockingbird"` will provide information about the book "To Kill a Mockingbird".
+
+- **weather**: Provides current weather conditions and forecasts for a specific location.
+
+   Example: `weather:New York` will provide weather information for New York.
+
+- **stocks**: Provides stock market information for a specific company.
+
+   Example: `stocks:GOOGL` will provide stock information for Google.
+
+- **map**: Displays a map centered around a specific location.
+
+   Example: `map:New York` will display a map centered around New York.
+
+- **movie showtimes**: Provides movie showtimes for a specific location.
+
+   Example: `movie showtimes:Los Angeles` will display movie showtimes for Los Angeles.
+
+- **calculator**: Functions as a basic calculator.
+
+   Example: `calculator:2+2` will return the result "4".
+
+- **define**: Provides definitions for a specific term.
+
+   Example: `define:cybersecurity` will define the term "cybersecurity".
+
+
 
 
 ## Usage
@@ -262,6 +339,133 @@ Discover various configuration files. Handle with care, and never misuse!
 filetype:env intext:AWS_SECRET_ACCESS_KEY
 ...
 ```
+
+
+## ⚡ Additional Google Dork Syntax Examples (Continued)
+
+4. **Finding URLs with a Specific Keyword**:
+   - `inurl:"keyword"` - Searches for URLs containing the specified keyword.
+
+5. **Excluding Specific Terms**:
+   - `-term` - Excludes results containing the specified term.
+
+6. **Searching for Pages with a Specific Title**:
+   - `intitle:"your search term"` - Searches for pages with the specified term in the title.
+
+7. **Looking for Pages with a Specific Extension**:
+   - `ext:php` - Limits results to files with a PHP extension.
+   - `ext:html` - Limits results to HTML files.
+
+8. **Finding Social Media Profiles**:
+   - `site:facebook.com "John Doe"` - Searches for Facebook profiles with the name "John Doe".
+
+9. **Locating Login Pages**:
+    - `intitle:"Login" inurl:/login` - Finds login pages.
+
+10. **Exploring Subdomains**:
+    - `site:*.example.com` - Searches for subdomains of "example.com".
+
+11. **Finding Vulnerable Webcams**:
+    - `intitle:"Live View / - AXIS"` - Searches for AXIS webcams.
+
+12. **Discovering Exposed Git Repositories**:
+    - `intitle:index.of.git` - Searches for exposed Git repositories.
+
+13. **Uncovering Open Directories**:
+    - `intitle:"Index of /"` - Searches for open directories.
+
+14. **Identifying Exposed Elasticsearch Instances**:
+    - `intitle:"Kibana" intext:"You know, for search"` - Searches for publicly accessible Elasticsearch instances.
+
+15. **Hunting for Configuration Files**:
+    - `filetype:env intext:AWS_SECRET_ACCESS_KEY` - Searches for AWS secret access keys in configuration files.
+
+16. **Revealing WordPress Configuration Files**:
+    - `filetype:txt inurl:wp-config` - Searches for WordPress configuration files.
+
+17. **Finding AWS Access Keys**:
+    - `filetype:pem intext:PRIVATE KEY` - Searches for AWS private keys.
+
+18. **Finding Vulnerable PHP Scripts**:
+   - `intitle:"PHP Shell"` - Searches for pages with PHP shells.
+
+19. **Locating Exposed Admin Panels**:
+    - `intitle:"Admin Login"` - Searches for pages with "Admin Login" in the title.
+
+20. **Discovering Network Devices with Default Credentials**:
+    - `intitle:"Router Login" | intext:"default username"` - Searches for router login pages with default usernames.
+
+21. **Exploring Database Backup Files**:
+    - `ext:sql intext:"-- MySQL dump"` - Searches for MySQL database dump files.
+
+22. **Identifying Exposed MongoDB Instances**:
+    - `intitle:"MongoDB Shell"` - Searches for MongoDB admin consoles.
+
+23. **Hunting for Backup Files**:
+    - `intitle:"Index of /backup"` - Searches for directories with "backup" in the name.
+
+24. **Uncovering Exposed Jenkins Instances**:
+    - `intitle:"Dashboard [Jenkins]"` - Searches for Jenkins dashboard pages.
+
+25. **Finding Apache Struts Vulnerabilities**:
+    - `intitle:"Welcome to the Apache Struts" intext:"showcase"` - Searches for Apache Struts showcase applications.
+
+26. **Discovering Exposed WordPress Theme Files**:
+    - `inurl:/wp-content/themes/ intitle:"Index of"` - Searches for directories with WordPress theme files.
+
+27. **Locating Exposed GitLab Repositories**:
+    - `intitle:"index of /" inurl:".gitlab.yml"` - Searches for GitLab configuration files.
+
+28. **Hunting for Exposed Jupyter Notebooks**:
+    - `intitle:"Jupyter Notebook" -"Sign Up" -"Log In"` - Searches for public Jupyter notebooks.
+
+29. **Finding Misconfigured Jenkins Instances**:
+    - `intitle:"Dashboard [Jenkins]" inurl:/job/` - Searches for Jenkins jobs.
+
+30. **Exploring Exposed Grafana Dashboards**:
+    - `intitle:"Grafana"` - Searches for Grafana dashboard pages.
+
+
+## 🌍 Country-Specific Google Dork Lists
+
+| Country          | Most Used Dork List                                              | Security Level (%) |
+|------------------|-----------------------------------------------------------------|-------------------|
+| United States    | "inurl:/view.shtml" "intitle:\"Live View / - AXIS\""           | 85                |
+| India            | "inurl:\"product.php?pid=\"" "inurl:\"category.php?id=\""     | 70                |
+| United Kingdom   | "inurl:\"search.php?q=\"" "inurl:\"results.php?q=\""         | 80                |
+| Australia        | "intitle:\"Test Page for the Apache Web Server on Fedora Core\"" | 75                |
+| Canada           | "intitle:\"Test Page for the Nginx HTTP Server\""            | 80                |
+| Germany          | "intitle:\"Index of /admin\"" "intitle:\"Index of /config\"" | 85                |
+| France           | "filetype:sql intext:username password" "intext:\"Error 404: Not Found\"" | 75                |
+| Brazil           | "inurl:\"/uc?id=\"" "filetype:env intext:AWS_SECRET_ACCESS_KEY" | 70                |
+| Japan            | "intext:\"Error 404: Not Found\"" "inurl:/wp-admin"          | 80                |
+| South Africa     | "filetype:php inurl:info" "filetype:pem intext:PRIVATE KEY"   | 75                |
+| Russia           | "intitle:\"index of\" \"backup\"" "filetype:xls inurl:admin" | 70                |
+| China            | "inurl:\"/web-console/ServerInfo.jsp\"" "intext:password filetype:log" | 85                |
+| Mexico           | "intext:\"Index of /backup\"" "filetype:log inurl:web.config" | 75                |
+| Spain            | "intitle:\"index of\" \"passwords.txt\"" "filetype:txt inurl:config" | 80                |
+| Italy            | "intitle:\"Index of /config\"" "filetype:xml inurl:admin"     | 80                |
+| Argentina        | "inurl:\"/wp-admin\" intitle:\"login\"" "intext:\"Index of /wp-content/uploads\"" | 75                |
+| Nigeria          | "intitle:\"index of\" \"database.sql\"" "filetype:ini inurl:admin" | 70                |
+| Saudi Arabia     | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 85                |
+| Netherlands      | "inurl:/console/login/LoginForm.jsp" "filetype:log inurl:admin" | 80                |
+| Indonesia        | "inurl:/cgi-bin/printer/printer.cgi" "filetype:reg inurl:web.config" | 75                |
+| Turkey           | "intitle:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 80                |
+| South Korea      | "inurl:/servlet/Main" "filetype:sql intext:username password" | 80                |
+| Thailand         | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
+| Egypt            | "inurl:/console/login/LoginForm.jsp" "filetype:txt inurl:admin" | 70                |
+| Singapore        | "intext:\"index of\" \"database.sql\"" "filetype:ini inurl:admin" | 80                |
+| Malaysia         | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
+| Philippines      | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 75                |
+| Vietnam          | "inurl:/console/login/LoginForm.jsp" "filetype:log inurl:admin" | 75                |
+| Bangladesh       | "intext:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 70                |
+| Sri Lanka        | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 70                |
+| Israel           | "intitle:\"Index of /admin\"" "filetype:xls inurl:admin"     | 80                |
+| Pakistan         | "intitle:\"index of\" \"passwords.txt\"" "filetype:txt inurl:config" | 70                |
+| Iran             | "inurl:/cgi-bin/printer/printer.cgi" "filetype:reg inurl:web.config" | 75                |
+| Iraq             | "intitle:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 70                |
+| Afghanistan      | "inurl:/servlet/Main" "filetype:sql intext:username password" | 75                |
+| Kazakhstan       | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
 
 ## Google Dork List - Contribute and Discover
 

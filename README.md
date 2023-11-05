@@ -17,6 +17,7 @@ Give a ⭐️ if this project helped you!
     - ...
   - More-Dorks/
     - 7k.txt
+    - Amazon10k.txt
     - ...
   - SQLi/
     - Sqli.txt 
@@ -35,13 +36,14 @@ Give a ⭐️ if this project helped you!
   - Joomla/
    - Joomla.txt
    - Joomla2.txt
-
+   - ...
   - Laravel/
     - 1.txt
     - ...
   - CCTV/
    - cctv.txt
    - ...
+  - dorks.txt,dorks.json,dorks2.txt,dorks3.txt,dorks2023.txt
 
 ```
 

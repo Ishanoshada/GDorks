@@ -4,6 +4,8 @@
 
 Welcome to the fascinating world of Google dorks, where we unveil the secret pathways of the internet! 🚀
 
+Give a ⭐️ if this project helped you!
+
 ## File Structure
 
 ```bash

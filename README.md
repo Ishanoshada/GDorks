@@ -13,7 +13,9 @@ Welcome to the fascinating world of Google dorks, where we unveil the secret pat
     - dorks3.txt 
     - ...
   - More-Dorks/
-    - 7k.txt 
+    - 7k.txt
+    - ...
+  - SQLi/
     - Sqli.txt 
     - Sqli2.txt
     - ...
@@ -21,6 +23,10 @@ Welcome to the fascinating world of Google dorks, where we unveil the secret pat
     - 17k.txt 
     - wp(30K).txt
     - ...
+  - Laravel/
+    - 1.txt
+    - ...
+
 ```
 
 ## 💡 What are Google Dorks?

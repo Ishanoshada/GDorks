@@ -426,6 +426,46 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
     - `intitle:"Grafana"` - Searches for Grafana dashboard pages.
 
 
+## 🌍 Country-Specific Google Dork Lists
+
+| Country          | Most Used Dork List                                              | Security Level (%) |
+|------------------|-----------------------------------------------------------------|-------------------|
+| United States    | "inurl:/view.shtml" "intitle:\"Live View / - AXIS\""           | 85                |
+| India            | "inurl:\"product.php?pid=\"" "inurl:\"category.php?id=\""     | 70                |
+| United Kingdom   | "inurl:\"search.php?q=\"" "inurl:\"results.php?q=\""         | 80                |
+| Australia        | "intitle:\"Test Page for the Apache Web Server on Fedora Core\"" | 75                |
+| Canada           | "intitle:\"Test Page for the Nginx HTTP Server\""            | 80                |
+| Germany          | "intitle:\"Index of /admin\"" "intitle:\"Index of /config\"" | 85                |
+| France           | "filetype:sql intext:username password" "intext:\"Error 404: Not Found\"" | 75                |
+| Brazil           | "inurl:\"/uc?id=\"" "filetype:env intext:AWS_SECRET_ACCESS_KEY" | 70                |
+| Japan            | "intext:\"Error 404: Not Found\"" "inurl:/wp-admin"          | 80                |
+| South Africa     | "filetype:php inurl:info" "filetype:pem intext:PRIVATE KEY"   | 75                |
+| Russia           | "intitle:\"index of\" \"backup\"" "filetype:xls inurl:admin" | 70                |
+| China            | "inurl:\"/web-console/ServerInfo.jsp\"" "intext:password filetype:log" | 85                |
+| Mexico           | "intext:\"Index of /backup\"" "filetype:log inurl:web.config" | 75                |
+| Spain            | "intitle:\"index of\" \"passwords.txt\"" "filetype:txt inurl:config" | 80                |
+| Italy            | "intitle:\"Index of /config\"" "filetype:xml inurl:admin"     | 80                |
+| Argentina        | "inurl:\"/wp-admin\" intitle:\"login\"" "intext:\"Index of /wp-content/uploads\"" | 75                |
+| Nigeria          | "intitle:\"index of\" \"database.sql\"" "filetype:ini inurl:admin" | 70                |
+| Saudi Arabia     | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 85                |
+| Netherlands      | "inurl:/console/login/LoginForm.jsp" "filetype:log inurl:admin" | 80                |
+| Indonesia        | "inurl:/cgi-bin/printer/printer.cgi" "filetype:reg inurl:web.config" | 75                |
+| Turkey           | "intitle:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 80                |
+| South Korea      | "inurl:/servlet/Main" "filetype:sql intext:username password" | 80                |
+| Thailand         | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
+| Egypt            | "inurl:/console/login/LoginForm.jsp" "filetype:txt inurl:admin" | 70                |
+| Singapore        | "intext:\"index of\" \"database.sql\"" "filetype:ini inurl:admin" | 80                |
+| Malaysia         | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
+| Philippines      | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 75                |
+| Vietnam          | "inurl:/console/login/LoginForm.jsp" "filetype:log inurl:admin" | 75                |
+| Bangladesh       | "intext:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 70                |
+| Sri Lanka        | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 70                |
+| Israel           | "intitle:\"Index of /admin\"" "filetype:xls inurl:admin"     | 80                |
+| Pakistan         | "intitle:\"index of\" \"passwords.txt\"" "filetype:txt inurl:config" | 70                |
+| Iran             | "inurl:/cgi-bin/printer/printer.cgi" "filetype:reg inurl:web.config" | 75                |
+| Iraq             | "intitle:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 70                |
+| Afghanistan      | "inurl:/servlet/Main" "filetype:sql intext:username password" | 75                |
+| Kazakhstan       | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
 
 ## Google Dork List - Contribute and Discover
 

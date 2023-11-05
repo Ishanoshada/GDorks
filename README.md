@@ -1,6 +1,7 @@
 # Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories + [3M+ Dorks] ) 🌐
 
 ![Language](https://img.shields.io/badge/language-txt-orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/ishanoshada/GDdorks?style=flat&logo=github)
 
 Welcome to the fascinating world of Google dorks, where we unveil the secret pathways of the internet! 🚀
 

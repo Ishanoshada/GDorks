@@ -11,9 +11,9 @@ Give a ⭐️ if this project helped you!
 
 ```bash
   - Dorks(1M)/
-    - dorks.txt 
-    - dorks2.txt 
-    - dorks3.txt 
+    - Split #1.txt
+    - Split #2.txt
+    - Split #3.txt
     - ...
   - More-Dorks/
     - 7k.txt
@@ -32,6 +32,10 @@ Give a ⭐️ if this project helped you!
     - 17k.txt 
     - wp(30K).txt
     - ...
+  - Joomla/
+   - Joomla.txt
+   - Joomla2.txt
+
   - Laravel/
     - 1.txt
     - ...

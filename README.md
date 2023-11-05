@@ -18,6 +18,8 @@ Give a ⭐️ if this project helped you!
   - More-Dorks/
     - 7k.txt
     - Amazon10k.txt
+    - Gaming.txt
+    - Shoping.txt
     - ...
   - SQLi/
     - Sqli.txt 

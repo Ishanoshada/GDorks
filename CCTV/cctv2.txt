@@ -1,0 +1,188 @@
+/axis-cgi/jpg/image.cgi
+/cgi-bin/guestimage.html
+"/control/userimage.html"
+"MOBOTIX Camera User"
+title:"Robin SmartView"
+Server: Viavideo-Web
+title:"Camera 1"
+"You need ID"
+title:"Sanyo"
+title:"SANYO NETWORK CAMERA"
+title:"SANYO NETWORK OPTION BOARD"
+title:"SANYO NETWORK VIDEO SERVER"
+title:"CSP NETWORK CAMERA"
+title:"DIGITAL VIDEO RECORDER CONTROL"
+title:"DIGITAL VIDEO RECORDER"
+title:"NETSuveillance WEB"
+Server: alphapd
+realm DCS -alphapd
+dcs -alphapd -dcs-lig-httpd
+dcs-lig-httpd
+realm WCS
+realm +DVR
+DVR Streamer
+SECOM DVR
+DVRWebServer
+DVR WebServer
+dvr web
+WebServer +DVR
+NVR
+server: network camera
+dome camera
+cube camera
+security camera
+Vision security system
+axis
+realm streaming_server
+realm netcam
+netcam -realm
+flexwatch
+IPCamera-Web
+realm IPCamera
+IPCamera UPnP
+ADH-web
+Steven+Wu
+Camera Web Server -Steven
+TVIP
+TV-IP
+PoE Camera
+Boa ipcam
+Boa cam
+Boa camera
+PLANET IP CAM
+PLANET IP CAMERA
+IPCamera_Logo
+go1984
+Vivotek
+Wireless Camera
+realm fcs
+D-Link Camera
+Internet Camera
+Internet Camera -D-Link
+brickcom
+iPolis
+Surveillance Camera
+TeleEye
+SQ-WEBCAM
+samsung DVR
+imagiatek
+maygion
+avigilon
+onvif
+MegapixelIPCamera
+MiniAVServer
+www-Authenticate: webcam
+VideoJet
+Catcher Console
+IQinVision
+BBVS -SecuritySpy
+SecuritySpy
+Powered by Nodinfo
+mjpg streamer
+VIDIO-STREAMER
+BackStage Streamer
+Android Webcam
+Android dvr
+DVR-Login
+DVR Remote System
+arecont
+realm vision -arecont
+yawcam
+"server: jvc"
+PelcoNet
+VB100
+server VB100
+motion
+logitec camera
+divar
+verint-webs
+AccDVR
+EvoCam
+promelit
+linux camera
+linux ipcamera
+linux dvr
+server SafeCam
+server: Milestone
+title:flexwatch
+title:webdvr
+title:live
+title:"live view"
+title:"liveview"
+title:"video system"
+title:"camera"
+title:"Axis"
+title:"Video Recorder"
+title:"Video Record"
+title:"NVR"
+#title:"DVR"
+title:"DVR WebViewer"
+title:"DVR Viewer"
+title:"DVR Web " -title:"WEB Client"
+title:"DVR WEB Client"
+title:"DVR LOGIN"
+title:"DVR Components Download"
+title:"Web Viewer for Samsung DVR"
+title:"DVR Netview"
+title:"Web Client for DVR"
+title:"Inspire DVR"
+title:"dvr client"
+title:"DVR System"
+"Server: OwnServer1.0" -title:"DVR system"
+title:"DVR REMOTE VIEWER"
+"Server: MWS" -title:"DVR REMOTE VIEWER"
+title:"DVR WebClient"
+title:"DVR -- Detect Java Runtime"
+title:"EverFocus"
+"Server: HyNetOS" -title:"Bosch" -title:"EverFocus"
+title:"DVR Applet"
+title:"TOA Web DVR"
+title:"Web CMS for DVR"
+title:"STANDALONE DVR"
+title:"Access Remote DVR"
+"Server: Baby Web Server" -title:"Access Remote DVR PCBased"
+title:"Video Server"
+title:"DVR" -title:"DVR WebViewer" -title:"DVR Viewer" -title:"DVR Web " -title:"DVR WEB Client" -title:"DVR IE" -title:"DVR LOGIN" -title:"DVR Components Download" -title:"Web Viewer for Samsung DVR" -title:"DVR Netview" -title:"Web Client for DVR" -title:"Inspire DVR" -title:"dvr client" -title:"DVR System" -title:"DVR REMOTE VIEWER" -title:"DVR WebClient" -title:"DVR -- Detect Java Runtime" -title:"DVR Applet" -title:"TOA Web DVR" -title:"Web CMS for DVR" -title:"STANDALONE DVR" -title:"Access Remote DVR" -title:"Video Server"
+#"Server: NetBox"
+title:"+tm01+"
+Itron
+FlexiDome
+starlight
+Use 'live' as User Name
+title:"bosch security systems"
+title:"PTZ Internet Camera"
+title:"WVC210"
+title:"Network Video Recorder"
+title:"Vilar"
+title:"DCS"
+title:"CAMERA Viewer"
+title:"IP Camera" -title:"Viewer"
+title:"Network Cube Camera"
+title:"Video Surveillance System"
+Lilin
+ReeCam
+iqhttpd
+title:"Live Image"
+#title:"NetCamXL Live Image"
+title:"Live Images"
+title:"IqEye"
+title:"IqEye3"
+box camera
+title:"Login cgicc form"
+title:"Weather Wing"
+U S Software Web Server
+NetBotz Appliance
+"WEB Remote Viewer"
+title:"Web Remote Client"
+title:"Remote Monitoring System"
+title:"Q-SEE"
+server: Indy
+title:"TOSHIBA Network Camera"
+Server: NVS port:"80"
+webcamXP
+"Dahua Technology"
+Avtech
+Hikvision
+GeoHttpServer
+title:"DVR IE"
+netwave camera

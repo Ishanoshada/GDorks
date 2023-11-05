@@ -21,6 +21,12 @@ Give a ⭐️ if this project helped you!
     - Sqli.txt 
     - Sqli2.txt
     - ...
+  - XSS/
+   - XSS.txt
+   - ...
+  - LFI/
+   - LFI.txt
+   - ...
   - wp-dorks/
     - 17k.txt 
     - wp(30K).txt

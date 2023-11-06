@@ -25,6 +25,10 @@ Responsible and ethical security research in the field of CCTV systems is crucia
 
 CCTV systems play a significant role in surveillance and security. Understanding their vulnerabilities is important to prevent potential breaches and ensure the protection of privacy and security.
 
+## Exploring the GDorks Main Repository
+
+The [GDorks repository](https://github.com/Ishanoshada/GDorks/) is a comprehensive resource covering an extensive collection of CCTV dorks, categorized folders, and detailed documentation about various vulnerabilities and security insights related to CCTV.
+
 ## How to Use This Repository
 
 This repository is intended for educational and informational purposes only. It offers insights and discussions about responsible security practices related to CCTV systems. It does not promote or endorse unauthorized access or any unethical behavior.

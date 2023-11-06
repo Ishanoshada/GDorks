@@ -70,7 +70,7 @@ Google dorks follow a particular syntax using advanced search operators that ref
 
 - **intitle**: Searches for pages with a specific keyword in the title.
 
-   Example: `intitle:"OpenAI"` will find pages with "OpenAI" in the title.
+   Example: `intitle:"iahanoshada"` will find pages with "ishanoshada" in the title.
 
 - **inurl**: Searches for URLs containing a specific keyword.
 
@@ -82,7 +82,7 @@ Google dorks follow a particular syntax using advanced search operators that ref
 
 - **site**: Limits the search to a specific website (e.g., `site:example.com`).
 
-   Example: `site:github.com OpenAI` will search for pages mentioning "OpenAI" only on GitHub.
+   Example: `site:github.com ishanoshada` will search for pages mentioning "ishanoshada" only on GitHub.
 
 - **intext**: Searches for pages with a specific keyword in the page content.
 
@@ -142,7 +142,7 @@ Google dorks follow a particular syntax using advanced search operators that ref
 
 - **define**: Provides definitions for a specific term.
 
-   Example: `define:cybersecurity` will define the term "cybersecurity".
+   Example: `define:quantum` will define the term "quantum".
 
 
 

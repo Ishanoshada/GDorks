@@ -1,6 +1,3 @@
-Absolutely! Here's an extended README for a WordPress Dorks repository including sections for WordPress payloads, vulnerabilities, and an expanded dorks list:
-
-```markdown
 # WordPress Dorks Repository
 
 ![WordPress](https://img.shields.io/badge/WordPress-CMS-blue)

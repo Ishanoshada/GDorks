@@ -11,7 +11,6 @@ Welcome to the SQL Injection (SQLi) Dorks repository! This repository contains a
 - [Exploring the GDorks Main Repository](#exploring-the-gdorks-main-repository)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## What is SQL Injection (SQLi)?
 

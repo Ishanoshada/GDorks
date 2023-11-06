@@ -12,7 +12,7 @@ Welcome to the Cross-Site Scripting (XSS) Dorks repository! This repository cont
 - [Exploring the GDorks Main Repository](#exploring-the-gdorks-main-repository)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## What is Cross-Site Scripting (XSS)?
 

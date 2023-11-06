@@ -9,13 +9,15 @@ Give a ⭐️ if this project helped you!
 
 ## File Structure
 
-```bash
+```Markdown
   - Dorks(1M)/
+    - README.md
     - Split #1.txt
     - Split #2.txt
     - Split #3.txt
     - ...
   - More-Dorks/
+    - README.md
     - 7k.txt
     - best2.txt
     - Amazon10k.txt
@@ -23,27 +25,34 @@ Give a ⭐️ if this project helped you!
     - Shoping.txt
     - ...
   - SQLi/
+    - README.md
     - Sqli.txt 
     - Sqli2.txt
     - ...
   - XSS/
+   - README.md
    - XSS.txt
    - ...
   - LFI/
+   - README.md
    - LFI.txt
    - ...
-  - wp-dorks/
+  - WordPress/
+    - README.md
     - 17k.txt 
     - wp(30K).txt
     - ...
   - Joomla/
+   - README.md
    - Joomla.txt
    - Joomla2.txt
    - ...
   - Laravel/
+    - README.md
     - 1.txt
     - ...
   - CCTV/
+   - README.md
    - cctv.txt
    - ...
   - dorks.txt,dorks.json,dorks2.txt,dorks3.txt,dorks2023.txt,dork...

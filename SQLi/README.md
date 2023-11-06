@@ -45,11 +45,22 @@ Here are some examples of SQL Injection (SQLi) dorks:
    inurl:/search.php?q=1' AND IF(1=1, SLEEP(5), 0)--
    ```
 
+
+## Real-World Examples of Advanced SQL Injection Attacks
+
+Here are some real-world examples that demonstrate the impact and severity of advanced SQL Injection attacks:
+
+- **Case Study 1: Extraction of Sensitive Data**: Detailed account of a successful blind SQL Injection attack resulting in the extraction of sensitive user data.
+
+- **Case Study 2: Advanced Chaining of SQL Injection Vectors**: A complex attack involving the combination of multiple SQL Injection techniques to gain administrative privileges.
+
+
 For a broader range of SQL Injection dorks and detailed explanations of various techniques, explore the contents within the [GDorks repository](https://github.com/Ishanoshada/GDorks/).
 
 ## Understanding SQL Injection
 
 SQL Injection can have severe consequences, leading to data breaches, unauthorized access, and data manipulation. It's crucial to understand various techniques such as Blind SQL Injection, Union-based SQL Injection, Error-based SQL Injection, and Time-based SQL Injection to prevent such attacks.
+
 
 ## Exploring the GDorks Main Repository
 

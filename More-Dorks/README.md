@@ -98,8 +98,11 @@ The dorks are organized into folders based on their vulnerability categories. Us
   <img src=x onerror=alert('XSS')>
   ```
 
-(Continued in the same format for other vulnerability types...)
 
+
+## Exploring the GDorks Main Repository
+
+The [GDorks repository](https://github.com/Ishanoshada/GDorks/) is a comprehensive resource that contains an extensive collection of  dorks, categorized folders, and detailed documentation covering various cyber attack vectors, methods, and tools.
 
 
 ## Contributing

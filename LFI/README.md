@@ -10,7 +10,7 @@ Welcome to the Local File Inclusion (LFI) Dorks repository! This repository hold
 - [Understanding LFI](#understanding-lfi)
 - [Advanced LFI Concepts](#advanced-lfi-concepts)
 - [Exploring the GDorks Main Repository](#exploring-the-gdorks-main-repository)
-- [Local File Inclusion (LFI) Payloads](#local-file-inclusion-(LFI)-payloads)
+- [Local File Inclusion (LFI) Payloads](#local-file-inclusion-payloads)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
 
@@ -49,7 +49,7 @@ Understanding LFI vulnerabilities is crucial. Exploiting an LFI can allow an att
 
 Advanced LFI involves bypassing filters, manipulating input parameters, and escalating access. Techniques include using wrapper protocols (such as data://, php://, and file://), directory traversal attacks, and exploiting different web server configurations.
 
-## Local File Inclusion (LFI) Payloads
+## Local File Inclusion Payloads
 
 Here are various payloads useful for testing LFI vulnerabilities in web applications:
 

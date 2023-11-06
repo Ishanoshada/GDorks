@@ -9,7 +9,7 @@ Give a ⭐️ if this project helped you!
 
 ## File Structure
 
-```bash
+```Markdown
   - Dorks(1M)/
     - README.md
     - Split #1.txt

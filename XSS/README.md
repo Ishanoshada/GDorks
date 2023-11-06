@@ -9,6 +9,7 @@ Welcome to the Cross-Site Scripting (XSS) Dorks repository! This repository cont
 - [Examples of Cross-Site Scripting (XSS) Dorks](#examples-of-cross-site-scripting-xss-dorks)
 - [Understanding XSS](#understanding-xss)
 - [Advanced XSS Concepts](#advanced-xss-concepts)
+- [Comprehensive Cross-Site Scripting (XSS) Payloads](#Comprehensive-Cross-Site-Scripting-(XSS)-Payloads)
 - [Exploring the GDorks Main Repository](#exploring-the-gdorks-main-repository)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)

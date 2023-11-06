@@ -32,7 +32,7 @@ Give a ⭐️ if this project helped you!
   - LFI/
    - LFI.txt
    - ...
-  - wp-dorks/
+  - WordPress/
     - 17k.txt 
     - wp(30K).txt
     - ...

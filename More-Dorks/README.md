@@ -1,6 +1,3 @@
-Certainly! Here's an extended and detailed documentation for your "More Dorks" repository, including a table of contents and additional file listings:
-
-```markdown
 # More Dorks Repository
 
 Welcome to the More Dorks repository, a comprehensive collection of categorized dorks by vulnerability types for identifying security weaknesses in web applications.

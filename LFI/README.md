@@ -10,6 +10,7 @@ Welcome to the Local File Inclusion (LFI) Dorks repository! This repository hold
 - [Understanding LFI](#understanding-lfi)
 - [Advanced LFI Concepts](#advanced-lfi-concepts)
 - [Exploring the GDorks Main Repository](#exploring-the-gdorks-main-repository)
+- [Local File Inclusion (LFI) Payloads](#local-file-inclusion-(LFI)-payloads)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
 

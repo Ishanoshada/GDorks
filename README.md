@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-txt-orange)
 
-Give a ⭐️ 
+Give a ⭐️
 
 Welcome to the fascinating world of Google dorks, where we unveil the secret pathways of the internet! 🚀
 
@@ -56,7 +56,8 @@ Welcome to the fascinating world of Google dorks, where we unveil the secret pat
    - ...
   - Netflix/
    - 48.txt
-  - dorks.txt,dorks.json,dorks2.txt,dorks3.txt,dorks2023.txt,dork...
+   - ...
+  - dorks.txt,dorks.json,dorks2.txt,dorks3.txt,dorks-2023.txt,dork...
 
 ```
 

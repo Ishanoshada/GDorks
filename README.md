@@ -2,10 +2,9 @@
 
 ![Language](https://img.shields.io/badge/language-txt-orange)
 
+Give a ⭐️ 
 
 Welcome to the fascinating world of Google dorks, where we unveil the secret pathways of the internet! 🚀
-
-Give a ⭐️ 
 
 ## File Structure
 
@@ -503,6 +502,6 @@ Help build a comprehensive and responsible Google dork list! Contribute ethicall
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ 
 
 > Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking! 

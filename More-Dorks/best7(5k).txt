@@ -1,3 +1,4 @@
+https://github.com/Ishanoshada/GDorks/
 inurl:cp.php?cl=cp nowmenuid=
 allintitle: "index of/admin"
 allintitle: "index of/root"

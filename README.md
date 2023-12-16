@@ -1,4 +1,4 @@
-# Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories + [3M+ Dorks] ) 🌐
+# Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories + [3M++ Dorks] ) 🌐
 
 ![Language](https://img.shields.io/badge/language-txt-orange)
 
@@ -510,4 +510,7 @@ Give a ⭐️ if this project helped you!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Ishanoshada/GDorks&type=Date)](https://star-history.com/#ishanoshada/GDorks&Date) 
 
-> Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking! 
+> Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking!
+
+
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

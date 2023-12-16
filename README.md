@@ -508,7 +508,14 @@ Give a ⭐️ if this project helped you!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ishanoshada/GDorks&type=Date)](https://star-history.com/#ishanoshada/GDorks&Date) 
+<a href="https://star-history.com/#ishanoshada/GDorks&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ishanoshada/GDorks&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ishanoshada/GDorks&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ishanoshada/GDorks&type=Date" />
+  </picture>
+</a>
+
 
 > Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking!
 

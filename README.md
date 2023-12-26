@@ -563,9 +563,8 @@ The repository is periodically updated to include new dorks and improve existing
 ### I Found a Security Vulnerability. What Should I Do?
 
 If you discover a security vulnerability, please report it responsibly to the website owner or administrator. Do not exploit or disclose vulnerabilities publicly.
-
-For more questions, check our full [FAQ section](FAQ.md).
 ```
+For more questions, check our full [FAQ section](FAQ.md).
 
 > Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking!
 

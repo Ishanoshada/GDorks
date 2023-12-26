@@ -4,6 +4,27 @@
 
 Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 
+## Table of Contents
+- [Explore the Depths](#explore-the-depths)
+- [File Structure](#file-structure)
+- [What are Google Dorks?](#what-are-google-dorks)
+- [Syntax and Usage](#syntax-and-usage)
+- [Usage](#usage)
+- [Categories to Explore](#categories-to-explore)
+  - [Webcams - Peeking into the World](#webcams---peeking-into-the-world)
+  - [SQL Injection (SQLi)](#sql-injection-sqli)
+  - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
+  - [Vulnerable Servers - Uncovering Weaknesses](#vulnerable-servers---uncovering-weaknesses)
+  - [Sensitive Directories - Beware of Hidden Paths](#sensitive-directories---beware-of-hidden-paths)
+  - [Database Files - Unveiling Sensitive Data](#database-files---unveiling-sensitive-data)
+- [Additional Google Dork Syntax Examples](#additional-google-dork-syntax-examples)
+- [Country-Specific Google Dork Lists](#country-specific-google-dork-lists)
+- [Contribute and Discover](#contribute-and-discover)
+- [Show Your Support](#show-your-support)
+- [Disclaimer](#disclaimer)
+- [Repository Views](#repository-views)
+
+
 ## Explore the Depths
 
 Dive into the world of Google dorks with over 320+ categories and a whopping 3M+ dorks waiting to be uncovered! Give us a ⭐️ if you find this project helpful!

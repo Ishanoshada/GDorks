@@ -4,59 +4,6 @@
 
 Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 
-## Table of Contents
-
-1. [Introduction](#google-dork-list---uncover-the-hidden-gems-of-the-internet-)
-   - [Explore the Depths](#explore-the-depths)
-   - [File Structure](#file-structure)
-   - [What are Google Dorks?](#-what-are-google-dorks)
-   - [Syntax and Usage](#-syntax-and-usage)
-   - [Usage](#usage)
-
-2. [Categories to Explore](#-categories-to-explore)
-   - [Webcams - Peek into the World](#webcams---peek-into-the-world)
-   - [SQL Injection (SQLi)](#sql-injection-sqli)
-   - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
-   - [Vulnerable Servers - Uncovering Weaknesses](#vulnerable-servers---uncovering-weaknesses)
-   - [Sensitive Directories - Beware of Hidden Paths](#sensitive-directories---beware-of-hidden-paths)
-   - [Database Files - Unveiling Sensitive Data](#database-files---unveiling-sensitive-data)
-
-3. [Additional Syntax Examples](#-additional-syntax-examples)
-   - [Finding URLs with a Specific Keyword](#finding-urls-with-a-specific-keyword)
-   - [Excluding Specific Terms](#excluding-specific-terms)
-   - [Searching for Pages with a Specific Title](#searching-for-pages-with-a-specific-title)
-   - [Looking for Pages with a Specific Extension](#looking-for-pages-with-a-specific-extension)
-   - [Finding Social Media Profiles](#finding-social-media-profiles)
-   - [Locating Login Pages](#locating-login-pages)
-   - [Exploring Subdomains](#exploring-subdomains)
-   - [Finding Vulnerable Webcams](#finding-vulnerable-webcams)
-   - [Discovering Exposed Git Repositories](#discovering-exposed-git-repositories)
-   - [Uncovering Open Directories](#uncovering-open-directories)
-   - [Identifying Exposed Elasticsearch Instances](#identifying-exposed-elasticsearch-instances)
-   - [Hunting for Configuration Files](#hunting-for-configuration-files)
-   - [Revealing WordPress Configuration Files](#revealing-wordpress-configuration-files)
-   - [Finding AWS Access Keys](#finding-aws-access-keys)
-   - [Finding Vulnerable PHP Scripts](#finding-vulnerable-php-scripts)
-   - [Locating Exposed Admin Panels](#locating-exposed-admin-panels)
-   - [Discovering Network Devices with Default Credentials](#discovering-network-devices-with-default-credentials)
-   - [Exploring Database Backup Files](#exploring-database-backup-files)
-   - [Identifying Exposed MongoDB Instances](#identifying-exposed-mongodb-instances)
-   - [Hunting for Backup Files](#hunting-for-backup-files)
-   - [Uncovering Exposed Jenkins Instances](#uncovering-exposed-jenkins-instances)
-   - [Finding Apache Struts Vulnerabilities](#finding-apache-struts-vulnerabilities)
-   - [Discovering Exposed WordPress Theme Files](#discovering-exposed-wordpress-theme-files)
-   - [Locating Exposed GitLab Repositories](#locating-exposed-gitlab-repositories)
-   - [Hunting for Exposed Jupyter Notebooks](#hunting-for-exposed-jupyter-notebooks)
-   - [Finding Misconfigured Jenkins Instances](#finding-misconfigured-jenkins-instances)
-   - [Exploring Exposed Grafana Dashboards](#exploring-exposed-grafana-dashboards)
-
-4. [Country-Specific Google Dork Lists](#country-specific-google-dork-lists)
-
-5. [Contribute and Discover](#contribute-and-discover)
-
-6. [Show Your Support](#show-your-support)
-
-7. [Disclaimer](#disclaimer)
 ## Explore the Depths
 
 Dive into the world of Google dorks with over 320+ categories and a whopping 3M+ dorks waiting to be uncovered! Give us a ⭐️ if you find this project helpful!

@@ -74,7 +74,7 @@ Google dorks follow a particular syntax using advanced search operators that ref
 
 - **intitle**: Searches for pages with a specific keyword in the title.
 
-   Example: `intitle:"iahanoshada"` will find pages with "ishanoshada" in the title.
+   Example: `intitle:"ishanoshada"` will find pages with "ishanoshada" in the title.
 
 - **inurl**: Searches for URLs containing a specific keyword.
 
@@ -134,7 +134,7 @@ Google dorks follow a particular syntax using advanced search operators that ref
 
 - **map**: Displays a map centered around a specific location.
 
-   Example: `map:New York` will display a map centered around New York.
+   Example: `map:Sri Lanka` will display a map centered around New York.
 
 - **movie showtimes**: Provides movie showtimes for a specific location.
 

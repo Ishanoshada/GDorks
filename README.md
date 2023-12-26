@@ -530,7 +530,7 @@ This list is for educational purposes only. Use Google dorks responsibly, respec
 Happy dorking! 🌟
 
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/GDorks/count.svg)
+## Repository Views ![Views](https://profile-counter.glitch.me/GDorks/count.svg)
 
 ## Star History
 

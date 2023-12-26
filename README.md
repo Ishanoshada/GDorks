@@ -1,10 +1,35 @@
-# Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories + [3M+ Dorks] ) 🌐
+# GDorks: Uncover the Hidden Gems of the Internet 🌐
 
 ![Language](https://img.shields.io/badge/language-txt-orange)
+[![Dorks](https://img.shields.io/badge/Dorks-Discover%20the%20Internet-blue)](https://img.shields.io/)
 
-Give a ⭐️ if this project helped you!
 
-Welcome to the fascinating world of Google dorks, where we unveil the secret pathways of the internet! 🚀
+Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
+
+## Table of Contents
+- [Explore the Depths](#explore-the-depths)
+- [File Structure](#file-structure)
+- [What are Google Dorks?](#what-are-google-dorks)
+- [Syntax and Usage](#syntax-and-usage)
+- [Usage](#usage)
+- [Categories to Explore](#categories-to-explore)
+  - [Webcams - Peeking into the World](#webcams---peeking-into-the-world)
+  - [SQL Injection (SQLi)](#sql-injection-sqli)
+  - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
+  - [Vulnerable Servers - Uncovering Weaknesses](#vulnerable-servers---uncovering-weaknesses)
+  - [Sensitive Directories - Beware of Hidden Paths](#sensitive-directories---beware-of-hidden-paths)
+  - [Database Files - Unveiling Sensitive Data](#database-files---unveiling-sensitive-data)
+- [Additional Google Dork Syntax Examples](#additional-google-dork-syntax-examples)
+- [Country-Specific Google Dork Lists](#country-specific-google-dork-lists)
+- [Contribute and Discover](#contribute-and-discover)
+- [Show Your Support](#show-your-support)
+- [Disclaimer](#disclaimer)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+
+
+## Explore the Depths
+
+Dive into the world of Google dorks with over 320+ categories and a whopping 3M+ dorks waiting to be uncovered! Give us a ⭐️ if you find this project helpful!
 
 ## File Structure
 
@@ -72,7 +97,7 @@ Google dorks follow a particular syntax using advanced search operators that ref
 
 - **intitle**: Searches for pages with a specific keyword in the title.
 
-   Example: `intitle:"iahanoshada"` will find pages with "ishanoshada" in the title.
+   Example: `intitle:"ishanoshada"` will find pages with "ishanoshada" in the title.
 
 - **inurl**: Searches for URLs containing a specific keyword.
 
@@ -132,7 +157,7 @@ Google dorks follow a particular syntax using advanced search operators that ref
 
 - **map**: Displays a map centered around a specific location.
 
-   Example: `map:New York` will display a map centered around New York.
+   Example: `map:Sri Lanka` will display a map centered around New York.
 
 - **movie showtimes**: Provides movie showtimes for a specific location.
 
@@ -147,8 +172,6 @@ Google dorks follow a particular syntax using advanced search operators that ref
    Example: `define:quantum` will define the term "quantum".
 
 
-
-
 ## Usage
 
 1. **Clone the Repository**: Clone this repository to your local machine to access the Google dork list.
@@ -161,7 +184,7 @@ git clone https://github.com/ishanoshada/GDorks.git
 
 3. **Using Google Dorks**: To use these dorks, simply copy and paste a dork of your choice into the Google search bar or use them with specialized search tools designed for Google hacking. Remember to exercise caution and ensure you are using these dorks responsibly and legally.
 
-
+## Categories to Explore
 
 ## 🔍 Category: Webcams - Peeking into the World
 
@@ -453,7 +476,7 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
     - `intitle:"Grafana"` - Searches for Grafana dashboard pages.
 
 
-## 🌍 Country-Specific Google Dork Lists
+## Country-Specific Google Dork Lists
 
 | Country          | Most Used Dork List                                              | Security Level (%) |
 |------------------|-----------------------------------------------------------------|-------------------|
@@ -494,17 +517,22 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
 | Afghanistan      | "inurl:/servlet/Main" "filetype:sql intext:username password" | 75                |
 | Kazakhstan       | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
 
-## Google Dork List - Contribute and Discover
+# Contribute and Discover
 
-Help build a comprehensive and responsible Google dork list! Contribute ethically and let's explore the internet responsibly together.
+Join the quest to build a comprehensive and responsible Google dork list. Contribute ethically and explore the internet responsibly with GDorks!
 
+## Show Your Support
+
+Give us a ⭐️ if GDorks has been your guide in the vast online landscape!
+
+## Disclaimer
+
+This list is for educational purposes only. Use Google dorks responsibly, respect privacy, intellectual property, and abide by all laws and regulations. Let's make the internet safer and more secure together!
+
+Happy dorking! 🌟
 
 
 **Repository Views** ![Views](https://profile-counter.glitch.me/GDorks/count.svg)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## Star History
 
@@ -516,6 +544,29 @@ Give a ⭐️ if this project helped you!
   </picture>
 </a>
 
+
+### Frequently Asked Questions (FAQ)
+
+```markdown
+## Frequently Asked Questions (FAQ)
+
+### What are Google Dorks?
+
+Google dorks are specialized search queries that use advanced search operators to refine Google searches. They help users find specific information that might be overlooked in regular searches.
+
+### Can I Use GDorks for Malicious Activities?
+
+No, GDorks is intended for educational purposes only. Any unauthorized or malicious use is strictly prohibited. Use GDorks responsibly, respecting privacy and legal boundaries.
+
+### How Often is GDorks Updated?
+
+The repository is periodically updated to include new dorks and improve existing ones. You can contribute to the project by submitting your dorks or enhancements.
+
+### I Found a Security Vulnerability. What Should I Do?
+
+If you discover a security vulnerability, please report it responsibly to the website owner or administrator. Do not exploit or disclose vulnerabilities publicly.
+```
+For more questions, check our full [FAQ section](FAQ.md).
 
 > Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking!
 

@@ -22,6 +22,7 @@ Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 - [Contribute and Discover](#contribute-and-discover)
 - [Show Your Support](#show-your-support)
 - [Disclaimer](#disclaimer)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 
 
 ## Explore the Depths
@@ -541,6 +542,30 @@ Happy dorking! 🌟
   </picture>
 </a>
 
+
+### Frequently Asked Questions (FAQ)
+
+```markdown
+## Frequently Asked Questions (FAQ)
+
+### What are Google Dorks?
+
+Google dorks are specialized search queries that use advanced search operators to refine Google searches. They help users find specific information that might be overlooked in regular searches.
+
+### Can I Use GDorks for Malicious Activities?
+
+No, GDorks is intended for educational purposes only. Any unauthorized or malicious use is strictly prohibited. Use GDorks responsibly, respecting privacy and legal boundaries.
+
+### How Often is GDorks Updated?
+
+The repository is periodically updated to include new dorks and improve existing ones. You can contribute to the project by submitting your dorks or enhancements.
+
+### I Found a Security Vulnerability. What Should I Do?
+
+If you discover a security vulnerability, please report it responsibly to the website owner or administrator. Do not exploit or disclose vulnerabilities publicly.
+
+For more questions, check our full [FAQ section](FAQ.md).
+```
 
 > Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking!
 

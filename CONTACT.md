@@ -30,15 +30,14 @@ To stay informed about GDorks updates, releases, and announcements, consider "wa
 
 Connect with us on social media for additional updates, discussions, and cybersecurity insights:
 
-- [Twitter](https://twitter.com/GDorksOfficial)
-- [LinkedIn](https://www.linkedin.com/company/gdorks)
-- [Reddit](https://www.reddit.com/r/GDorks)
+- [Twitter](https://twitter.com/ishan_oshada)
+- [LinkedIn](https://lk.linkedin.com/in/ishan-oshada-860b971ba)
 
 ## Security Concerns
 
 If you discover any security vulnerabilities in GDorks or have concerns related to security, please reach out directly to the maintainers via email.
 
-Email: security@gdorks.com
+Email: ishan.kodithuwakku.official@gmail.com
 
 ## Licensing
 

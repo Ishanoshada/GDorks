@@ -474,7 +474,7 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
     - `intitle:"Grafana"` - Searches for Grafana dashboard pages.
 
 
-## 🌍 Country-Specific Google Dork Lists
+## Country-Specific Google Dork Lists
 
 | Country          | Most Used Dork List                                              | Security Level (%) |
 |------------------|-----------------------------------------------------------------|-------------------|

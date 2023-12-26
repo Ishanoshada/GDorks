@@ -1,6 +1,8 @@
 # GDorks: Uncover the Hidden Gems of the Internet 🌐
 
 ![Language](https://img.shields.io/badge/language-txt-orange)
+[![Dorks](https://img.shields.io/badge/Dorks-Discover%20the%20Internet-blue)](https://img.shields.io/)
+
 
 Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 

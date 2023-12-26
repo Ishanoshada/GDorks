@@ -182,7 +182,7 @@ git clone https://github.com/ishanoshada/GDorks.git
 
 3. **Using Google Dorks**: To use these dorks, simply copy and paste a dork of your choice into the Google search bar or use them with specialized search tools designed for Google hacking. Remember to exercise caution and ensure you are using these dorks responsibly and legally.
 
-
+## Categories to Explore
 
 ## 🔍 Category: Webcams - Peeking into the World
 

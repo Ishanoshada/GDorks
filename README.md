@@ -6,6 +6,8 @@
 
 Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 
+Give us a ⭐️ if you find this project helpful!
+ <!--
 ## Table of Contents
 - [Explore the Depths](#explore-the-depths)
 - [File Structure](#file-structure)
@@ -26,10 +28,11 @@ Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 - [Disclaimer](#disclaimer)
 - [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 
+-->
 
 ## Explore the Depths
 
-Dive into the world of Google dorks with over 320+ categories and a whopping 3M+ dorks waiting to be uncovered! Give us a ⭐️ if you find this project helpful!
+Dive into the world of Google dorks with over 320+ categories and a whopping 3M+ dorks waiting to be uncovered!
 
 ## File Structure
 

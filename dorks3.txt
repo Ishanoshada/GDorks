@@ -361,6 +361,8 @@ intext:"powered by gcards" -ihackstuff -exploit
 "powered by claroline" -demo
 "PhpCollab . Log In" | "NetOffice . Log In" | (intitle:"index.of." intitle:phpcollab|netoffice inurl:phpcollab|netoffice -gentoo)
 intext:"2000-2001 The phpHeaven Team" -sourceforge
+
+
 intext:"2000-2001 The phpHeaven Team" -sourceforge
 "2004-2005 ReloadCMS Team."
 "powered by phplist" | inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe" -ubbi -bugs +phplist -tincan.co.uk

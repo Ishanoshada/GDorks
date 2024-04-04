@@ -10,6 +10,7 @@ intext:"joomla! 1.7 - Open Source Content Management"
 intext:"joomla! 1.6 - Open Source Content Management"
 intext:Joomla 1.6 inurl:index.php/login
 intext:Joomla 1.7 inurl:index.php/login
+https://github.com/Ishanoshada/GDorks/
 intext:Joomla 1.6 inurl:index.php/registration
 intext:Joomla 1.7 inurl:index.php/registration
 inurl:index.php/plugins site:

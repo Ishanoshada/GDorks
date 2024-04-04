@@ -525,6 +525,7 @@ homepage.php?sel=
 /ppa/inc/functions.inc.php?config[ppa_root_path]=
 /spid/lang/lang.php?lang_path=
 /classes.php?LOCAL_PATH=
+https://github.com/Ishanoshada/GDorks/
 al_initialize.php?alpath=
 /modules/newbb_plus/class/forumpollrenderer.php?bbPath[path]=
 /index.php?_REQUEST=&_REQUEST[option]=com_content&_REQUEST[Itemid]=1&GLOBALS=&mosConfig_absolute_path=

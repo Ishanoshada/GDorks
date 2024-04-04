@@ -21,6 +21,7 @@ inurl:& inurl:input
 inurl:& inurl:next
 inurl:& inurl:target
 inurl:search inurl:page
+https://github.com/Ishanoshada/GDorks/
 inurl:search inurl:p
 inurl:query filetype:html inurl:page
 inurl:query filetype:html inurl:sort

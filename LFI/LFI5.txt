@@ -327,6 +327,7 @@ s5clanroster&view= "com_ s5clanroster"
 !lfi /index.php?option=com_
 s5clanroster&controller= "com_
 s5clanroster"
+https://github.com/Ishanoshada/GDorks/
 !lfi /index.php?option=com_
 wgpicasa&controller= "com_ wgpicasa"
 !lfi /index.php?option=com_

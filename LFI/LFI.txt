@@ -47,6 +47,7 @@
 /becommunity/community/index.php?pageurl=
 /GradeMap/index.php?page=
 /mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]=
+https://github.com/Ishanoshada/GDorks/
 /zentrack/index.php?configFile=
 /pivot/modules/module_db.php?pivot_path=
 /inc/header.php/step_one.php?server_inc=

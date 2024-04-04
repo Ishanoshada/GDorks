@@ -16,6 +16,7 @@ inurl:"com_joomlaradiov5"
 "com_joom12pic"
 inurl:index.php?option=com_joomradio
 inurl:com_joomladate
+https://github.com/Ishanoshada/GDorks/
 "index.php?option=com_news_portal" or "Powered by iJoomla News Portal"
 Joomla Component com_eportfolio Upload Vulnerability
 intitle:"Joomla - Web Installer"

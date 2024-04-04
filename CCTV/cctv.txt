@@ -14,6 +14,7 @@ intitle:”live view” intitle:axis
 intitle:liveapplet
 allintitle:”Network Camera NetworkCamera” (disconnected)
 intitle:axis intitle:”video server”
+https://github.com/Ishanoshada/GDorks/
 intitle:liveapplet inurl:LvAppl
 intitle:”EvoCam” inurl:”webcam.html”
 intitle:”Live NetSnap Cam-Server feed”

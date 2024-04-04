@@ -14,6 +14,7 @@ inurl:".php?from="
 inurl:".php?author="
 inurl:".php?pass="
 inurl:".php?feedback­="
+https://github.com/Ishanoshada/GDorks/
 inurl:".php?mail="
 inurl:".php?cat="
 inurl:".php?vote="

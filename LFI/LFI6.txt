@@ -59,6 +59,7 @@ showfile=
 side=
 site_id=
 skin=
+https://github.com/Ishanoshada/GDorks/
 static=
 str=
 strona=

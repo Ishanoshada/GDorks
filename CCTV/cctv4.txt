@@ -43,7 +43,9 @@ inurl:home/
 intitle:”sony network camera snc-p1?
 intitle:”sony network camera snc-m1?
 site:.viewnetcam.com -www.viewnetcam.com
-intitle:”Toshiba Network Camera” user login intitle:”netcam live image”
+intitle:”Toshiba Network Camera” user
+https://github.com/Ishanoshada/GDorks/
+login intitle:”netcam live image”
 intitle:”i-Catcher Console – Web Monitor”
 inurl:/home/home
 “Kamerainformationen anzeigen”

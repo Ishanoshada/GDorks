@@ -49,6 +49,7 @@ index.php?sec=
 index.php?content=
 index.php?link=
 index.php?filename=
+https://github.com/Ishanoshada/GDorks/
 index.php?dir=
 index.php?document=
 index.php?view=

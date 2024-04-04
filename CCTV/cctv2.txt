@@ -142,7 +142,9 @@ title:"STANDALONE DVR"
 title:"Access Remote DVR"
 "Server: Baby Web Server" -title:"Access Remote DVR PCBased"
 title:"Video Server"
-title:"DVR" -title:"DVR WebViewer" -title:"DVR Viewer" -title:"DVR Web " -title:"DVR WEB Client" -title:"DVR IE" -title:"DVR LOGIN" -title:"DVR Components Download" -title:"Web Viewer for Samsung DVR" -title:"DVR Netview" -title:"Web Client for DVR" -title:"Inspire DVR" -title:"dvr client" -title:"DVR System" -title:"DVR REMOTE VIEWER" -title:"DVR WebClient" -title:"DVR -- Detect Java Runtime" -title:"DVR Applet" -title:"TOA Web DVR" -title:"Web CMS for DVR" -title:"STANDALONE DVR" -title:"Access Remote DVR" -title:"Video Server"
+title:"DVR" -title:"DVR WebViewer" -title:"DVR Viewer" -title:"DVR Web " -title:"DVR WEB Client" -title:"DVR IE" -title:"DVR LOGIN" -title:"DVR Components Download" -title:"Web Viewer for Samsung DVR" -title:"DVR Netview" -title:"Web Client for DVR" -title:"Inspire DVR" -title:"dvr client" -title:"DVR System" -title:"DVR REMOTE VIEWER" -title:"DVR WebClient" -title:"DVR -- Detect Java Runtime" -title:"DVR Applet" -title:"TOA Web DVR" -title:"Web CMS for DVR" -
+https://github.com/Ishanoshada/GDorks/
+title:"STANDALONE DVR" -title:"Access Remote DVR" -title:"Video Server"
 #"Server: NetBox"
 title:"+tm01+"
 Itron

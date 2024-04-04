@@ -46,6 +46,7 @@ inurl:index.php?option=com_avosbillets:@!query:option=com_avosbillets&task=view&
 inurl:index.php?option=com_gurujibook:@!query:option=com_gurujibook&task=showPDF&bookid=ish
 inurl:index.php?option=com_biographies:@!query:option=com_biographies&task=showFile&biobookid=ish
 inurl:index.php?option=com_contentbloglist:@!query:option=com_contentbloglist&task=listmonth&year=2010&month=1&section_id=[SQL]&Itemid=ish
+https://github.com/Ishanoshada/GDorks/
 inurl:index.php?option=com_casino:@!query:option=com_casino&task=category&id=ish
 inurl:index.php?option=com_kunena:@!query:option=com_kunena&Itemid=86&func=announcement&do=ish
 inurl:index.php?option=com_content:@!query:option=com_content&view=article&id=ish

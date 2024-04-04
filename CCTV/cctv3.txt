@@ -38,6 +38,7 @@ intitle:”Live View / - AXIS”
 intitle:”Live View / - AXIS 206W”
 intitle:”Live View / - AXIS 210″
 inurl:indexFrame.shtml Axis
+https://github.com/Ishanoshada/GDorks/
 intitle:”Live View / - AXIS 206M”
 inurl:”MultiCameraFrame?Mode=Motion”
 allintitle:”Network Camera NetworkCamera”

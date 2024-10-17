@@ -9,7 +9,7 @@ Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 Give us a ⭐️ if you find this project helpful!
 
 
-<h2 align="center"> ⭐️ My latest projects. Check Out!!!!  </a><br>
+<h2 align="center"> ⭐️ My latest projects. Check it out!!!!  </a><br><br>
 <div align="center">
 <a href="https://github.com/ishanoshada/portflair">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanoshada&repo=portflair&theme=dark&show_owner=true" alt="Repository Card"/>

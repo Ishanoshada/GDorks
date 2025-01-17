@@ -493,44 +493,34 @@ filetype:env intext:AWS_SECRET_ACCESS_KEY
 
 ## Country-Specific Google Dork Lists
 
-| Country          | Most Used Dork List                                              | Security Level (%) |
-|------------------|-----------------------------------------------------------------|-------------------|
-| United States    | "inurl:/view.shtml" "intitle:\"Live View / - AXIS\""           | 85                |
-| India            | "inurl:\"product.php?pid=\"" "inurl:\"category.php?id=\""     | 70                |
-| United Kingdom   | "inurl:\"search.php?q=\"" "inurl:\"results.php?q=\""         | 80                |
-| Australia        | "intitle:\"Test Page for the Apache Web Server on Fedora Core\"" | 75                |
-| Canada           | "intitle:\"Test Page for the Nginx HTTP Server\""            | 80                |
-| Germany          | "intitle:\"Index of /admin\"" "intitle:\"Index of /config\"" | 85                |
-| France           | "filetype:sql intext:username password" "intext:\"Error 404: Not Found\"" | 75                |
-| Brazil           | "inurl:\"/uc?id=\"" "filetype:env intext:AWS_SECRET_ACCESS_KEY" | 70                |
-| Japan            | "intext:\"Error 404: Not Found\"" "inurl:/wp-admin"          | 80                |
-| South Africa     | "filetype:php inurl:info" "filetype:pem intext:PRIVATE KEY"   | 75                |
-| Russia           | "intitle:\"index of\" \"backup\"" "filetype:xls inurl:admin" | 70                |
-| China            | "inurl:\"/web-console/ServerInfo.jsp\"" "intext:password filetype:log" | 85                |
-| Mexico           | "intext:\"Index of /backup\"" "filetype:log inurl:web.config" | 75                |
-| Spain            | "intitle:\"index of\" \"passwords.txt\"" "filetype:txt inurl:config" | 80                |
-| Italy            | "intitle:\"Index of /config\"" "filetype:xml inurl:admin"     | 80                |
-| Argentina        | "inurl:\"/wp-admin\" intitle:\"login\"" "intext:\"Index of /wp-content/uploads\"" | 75                |
-| Nigeria          | "intitle:\"index of\" \"database.sql\"" "filetype:ini inurl:admin" | 70                |
-| Saudi Arabia     | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 85                |
-| Netherlands      | "inurl:/console/login/LoginForm.jsp" "filetype:log inurl:admin" | 80                |
-| Indonesia        | "inurl:/cgi-bin/printer/printer.cgi" "filetype:reg inurl:web.config" | 75                |
-| Turkey           | "intitle:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 80                |
-| South Korea      | "inurl:/servlet/Main" "filetype:sql intext:username password" | 80                |
-| Thailand         | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
-| Egypt            | "inurl:/console/login/LoginForm.jsp" "filetype:txt inurl:admin" | 70                |
-| Singapore        | "intext:\"index of\" \"database.sql\"" "filetype:ini inurl:admin" | 80                |
-| Malaysia         | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
-| Philippines      | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 75                |
-| Vietnam          | "inurl:/console/login/LoginForm.jsp" "filetype:log inurl:admin" | 75                |
-| Bangladesh       | "intext:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 70                |
-| Sri Lanka        | "inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql intext:username password" | 70                |
-| Israel           | "intitle:\"Index of /admin\"" "filetype:xls inurl:admin"     | 80                |
-| Pakistan         | "intitle:\"index of\" \"passwords.txt\"" "filetype:txt inurl:config" | 70                |
-| Iran             | "inurl:/cgi-bin/printer/printer.cgi" "filetype:reg inurl:web.config" | 75                |
-| Iraq             | "intitle:\"index of\" \"config.txt\"" "filetype:xml inurl:admin" | 70                |
-| Afghanistan      | "inurl:/servlet/Main" "filetype:sql intext:username password" | 75                |
-| Kazakhstan       | "intitle:\"index of\" \"config.xml\"" "filetype:log inurl:web.config" | 75                |
+
+| **Country**          | **Most Used Dork List**                                              | **Security Level (%)** |
+|----------------------|--------------------------------------------------------------------|------------------------|
+| **United States**    | `"inurl:/view.shtml" "intitle:\"Live View / - AXIS\""`             | 85                     |
+| **India**            | `"inurl:\"product.php?pid=\"" "inurl:\"category.php?id=\""`        | 75                     |
+| **United Kingdom**   | `"inurl:\"search.php?q=\"" "inurl:\"results.php?q=\""`             | 80                     |
+| **Australia**        | `"intitle:\"Test Page for Apache Server\"" "inurl:admin"`          | 78                     |
+| **Canada**           | `"intitle:\"Test Page for Nginx HTTP Server\"" "filetype:log"`     | 82                     |
+| **Germany**          | `"intitle:\"Index of /admin\"" "filetype:sql intext:password"`     | 85                     |
+| **France**           | `"filetype:sql intext:username password" "intext:\"Error 404\""`   | 78                     |
+| **Brazil**           | `"filetype:env intext:AWS_SECRET_ACCESS_KEY" "inurl:/uc?id="`      | 75                     |
+| **Japan**            | `"inurl:/wp-admin" "filetype:log inurl:config"`                    | 80                     |
+| **South Africa**     | `"filetype:pem intext:PRIVATE KEY" "filetype:php inurl:info"`      | 76                     |
+| **Russia**           | `"intitle:\"index of\" \"backup\"" "filetype:xls inurl:admin"`     | 72                     |
+| **China**            | `"inurl:/web-console/ServerInfo.jsp" "filetype:log intext:password"` | 85                  |
+| **Mexico**           | `"intext:\"Index of /backup\"" "filetype:log inurl:web.config"`    | 76                     |
+| **Spain**            | `"intitle:\"index of\" \"passwords.txt\"" "filetype:txt inurl:config"` | 80                  |
+| **Italy**            | `"intitle:\"Index of /config\"" "filetype:xml inurl:admin"`        | 80                     |
+| **Sri Lanka**        | `"filetype:sql intext:username password" "inurl:console/"`         | 70                     |
+| **Bangladesh**       | `"intitle:\"index of\" \"config.txt\"" "filetype:xml inurl:admin"` | 72                     |
+| **Philippines**      | `"filetype:sql intext:username password" "inurl:/console"`         | 75                     |
+| **Indonesia**        | `"inurl:/cgi-bin/printer/printer.cgi" "filetype:reg inurl:web.config"` | 75                  |
+| **South Korea**      | `"filetype:sql intext:username password" "inurl:/servlet/Main"`    | 80                     |
+| **Vietnam**          | `"filetype:log inurl:admin" "intitle:\"index of\" \"config.xml\""` | 75                     |
+| **Saudi Arabia**     | `"inurl:/console/CrystalReportsWebFormViewer.aspx" "filetype:sql"` | 85                     |
+| **Israel**           | `"filetype:xls inurl:admin" "intitle:\"Index of /admin\""`         | 80                     |
+| **Pakistan**         | `"intitle:\"index of\" \"passwords.txt\" "filetype:txt inurl:config"` | 72                  |
+| **Iran**             | `"filetype:reg inurl:web.config" "inurl:/cgi-bin/printer"`         | 75                     |
 
 # Contribute and Discover
 

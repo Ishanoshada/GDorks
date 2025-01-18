@@ -1,6 +1,6 @@
 # GDorks: Uncover the Hidden Gems of the Internet 🌐
 
-![Language](https://img.shields.io/badge/language-txt-orange)
+![Language](https://img.shields.io/badge/language-txt-orange) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub Repo Size](https://img.shields.io/github/repo-size/Ishanoshada/Gdorks) ![GitHub Issues](https://img.shields.io/github/issues/Ishanoshada/Gdorks) ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Ishanoshada/Gdorks) ![GitHub Contributors](https://img.shields.io/github/contributors/Ishanoshada/Gdorks) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ishanoshada/Gdorks) ![GitHub Forks](https://img.shields.io/github/forks/Ishanoshada/Gdorks?style=social) ![GitHub Stars](https://img.shields.io/github/stars/Ishanoshada/Gdorks?style=social) ![GitHub Watchers](https://img.shields.io/github/watchers/Ishanoshada/Gdorks?style=social)
 [![Dorks](https://img.shields.io/badge/Dorks-Discover%20the%20Internet-blue)](https://img.shields.io/)
 
 
@@ -100,6 +100,15 @@ Dive into the world of Google dorks with over 320+ categories and a whopping 3M+
   - dorks.txt,dorks.json,dorks2.txt,dorks3.txt,dorks-2023.txt,dork...
 
 ```
+
+
+## 🔍 Using GDorks Web Application
+
+1. **Live Demo**: Explore dorks easily with the [GDorks Web App](https://gdork-web.vercel.app/).
+2. **Select a Category**: The web app lets you choose from various categories like **CCTV**, **SQL Injection**, and more.
+3. **Get Random Dorks**: You can select how many dorks you want to retrieve from a particular category.
+
+For more details, visit the [GDorks Web GitHub Repo](https://github.com/Ishanoshada/GDorks-web).
 
 ## 💡 What are Google Dorks?
 

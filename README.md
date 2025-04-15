@@ -9,13 +9,13 @@ Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 ## Give us a ⭐️ if you find this project helpful!  
 
 If you like this project, please consider giving it a star ⭐️ on GitHub. Your support motivates me to keep improving it!  
-
+<!--
 <p align="center">
   <a href="https://buymeacoffee.com/ishanoshada">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
   </a>
 </p>
-
+-->
 <!--
 <h2 align="center"> ⭐️ My latest projects. Check it out!!!!  </a><br><br>
 <div align="center">

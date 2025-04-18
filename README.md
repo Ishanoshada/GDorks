@@ -592,7 +592,6 @@ For more questions, check our full [FAQ section](FAQ.md).
 
 > Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking!
 
-
 ## 🌟 Stargazers
 
 [![Stargazers repo roster for @ishanoshada/Py-Fortify](https://reporoster.com/stars/dark/ishanoshada/GDorks)](https://github.com/ishanoshada/GDorks/stargazers)  

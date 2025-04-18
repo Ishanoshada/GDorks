@@ -1,5 +1,6 @@
 # GDorks: Uncover the Hidden Gems of the Internet 🌐
 
+
 ![Language](https://img.shields.io/badge/language-txt-orange) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub Repo Size](https://img.shields.io/github/repo-size/Ishanoshada/Gdorks) ![GitHub Issues](https://img.shields.io/github/issues/Ishanoshada/Gdorks) ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Ishanoshada/Gdorks) ![GitHub Contributors](https://img.shields.io/github/contributors/Ishanoshada/Gdorks) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ishanoshada/Gdorks) ![GitHub Forks](https://img.shields.io/github/forks/Ishanoshada/Gdorks?style=social) ![GitHub Stars](https://img.shields.io/github/stars/Ishanoshada/Gdorks?style=social) ![GitHub Watchers](https://img.shields.io/github/watchers/Ishanoshada/Gdorks?style=social)
 [![Dorks](https://img.shields.io/badge/Dorks-Discover%20the%20Internet-blue)](https://img.shields.io/)
 

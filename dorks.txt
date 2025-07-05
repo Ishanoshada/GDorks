@@ -35,6 +35,8 @@ inurl:"/api/v3" -github.com
 
 # Category: Sensitive Information
 intext:"-----BEGIN PRIVATE KEY-----" -github.com
+intext:"-----BEGIN RSA PRIVATE KEY-----" -github.com
+intext:"-----BEGIN EC PRIVATE KEY-----" -github.com
 intext:"client_secret" -github.com
 intext:"password" filetype:env -github.com
 intext:"apikey" filetype:env -github.com

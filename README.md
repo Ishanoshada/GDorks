@@ -12,8 +12,14 @@ Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
 If you like this project, please consider giving it a star ⭐️ on GitHub. Your support motivates me to keep improving it!  
 
 <p align="center">
-  <a href="https://buymeacoffee.com/ishanoshada">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
+  <a href="https://www.paypal.com/donate/?business=ic31908%40gmail.com&currency_code=USD">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" height="80">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.paypal.com/donate/?business=ic31908%40gmail.com&currency_code=USD">
+    <img src="https://raw.githubusercontent.com/elestyle/elepay-payment-logos/master/payment_logos/svg/paypal.svg" alt="Donate with PayPal" height="100">
   </a>
 </p>
 
